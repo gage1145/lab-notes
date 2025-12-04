@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77bcd45d7a8851d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "421a5ecf4d75218d",
+    "type": "split",
+    "children": [
+      {
+        "id": "fab6458f184c74d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d88195afb156ed50",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "219edcfc8fadbf85",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "43e8cc416be6eb92",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5a066b9f626cd31c",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb73f762538543ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc2cf82d63fd51e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Z_Templates/Handlebars/Sample.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Sample"
+            }
+          },
+          {
+            "id": "5f8310820a3e6477",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Home"
+            }
+          },
+          {
+            "id": "720864d33ce62c7c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d8c7a9f547768af5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Home"
+            }
+          },
+          {
+            "id": "4fe95f0cd01fecd0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "226d8284adfc53f9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 354.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5f8310820a3e6477",
+  "lastOpenFiles": [
+    "lab_notebook/Protocols/Tissue RT-QuIC.md",
+    "Z_Templates/New Protocol.md",
+    "asdf.md",
+    "fuck.md",
+    "lab_notebook/Protocols/fuck.md",
+    "lab_notebook/Projects/Untitled.md",
+    "lab_notebook/Protocols/Hello.md",
+    "lab_notebook/Projects/Fuck.md",
+    "lab_notebook/Projects/Hello.md",
+    "Z_Templates/New Project.md",
+    "Z_Templates/New Experiment.md",
+    "lab_notebook/Protocols/Soil Prion Extraction.md",
+    "lab_notebook/Experiments/2025-12-04 Soil Extraction.md",
+    "Home.md",
+    "lab_notebook/Projects/Beltrami PPE Swabs.md",
+    "lab_notebook/Projects/Soil Mass Spec.md",
+    "lab_notebook/Projects/USDA Validation.md",
+    "lab_notebook/Protocols",
+    "Z_Templates/Handlebars/Sample.md",
+    "Import Test",
+    "Samples.md",
+    "Z_Templates/Handlebars",
+    "Untitled.base",
+    "Z_Templates/New Sample.md",
+    "lab_notebook/Samples",
+    "lab_notebook/Experiments",
+    "lab_notebook/Projects",
+    "Z_Templates",
+    "lab_notebook/PROJ - USDA Validation",
+    "lab_notebook/PROJ - Soil Mass Spec"
+  ]
+}
