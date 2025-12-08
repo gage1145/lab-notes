@@ -4,5 +4,7 @@
   "homepage",
   "obsidian-import-json",
   "table-editor-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "calendar",
+  "obsidian-linter"
 ]

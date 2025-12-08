@@ -8,18 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "77bcd45d7a8851d0",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": false
+                "file": "lab_notebook/Protocols/Untitled.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Untitled"
             }
           }
         ]
@@ -114,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Z_Templates/New Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from New Project"
             }
           },
           {
@@ -143,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "Z_Templates/New Project.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of New Project"
             }
           },
           {
@@ -158,8 +157,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -171,13 +170,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "64cd6eead8fe2df2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 354.5
+    "width": 402.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,37 +204,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f8310820a3e6477",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "lab_notebook/Protocols/Tissue RT-QuIC.md",
     "Z_Templates/New Protocol.md",
-    "asdf.md",
-    "fuck.md",
-    "lab_notebook/Protocols/fuck.md",
-    "lab_notebook/Projects/Untitled.md",
-    "lab_notebook/Protocols/Hello.md",
-    "lab_notebook/Projects/Fuck.md",
-    "lab_notebook/Projects/Hello.md",
+    "lab_notebook/Protocols/Untitled.md",
+    "lab_notebook/Protocols/Untitled 2.md",
+    "lab_notebook/Protocols/Untitled 1.md",
+    "lab_notebook/Protocols/gah;i.md",
     "Z_Templates/New Project.md",
+    "lab_notebook/Protocols/Spiking Soil with Prions.md",
     "Z_Templates/New Experiment.md",
+    "lab_notebook/Protocols/asdf.md",
+    "lab_notebook/Protocols/afds.md",
+    "lab_notebook/Experiments/2025-12-08 Soil Partitioning.md",
+    "lab_notebook/Experiments/2025-12-08 Fuck.md",
+    "lab_notebook/Experiments/2025-12-08 fuck.md",
     "lab_notebook/Protocols/Soil Prion Extraction.md",
     "lab_notebook/Experiments/2025-12-04 Soil Extraction.md",
-    "Home.md",
+    "lab_notebook/Projects/USDA Validation.md",
+    "lab_notebook/Projects/Synthetic RT-QuIC Seed.md",
     "lab_notebook/Projects/Beltrami PPE Swabs.md",
     "lab_notebook/Projects/Soil Mass Spec.md",
-    "lab_notebook/Projects/USDA Validation.md",
-    "lab_notebook/Protocols",
-    "Z_Templates/Handlebars/Sample.md",
-    "Import Test",
-    "Samples.md",
-    "Z_Templates/Handlebars",
-    "Untitled.base",
-    "Z_Templates/New Sample.md",
-    "lab_notebook/Samples",
-    "lab_notebook/Experiments",
-    "lab_notebook/Projects",
-    "Z_Templates",
-    "lab_notebook/PROJ - USDA Validation",
-    "lab_notebook/PROJ - Soil Mass Spec"
+    "Untitled",
+    "exports/USDA_Validation/USDA_Validation_quarto.qmd",
+    "exports/USDA_Validation",
+    "exports",
+    "Data/USDA Validation/data/serum-plasma/summary.csv",
+    "Data/USDA Validation/data/serum-plasma/raw.csv",
+    "Data/USDA Validation/data/serum-plasma/calcs.csv",
+    "Data/USDA Validation/data/serum-plasma",
+    "Data/USDA Validation/data/oral-swabs/summary.csv",
+    "Data/USDA Validation/data/oral-swabs/raw.csv",
+    "Home.md",
+    "2025-12-04 ao;ief.md",
+    "2025-12-04a;soif.md",
+    "adsf.md",
+    "fuck.md",
+    "Pussy.md",
+    "lab_notebook/Protocols/Tissue RT-QuIC.md"
   ]
 }

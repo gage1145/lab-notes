@@ -2,7 +2,7 @@
 name: Soil Mass Spec
 author: Gage Rowden
 date created: 20205-12-04
-tags: project
+tags: [project]
 abbreviation: SMS
 status: active
 start: 2025-12-04
@@ -12,8 +12,11 @@ funding agency:
 funding code:
 title:
 ---
-# Experiments
+
+## Overview
+
+## Experiments
 
 ```dataview
-LIST file.inlinks FROM "lab_notebook/Experiments"
+TABLE protocols FROM #experiment WHERE project = this.project.name
 ```

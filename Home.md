@@ -1,18 +1,16 @@
 
->[!Projects]+
-># Active
+> [!Projects]+
+> # Active
 >```dataview
 >LIST FROM "lab_notebook/Projects" WHERE status = "active"
 >```
-># Completed
+> # Completed
 >```dataview
 >LIST FROM "lab_notebook/Projects" WHERE status = "completed"
 >```
 
->[!Experiments]+
-># In-Progress
+> [!Experiments]+
+> # In-Progress
 >```dataview
->LIST FROM "lab_notebook/Experiments"
+>TABLE project, protocols FROM "lab_notebook/Experiments"
 >```
-
-

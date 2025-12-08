@@ -1,12 +1,12 @@
 ---
 name: Soil Prion Extraction
-authors: 
+authors:
   - Maddie Grunklee
   - Gage Rowden
 date created: 2025-12-04
-tags:
-  - protocol
+tags: [protocol]
 ---
+
 ## Equipment
 - Tube rotator
 - Refrigerated tabletop centrifuge

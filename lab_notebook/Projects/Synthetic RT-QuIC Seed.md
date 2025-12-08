@@ -1,16 +1,15 @@
 ---
-name: Beltrami PPE Swabs
+name: Synthetic RT-QuIC Seed
 author: Gage Rowden
-date created: 20205-12-04
+date created: 2025-12-08
 tags: [project]
 abbreviation: GR
 status: active
-start: 2025-12-04
+start: 2025-12-08
 end:
 duration: 3 years
 funding agency:
 funding code:
-title:
 ---
 
 ## Overview
@@ -18,6 +17,5 @@ title:
 ## Experiments
 
 ```dataview
-LIST
-FROM #experiment WHERE project = this.project.name
+TABLE protocols FROM #experiment WHERE project = this.project.name
 ```

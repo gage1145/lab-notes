@@ -1,5 +1,14 @@
+<%*
+const title = tp.file.title;
+let newTitle;
+if (title.startsWith("Untitled")) {
+		newTitle = await tp.system.prompt("Enter note title");
+		// You can split the newTitle here and save it in another variable or variables
+		await tp.file.rename(newTitle);
+}
+-%>
 ---
-name: <% tp.file.title %>
+name: <% newTitle %>
 author: Gage Rowden
 date created: <% tp.date.now("YYYY-MM-DD") %>
 tags: project
@@ -8,12 +17,13 @@ status: active
 start: <% tp.date.now("YYYY-MM-DD") %>
 end:
 duration: 3 years
-funding agency: 
-funding code: 
+funding agency:
+funding code:
 ---
-# Experiments
+## Overview
+
+## Experiments
 
 ```dataview
-LIST
-FROM #experiment WHERE project = this.project.name
+TABLE protocols FROM #experiment WHERE project = this.project.name
 ```
