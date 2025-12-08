@@ -15,12 +15,12 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "lab_notebook/Projects",
-      "template": "Z_Templates/New Project.md"
-    },
-    {
       "folder": "lab_notebook/Experiments",
       "template": "Z_Templates/New Experiment.md"
+    },
+    {
+      "folder": "lab_notebook/Projects",
+      "template": "Z_Templates/New Project.md"
     },
     {
       "folder": "lab_notebook/Protocols",

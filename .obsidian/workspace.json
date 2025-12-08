@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lab_notebook/Protocols/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "lab_notebook/Experiments/2025-12-08 Spiking Soil for Mass Spec.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "2025-12-08 Spiking Soil for Mass Spec"
             }
           }
         ]
@@ -170,16 +170,6 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "64cd6eead8fe2df2",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
           }
         ],
         "currentTab": 5
@@ -206,25 +196,29 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Z_Templates/New Protocol.md",
-    "lab_notebook/Protocols/Untitled.md",
-    "lab_notebook/Protocols/Untitled 2.md",
-    "lab_notebook/Protocols/Untitled 1.md",
-    "lab_notebook/Protocols/gah;i.md",
-    "Z_Templates/New Project.md",
-    "lab_notebook/Protocols/Spiking Soil with Prions.md",
+    "lab_notebook/Projects/Soil Mass Spec.md",
+    "lab_notebook/Experiments/2025-12-08 Spiking Soil for Mass Spec.md",
+    "lab_notebook/Experiments/Untitled 1.md",
+    "lab_notebook/Experiments/Untitled.md",
     "Z_Templates/New Experiment.md",
+    "lab_notebook/Experiments/2025-12-08 shit.md",
+    "Z_Templates/New Protocol.md",
+    "lab_notebook/Experiments/2025-12-08 fuck.md",
+    "lab_notebook/Experiments/2025-12-08 Soil Partitioning.md",
+    "lab_notebook/Protocols/Spiking Soil with Prions.md",
+    "Z_Templates/New Project.md",
+    "lab_notebook/Protocols/Spiking.md",
+    "lab_notebook/Protocols/Untitled 1.md",
+    "lab_notebook/Protocols/v.md",
+    "lab_notebook/Protocols/gah;i.md",
     "lab_notebook/Protocols/asdf.md",
     "lab_notebook/Protocols/afds.md",
-    "lab_notebook/Experiments/2025-12-08 Soil Partitioning.md",
     "lab_notebook/Experiments/2025-12-08 Fuck.md",
-    "lab_notebook/Experiments/2025-12-08 fuck.md",
     "lab_notebook/Protocols/Soil Prion Extraction.md",
     "lab_notebook/Experiments/2025-12-04 Soil Extraction.md",
     "lab_notebook/Projects/USDA Validation.md",
     "lab_notebook/Projects/Synthetic RT-QuIC Seed.md",
     "lab_notebook/Projects/Beltrami PPE Swabs.md",
-    "lab_notebook/Projects/Soil Mass Spec.md",
     "Untitled",
     "exports/USDA_Validation/USDA_Validation_quarto.qmd",
     "exports/USDA_Validation",
@@ -235,12 +229,6 @@
     "Data/USDA Validation/data/serum-plasma",
     "Data/USDA Validation/data/oral-swabs/summary.csv",
     "Data/USDA Validation/data/oral-swabs/raw.csv",
-    "Home.md",
-    "2025-12-04 ao;ief.md",
-    "2025-12-04a;soif.md",
-    "adsf.md",
-    "fuck.md",
-    "Pussy.md",
-    "lab_notebook/Protocols/Tissue RT-QuIC.md"
+    "Home.md"
   ]
 }

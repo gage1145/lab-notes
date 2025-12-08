@@ -1,10 +1,9 @@
 [
   "dataview",
-  "templater-obsidian",
   "homepage",
   "obsidian-import-json",
   "table-editor-obsidian",
   "obsidian-git",
-  "calendar",
+  "templater-obsidian",
   "obsidian-linter"
 ]
