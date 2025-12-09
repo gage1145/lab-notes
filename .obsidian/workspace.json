@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MNPRO Lab Notebook/Projects/USDA Validation.md",
+                "file": "Z_Templates/New Project.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "USDA Validation"
+              "title": "New Project"
             }
           }
         ]
@@ -196,6 +196,7 @@
   },
   "active": "8ea54665d8174cb9",
   "lastOpenFiles": [
+    "MNPRO Lab Notebook/Projects/USDA Validation.md",
     "MNPRO Lab Notebook/Projects/Synthetic RT-QuIC Seed.md",
     "MNPRO Lab Notebook/Projects/Beltrami PPE Swabs.md",
     "MNPRO Lab Notebook/Projects/Soil Mass Spec.md",
@@ -212,7 +213,6 @@
     "Priogen Lab Notebook/Experiments",
     "Priogen Lab Notebook",
     "Home.md",
-    "MNPRO Lab Notebook/Projects/USDA Validation.md",
     "Z_Templates/New Experiment.md",
     "MNPRO Lab Notebook/Protocols/Soil Prion Extraction.md",
     "MNPRO Lab Notebook/Protocols/Spiking Soil with Prions.md",
