@@ -15,15 +15,27 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "lab_notebook/Experiments",
+      "folder": "MNPRO Lab Notebook/Experiments",
       "template": "Z_Templates/New Experiment.md"
     },
     {
-      "folder": "lab_notebook/Projects",
+      "folder": "MNPRO Lab Notebook/Projects",
       "template": "Z_Templates/New Project.md"
     },
     {
-      "folder": "lab_notebook/Protocols",
+      "folder": "MNPRO Lab Notebook/Protocols",
+      "template": "Z_Templates/New Protocol.md"
+    },
+    {
+      "folder": "Priogen Lab Notebook/Experiments",
+      "template": "Z_Templates/New Experiment.md"
+    },
+    {
+      "folder": "Priogen Lab Notebook/Projects",
+      "template": "Z_Templates/New Project.md"
+    },
+    {
+      "folder": "Priogen Lab Notebook/Protocols",
       "template": "Z_Templates/New Protocol.md"
     }
   ],

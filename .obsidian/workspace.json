@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "aff1ee686c25d70e",
+        "id": "be3b91fa9a04cb8c",
         "type": "tabs",
         "children": [
           {
-            "id": "014a895932be875f",
+            "id": "8ea54665d8174cb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
+                "file": "MNPRO Lab Notebook/Projects/USDA Validation.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "USDA Validation"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 200
   },
   "right": {
     "id": "5a066b9f626cd31c",
@@ -176,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 253.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,18 +194,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "226d8284adfc53f9",
+  "active": "8ea54665d8174cb9",
   "lastOpenFiles": [
-    "lab_notebook/Projects/Beltrami PPE Swabs.md",
+    "MNPRO Lab Notebook/Projects/Synthetic RT-QuIC Seed.md",
+    "MNPRO Lab Notebook/Projects/Beltrami PPE Swabs.md",
+    "MNPRO Lab Notebook/Projects/Soil Mass Spec.md",
+    "MNPRO Lab Notebook/Experiments/2025-12-08 Spiking Soil for Mass Spec.md",
+    "MNPRO Lab Notebook/Experiments/2025-12-09 Sub-Sampling Soil for Mass Spec.md",
+    "Priogen Lab Notebook/Protocols/Test Protocol.md",
+    "Priogen Lab Notebook/Projects/Test Project.md",
+    "Priogen Lab Notebook/Orders/Test Order.md",
+    "Priogen Lab Notebook/Experiments/2025-12-09.md",
+    "Untitled.md",
+    "Priogen Lab Notebook/Protocols",
+    "Priogen Lab Notebook/Orders",
+    "Priogen Lab Notebook/Projects",
+    "Priogen Lab Notebook/Experiments",
+    "Priogen Lab Notebook",
     "Home.md",
-    "lab_notebook/Projects/Soil Mass Spec.md",
-    "lab_notebook/Projects/Synthetic RT-QuIC Seed.md",
-    "lab_notebook/Projects/USDA Validation.md",
-    "lab_notebook/Experiments/2025-12-08 Spiking Soil for Mass Spec.md",
-    "lab_notebook/Experiments/2025-12-09 Sub-Sampling Soil for Mass Spec.md",
+    "MNPRO Lab Notebook/Projects/USDA Validation.md",
     "Z_Templates/New Experiment.md",
-    "lab_notebook/Protocols/Soil Prion Extraction.md",
-    "lab_notebook/Protocols/Spiking Soil with Prions.md",
+    "MNPRO Lab Notebook/Protocols/Soil Prion Extraction.md",
+    "MNPRO Lab Notebook/Protocols/Spiking Soil with Prions.md",
     "lab_notebook/Experiments/2025-12-09 age.md",
     "lab_notebook/Experiments/awg.md",
     "lab_notebook/Experiments/2025-12-09 safd.md",
@@ -217,20 +227,10 @@
     "lab_notebook/Experiments/2025-12-09 sdf.md",
     "lab_notebook/Experiments/2025-12-09 faer.md",
     "lab_notebook/Experiments/2025-12-09 fag.md",
-    "lab_notebook/Experiments/2025-12-09 pussy.md",
-    "lab_notebook/Experiments/2025-12-09 afg.md",
-    "lab_notebook/Experiments/2025-12-09 a sd.md",
-    "lab_notebook/Experiments/Untitled 1.md",
-    "lab_notebook/Experiments/2025-12-09 new experiment.md",
     "Samples",
     "exports/USDA_Validation/USDA_Validation_quarto.qmd",
     "exports/USDA_Validation",
     "exports",
-    "Data/USDA Validation/data/serum-plasma/summary.csv",
-    "Data/USDA Validation/data/serum-plasma/raw.csv",
-    "Data/USDA Validation/data/serum-plasma/calcs.csv",
-    "Data/USDA Validation/data/serum-plasma",
-    "Data/USDA Validation/data/oral-swabs/summary.csv",
-    "Data/USDA Validation/data/oral-swabs/raw.csv"
+    "Data/USDA Validation/data/serum-plasma/summary.csv"
   ]
 }

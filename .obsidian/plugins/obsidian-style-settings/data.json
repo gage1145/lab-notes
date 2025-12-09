@@ -18,7 +18,7 @@
   "minimal-style@@graph-line@@dark": "#5CEF88",
   "minimal-style@@maximize-tables-off": "maximize-tables-off",
   "minimal-style@@col-lines": true,
-  "minimal-style@@row-lines": false,
+  "minimal-style@@row-lines": true,
   "minimal-style@@row-alt": true,
   "minimal-style@@table-row-background-hover@@dark": "#153920",
   "minimal-style@@list-spacing": 0,
@@ -52,5 +52,7 @@
   "minimal-style@@table-text-size": "1em",
   "minimal-style@@table-column-max-width": "20ch",
   "minimal-style@@ax3@@dark": "#2A7340",
-  "minimal-style@@sp1@@dark": "#5CEF88"
+  "minimal-style@@sp1@@dark": "#5CEF88",
+  "minimal-style@@col-alt": false,
+  "minimal-style@@table-lines": true
 }

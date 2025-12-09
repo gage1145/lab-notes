@@ -1,7 +1,7 @@
 ---
 name: USDA Validation
 author: Gage Rowden
-date created: 20205-12-04
+date created: 2025-12-04
 tags: [project]
 abbreviation: UV
 status: in-progress
@@ -21,8 +21,10 @@ FROM #sample WHERE project = this.name
 ## Experiments
 
 ```dataview
-LIST
-FROM #experiment WHERE project = this.name
+TABLE WITHOUT ID
+file.name AS Experiment,
+protocols AS Protocols
+FROM #experiment WHERE project = this.file.link
 ```
 
 ## Meetings

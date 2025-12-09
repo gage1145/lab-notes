@@ -1,16 +1,15 @@
 ---
-name: Soil Mass Spec
+name: Test Project
 author: Gage Rowden
-date created: 20205-12-04
+date created: 2025-12-09
 tags: [project]
-abbreviation: SMS
-status: in-progress
-start: 2025-12-04
+abbreviation: GR
+status: active
+start: 2025-12-09
 end:
 duration: 3 years
 funding agency:
 funding code:
-title:
 ---
 
 ## Overview

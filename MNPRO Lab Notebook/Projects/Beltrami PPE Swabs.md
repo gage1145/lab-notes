@@ -18,6 +18,8 @@ title:
 ## Experiments
 
 ```dataview
-LIST
-FROM #experiment WHERE project = this.project.name
+TABLE WITHOUT ID
+file.name AS Experiment,
+protocols AS Protocols
+FROM #experiment WHERE project = this.file.link
 ```
