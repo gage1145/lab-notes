@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "aff1ee686c25d70e",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "014a895932be875f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lab_notebook/Experiments/2025-12-08 Spiking Soil for Mass Spec.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-12-08 Spiking Soil for Mass Spec"
+              "title": "Home"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 271.5
   },
   "right": {
     "id": "5a066b9f626cd31c",
@@ -157,8 +157,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -194,32 +194,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "226d8284adfc53f9",
   "lastOpenFiles": [
-    "lab_notebook/Projects/Soil Mass Spec.md",
-    "lab_notebook/Experiments/2025-12-08 Spiking Soil for Mass Spec.md",
-    "lab_notebook/Experiments/Untitled 1.md",
-    "lab_notebook/Experiments/Untitled.md",
-    "Z_Templates/New Experiment.md",
-    "lab_notebook/Experiments/2025-12-08 shit.md",
-    "Z_Templates/New Protocol.md",
-    "lab_notebook/Experiments/2025-12-08 fuck.md",
-    "lab_notebook/Experiments/2025-12-08 Soil Partitioning.md",
-    "lab_notebook/Protocols/Spiking Soil with Prions.md",
-    "Z_Templates/New Project.md",
-    "lab_notebook/Protocols/Spiking.md",
-    "lab_notebook/Protocols/Untitled 1.md",
-    "lab_notebook/Protocols/v.md",
-    "lab_notebook/Protocols/gah;i.md",
-    "lab_notebook/Protocols/asdf.md",
-    "lab_notebook/Protocols/afds.md",
-    "lab_notebook/Experiments/2025-12-08 Fuck.md",
-    "lab_notebook/Protocols/Soil Prion Extraction.md",
-    "lab_notebook/Experiments/2025-12-04 Soil Extraction.md",
-    "lab_notebook/Projects/USDA Validation.md",
-    "lab_notebook/Projects/Synthetic RT-QuIC Seed.md",
     "lab_notebook/Projects/Beltrami PPE Swabs.md",
-    "Untitled",
+    "Home.md",
+    "lab_notebook/Projects/Soil Mass Spec.md",
+    "lab_notebook/Projects/Synthetic RT-QuIC Seed.md",
+    "lab_notebook/Projects/USDA Validation.md",
+    "lab_notebook/Experiments/2025-12-08 Spiking Soil for Mass Spec.md",
+    "lab_notebook/Experiments/2025-12-09 Sub-Sampling Soil for Mass Spec.md",
+    "Z_Templates/New Experiment.md",
+    "lab_notebook/Protocols/Soil Prion Extraction.md",
+    "lab_notebook/Protocols/Spiking Soil with Prions.md",
+    "lab_notebook/Experiments/2025-12-09 age.md",
+    "lab_notebook/Experiments/awg.md",
+    "lab_notebook/Experiments/2025-12-09 safd.md",
+    "lab_notebook/Experiments/2025-12-09 sfda.md",
+    "lab_notebook/Experiments/2025-12-09 af.md",
+    "lab_notebook/Experiments/2025-12-09 fuck.md",
+    "lab_notebook/Experiments/2025-12-09 afeg.md",
+    "lab_notebook/Experiments/2025-12-09 faegh.md",
+    "lab_notebook/Experiments/2025-12-09 sdf.md",
+    "lab_notebook/Experiments/2025-12-09 faer.md",
+    "lab_notebook/Experiments/2025-12-09 fag.md",
+    "lab_notebook/Experiments/2025-12-09 pussy.md",
+    "lab_notebook/Experiments/2025-12-09 afg.md",
+    "lab_notebook/Experiments/2025-12-09 a sd.md",
+    "lab_notebook/Experiments/Untitled 1.md",
+    "lab_notebook/Experiments/2025-12-09 new experiment.md",
+    "Samples",
     "exports/USDA_Validation/USDA_Validation_quarto.qmd",
     "exports/USDA_Validation",
     "exports",
@@ -228,7 +231,6 @@
     "Data/USDA Validation/data/serum-plasma/calcs.csv",
     "Data/USDA Validation/data/serum-plasma",
     "Data/USDA Validation/data/oral-swabs/summary.csv",
-    "Data/USDA Validation/data/oral-swabs/raw.csv",
-    "Home.md"
+    "Data/USDA Validation/data/oral-swabs/raw.csv"
   ]
 }

@@ -11,21 +11,21 @@
       "query": "path:lab_notebook/Experiments  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16711680
       }
     },
     {
       "query": "path:lab_notebook/Projects  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 13893887
       }
     },
     {
       "query": "path:lab_notebook/Protocols  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 11206400
       }
     }
   ],

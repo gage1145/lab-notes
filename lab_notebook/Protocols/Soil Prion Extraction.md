@@ -11,7 +11,7 @@ tags: [protocol]
 - Tube rotator
 - Refrigerated tabletop centrifuge
 ## Consumables
-- Soil sample
+- 500mg soil sample
 - MSB buffer
 	- 0.6mM myristyl sulfobetaine
 	- 75.4mM dibasic sodium phosphate

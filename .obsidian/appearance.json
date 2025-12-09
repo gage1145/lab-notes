@@ -1,1 +1,9 @@
-{}
+{
+  "enabledCssSnippets": [
+    "courier_font",
+    "dataview",
+    "MCL Multi Column",
+    "line-width"
+  ],
+  "cssTheme": "Minimal"
+}

@@ -1,0 +1,30 @@
+:root {
+    --primary-font: 'Courier Prime Code', 'Courier New', monospace !important
+}
+
+/* For Editor & Preview */
+.view-content {
+    font-family: var(--primary-font);
+}
+/* For Source Mode (Live Preview or Source) */
+.markdown-source-view.mod-cm6 .cm-scroller {
+    font-family: var(--primary-font);
+}
+/* For Preview Mode */
+.markdown-preview-view {
+    font-family: var(--primary-font);
+}
+
+.cm-hmd-frontmatter {
+    font-size: 5;
+    font-family: var(--primary-font);
+}
+
+.nav-file-title, .nav-folder-title {
+    font-size: 12px;
+    font-family: var(--primary-font);
+}
+
+.workspace-tab-header-inner {
+    font-family: var(--primary-font);
+}

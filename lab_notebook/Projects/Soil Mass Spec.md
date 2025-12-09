@@ -4,7 +4,7 @@ author: Gage Rowden
 date created: 20205-12-04
 tags: [project]
 abbreviation: SMS
-status: active
+status: in-progress
 start: 2025-12-04
 end:
 duration: 3 years

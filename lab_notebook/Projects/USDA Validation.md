@@ -3,8 +3,8 @@ name: USDA Validation
 author: Gage Rowden
 date created: 20205-12-04
 tags: [project]
-abbreviation: NP
-status: active
+abbreviation: UV
+status: in-progress
 start: 2025-12-04
 end:
 ---

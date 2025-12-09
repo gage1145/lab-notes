@@ -5,5 +5,8 @@
   "table-editor-obsidian",
   "obsidian-git",
   "templater-obsidian",
-  "obsidian-linter"
+  "obsidian-linter",
+  "obsidian-style-settings",
+  "obsidian-tasks-plugin",
+  "obsidian-minimal-settings"
 ]

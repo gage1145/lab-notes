@@ -118,8 +118,8 @@
       "extra-auto-correct-files": []
     },
     "blockquote-style": {
-      "enabled": true,
-      "style": "space"
+      "enabled": false,
+      "style": "no space"
     },
     "convert-bullet-list-markers": {
       "enabled": true
@@ -187,7 +187,7 @@
       "tabsize": "2"
     },
     "empty-line-around-blockquotes": {
-      "enabled": true
+      "enabled": false
     },
     "empty-line-around-code-fences": {
       "enabled": true
@@ -196,7 +196,7 @@
       "enabled": false
     },
     "empty-line-around-math-blocks": {
-      "enabled": true
+      "enabled": false
     },
     "empty-line-around-tables": {
       "enabled": true
@@ -277,7 +277,13 @@
   "displayLintOnFileChangeNotice": true,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [],
-  "filesToIgnore": [],
+  "filesToIgnore": [
+    {
+      "label": "Templates",
+      "match": "Z_Templates",
+      "flags": "i"
+    }
+  ],
   "linterLocale": "system-default",
   "logLevel": "ERROR",
   "lintCommands": [],

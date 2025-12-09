@@ -3,8 +3,8 @@ name: Synthetic RT-QuIC Seed
 author: Gage Rowden
 date created: 2025-12-08
 tags: [project]
-abbreviation: GR
-status: active
+abbreviation: SRS
+status: in-progress
 start: 2025-12-08
 end:
 duration: 3 years
