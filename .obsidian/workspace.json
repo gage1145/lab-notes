@@ -11,14 +11,10 @@
             "id": "8ea54665d8174cb9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z_Templates/New Project.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "New Project"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -187,15 +183,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
       "obsidian-import-json:JSON/CSV Importer": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "8ea54665d8174cb9",
   "lastOpenFiles": [
+    "Priogen Lab Notebook/Experiments/20251210_pr2_GR_brain-brainSwabs.md",
+    "Priogen Lab Notebook/Experiments/20251210_pr1_GR_muscle-LN-BR.md",
+    "Priogen Lab Notebook/Projects/Diagnostics.md",
+    "Z_Templates/96-Well Template.md",
+    "Priogen Lab Notebook/Experiments",
+    "Z_Templates/New Project.md",
     "MNPRO Lab Notebook/Projects/USDA Validation.md",
     "MNPRO Lab Notebook/Projects/Synthetic RT-QuIC Seed.md",
     "MNPRO Lab Notebook/Projects/Beltrami PPE Swabs.md",
@@ -222,15 +224,9 @@
     "lab_notebook/Experiments/2025-12-09 sfda.md",
     "lab_notebook/Experiments/2025-12-09 af.md",
     "lab_notebook/Experiments/2025-12-09 fuck.md",
-    "lab_notebook/Experiments/2025-12-09 afeg.md",
-    "lab_notebook/Experiments/2025-12-09 faegh.md",
-    "lab_notebook/Experiments/2025-12-09 sdf.md",
-    "lab_notebook/Experiments/2025-12-09 faer.md",
-    "lab_notebook/Experiments/2025-12-09 fag.md",
     "Samples",
     "exports/USDA_Validation/USDA_Validation_quarto.qmd",
     "exports/USDA_Validation",
-    "exports",
-    "Data/USDA Validation/data/serum-plasma/summary.csv"
+    "exports"
   ]
 }

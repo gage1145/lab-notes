@@ -1,13 +1,4 @@
 {
-  "insert-template": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "T"
-    }
-  ],
   "workspace:split-vertical": [
     {
       "modifiers": [
@@ -22,6 +13,15 @@
         "Mod"
       ],
       "key": "ArrowDown"
+    }
+  ],
+  "templater-obsidian:insert-templater": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
     }
   ]
 }
