@@ -3,11 +3,11 @@
 >># Projects
 >>## In-Progress
 >>```dataview
->>LIST FROM "lab_notebook/Projects" WHERE status = "in-progress"
+>>LIST FROM #project WHERE status = "in-progress"
 >>```
 >>## Completed
 >>```dataview
->>LIST FROM "lab_notebook/Projects" WHERE status = "completed"
+>>LIST FROM #project WHERE status = "completed"
 >>```
 >
 >># Experiments
@@ -18,7 +18,7 @@
 >>project AS Project, 
 >>start_date AS Date, 
 >>protocols AS Protocols 
->>FROM "lab_notebook/Experiments"
+>>FROM #experiment 
 >>WHERE status = "in-progress"
 >>```
 >>## Completed
@@ -28,6 +28,6 @@
 >>project AS Project, 
 >>start_date AS Date, 
 >>protocols AS Protocols 
->>FROM "lab_notebook/Experiments"
+>>FROM #experiment 
 >>WHERE status = "completed"
 >>```

@@ -11,10 +11,14 @@
             "id": "8ea54665d8174cb9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
             }
           }
         ]
@@ -192,6 +196,8 @@
   },
   "active": "8ea54665d8174cb9",
   "lastOpenFiles": [
+    "Priogen Lab Notebook/Experiments/2025-12-10 PrioVision Overheating Troubleshooting.md",
+    "Priogen Lab Notebook/Projects/PrioVision.md",
     "Priogen Lab Notebook/Experiments/20251210_pr2_GR_brain-brainSwabs.md",
     "Priogen Lab Notebook/Experiments/20251210_pr1_GR_muscle-LN-BR.md",
     "Priogen Lab Notebook/Projects/Diagnostics.md",
@@ -222,8 +228,6 @@
     "lab_notebook/Experiments/awg.md",
     "lab_notebook/Experiments/2025-12-09 safd.md",
     "lab_notebook/Experiments/2025-12-09 sfda.md",
-    "lab_notebook/Experiments/2025-12-09 af.md",
-    "lab_notebook/Experiments/2025-12-09 fuck.md",
     "Samples",
     "exports/USDA_Validation/USDA_Validation_quarto.qmd",
     "exports/USDA_Validation",
