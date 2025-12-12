@@ -26,3 +26,5 @@ protocols:
 |H  |N  |P_serum_pellet|P_serum_pellet|P_serum_sup|P_serum_sup|P_plasma_pellet|P_plasma_pellet|P_plasma_sup|P_plasma_sup|      |      |      |
 
 ## Results
+
+![[20250919_r6_GR_serum-plasma_RT-QuIC.png]]

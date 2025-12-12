@@ -26,3 +26,5 @@ protocols: "[[Oral Swab RT-QuIC]]"
 | H   | N   | S-2077 | S-2078 | S-2093 |        |        |        |        |        |        |        |        |
 
 ## Results
+
+![[20251205_r1_SG_USDA-oral-swabs_RT-QuIC.png]]

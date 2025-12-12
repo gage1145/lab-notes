@@ -29,6 +29,7 @@ TABLE WITHOUT ID
 file.link AS Experiment,
 project AS Project, 
 start_date AS Date, 
+project.association AS Association,
 protocols AS Protocols 
 FROM #experiment 
 WHERE status = "in-progress"
@@ -42,6 +43,7 @@ TABLE WITHOUT ID
 file.link AS Experiment,
 project AS Project, 
 start_date AS Date, 
+project.association AS Association,
 protocols AS Protocols 
 FROM #experiment 
 WHERE status = "completed"

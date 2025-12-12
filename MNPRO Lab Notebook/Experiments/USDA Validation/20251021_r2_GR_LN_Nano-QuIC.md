@@ -27,3 +27,5 @@ protocols:
 |H  |N  |B-146_RPLN_2|1901_RPLN_2|1904_RPLN_2|      |      |      |      |      |      |      |      |
 
 ## Results
+
+![[20251021_r2_GR_LN_Nano-QuIC.png]]

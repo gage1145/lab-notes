@@ -11,13 +11,32 @@
             "id": "7786ebbe549b1c4f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "MNPRO Lab Notebook/Experiments/USDA Validation/20250919_r14_GR_serum-plasma_Nano-QuIC.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "20250919_r14_GR_serum-plasma_Nano-QuIC"
+            }
+          },
+          {
+            "id": "ba1b0b1e734b5531",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MNPRO Lab Notebook/Projects/USDA Validation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "USDA Validation"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 200
   },
   "right": {
     "id": "5a066b9f626cd31c",
@@ -172,10 +191,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -184,40 +204,50 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false,
       "obsidian-import-json:JSON/CSV Importer": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d88195afb156ed50",
+  "active": "ba1b0b1e734b5531",
   "lastOpenFiles": [
+    "MNPRO Lab Notebook/Figures/USDA Validation/20250714_r4_GR_USDA-LNs_RT-QuIC.png",
+    "MNPRO Lab Notebook/Projects/USDA Validation.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20250919_r14_GR_serum-plasma_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20250903_r4_GR_USDA-oral-swabs_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20250714_r2_GR_USDA-LNs_RT-QuIC.md",
+    "MNPRO Lab Notebook/Figures/USDA Validation/20250919_r14_GR_serum-plasma_Nano-QuIC.png",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20250919_r6_GR_serum-plasma_RT-QuIC.md",
+    "MNPRO Lab Notebook/Figures/USDA Validation/20250919_r6_GR_serum-plasma_RT-QuIC.png",
     "MNPRO Lab Notebook/Experiments/USDA Validation/20251205_r2_SG_USDA-oral-swabs_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Figures/USDA Validation/20251205_r2_SG_USDA-oral-swabs_Nano-QuIC.png",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20251205_r1_SG_USDA-oral-swabs_RT-QuIC.md",
+    "MNPRO Lab Notebook/Figures/USDA Validation/20251205_r1_SG_USDA-oral-swabs_RT-QuIC.png",
     "MNPRO Lab Notebook/Experiments/USDA Validation/20251203_r4_SG_USDA-oral-swabs_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Figures/USDA Validation/20251203_r4_SG_USDA-oral-swabs_Nano-QuIC.png",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20251203_r3_SG_USDA-oral-swabs_RT-QuIC.md",
+    "MNPRO Lab Notebook/Figures/USDA Validation/20251203_r3_SG_USDA-oral-swabs_RT-QuIC.png",
     "MNPRO Lab Notebook/Experiments/USDA Validation/20251126_r6_SG_USDA-oral-swabs_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Figures/USDA Validation/20251126_r6_SG_USDA-oral-swabs_Nano-QuIC.png",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20251126_r5_SG_USDA-oral-swabs_RT-QuIC.md",
+    "MNPRO Lab Notebook/Figures/USDA Validation/20251126_r5_SG_USDA-oral-swabs_RT-QuIC.png",
     "MNPRO Lab Notebook/Experiments/USDA Validation/20251125_r14_GR_USDA-oral-swabs_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Figures/USDA Validation/20251125_r14_GR_USDA-oral-swabs_Nano-QuIC.png",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20251125_r12_GR_USDA-oral-swabs_RT-QuIC.md",
     "MNPRO Lab Notebook/Experiments/USDA Validation/20251124_r4_SG_USDA-oral-swabs_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20251124_r3_SG_USDA-oral-swabs_RT-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20251120_r14_SG_USDA-oral-swabs_RT-QuIC.md",
     "MNPRO Lab Notebook/Experiments/USDA Validation/20251120_r12_SG_USDA-oral-swabs_Nano-QuIC.md",
     "MNPRO Lab Notebook/Experiments/USDA Validation/20251028_r14_GR_USDA-oral-swabs_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20251028_r12_GR_USDA-oral-swabs_RT-QuIC.md",
     "MNPRO Lab Notebook/Experiments/USDA Validation/20251024_r11_GR_USDA-oral-swabs_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20251024_r10_GR_USDA-oral-swabs_RT-QuIC.md",
     "MNPRO Lab Notebook/Experiments/USDA Validation/20251021_r14_GR_USDA-oral-swabs_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20251021_r12_GR_USDA-oral-swabs_RT-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20251010_r3_GR_LN-obex_RT-QuIC.md",
     "MNPRO Lab Notebook/Experiments/USDA Validation/20251008_r14_GR_USDA-oral-swabs_Nano-QuIC.md",
-    "MNPRO Lab Notebook/Experiments/USDA Validation/20251008_r2_GR_USDA-oral-swabs_Nano-QuIC.md",
-    "MNPRO Lab Notebook/Experiments/USDA Validation/20251001_r14_GR_USDA-oral-swabs_Nano-QuIC.md",
-    "MNPRO Lab Notebook/Experiments/USDA Validation/20251001_r4_GR_USDA-oral-swabs_Nano-QuIC.md",
-    "MNPRO Lab Notebook/Experiments/USDA Validation/20250923_r14_GR_USDA-oral-swabs_Nano-QuIC.md",
-    "MNPRO Lab Notebook/Experiments/USDA Validation/20250923_r6_GR_USDA-oral-swabs_Nano-QuIC.md",
-    "MNPRO Lab Notebook/Experiments/USDA Validation/20250923_r1_GR_USDA-oral-swabs_RT-QuIC.md",
-    "MNPRO Lab Notebook/Experiments/USDA Validation/20250919_r6_GR_serum-plasma_RT-QuIC.md",
-    "MNPRO Lab Notebook/Experiments/USDA Validation/20250919_r14_GR_serum-plasma_Nano-QuIC.md",
-    "MNPRO Lab Notebook/Experiments/USDA Validation/20250916_r7_GR_USDA-oral-swabs_Nano-QuIC.md",
-    "MNPRO Lab Notebook/Experiments/USDA Validation/20250912_r7_GR_USDA-oral-swabs_Nano-QuIC.md",
-    "MNPRO Lab Notebook/Experiments/USDA Validation/20250912_r2_GR_USDA-oral-swabs_Nano-QuIC.md",
-    "MNPRO Lab Notebook/Experiments/USDA Validation/20250903_r4_GR_USDA-oral-swabs_Nano-QuIC.md",
-    "MNPRO Lab Notebook/Experiments/USDA Validation/20250903_r2_GR_USDA-oral-swabs_Nano-QuIC.md",
-    "MNPRO Lab Notebook/Experiments/USDA Validation/20250821_r13_GR_USDA-oral-swabs_Nano-QuIC.md",
-    "MNPRO Lab Notebook/Experiments/USDA Validation/20250821_r2_GR_USDA-oral-swabs_Nano-QuIC.md",
-    "MNPRO Lab Notebook/Experiments/USDA Validation/20250819_r9_GR_USDA-oral-swabs_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Figures/USDA Validation",
+    "MNPRO Lab Notebook/Figures",
     "MNPRO Lab Notebook/Experiments/Soil Mass Spec",
     "MNPRO Lab Notebook/Experiments/USDA Validation",
     "Priogen Lab Notebook/Protocols",
@@ -225,8 +255,6 @@
     "Priogen Lab Notebook/Projects",
     "Priogen Lab Notebook/Experiments",
     "Priogen Lab Notebook",
-    "Samples",
-    "exports/USDA_Validation/USDA_Validation_quarto.qmd",
-    "exports/USDA_Validation"
+    "Samples"
   ]
 }

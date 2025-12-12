@@ -54,5 +54,8 @@
   "minimal-style@@ax3@@dark": "#2A7340",
   "minimal-style@@sp1@@dark": "#5CEF88",
   "minimal-style@@col-alt": false,
-  "minimal-style@@table-lines": true
+  "minimal-style@@table-lines": true,
+  "minimal-style@@image-muted": 1,
+  "minimal-style@@image-radius": 0,
+  "minimal-style@@zoom-off": true
 }

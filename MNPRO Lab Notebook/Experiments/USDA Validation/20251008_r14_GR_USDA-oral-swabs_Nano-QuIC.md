@@ -26,3 +26,5 @@ protocols: "[[Oral Swab Nano-QuIC]]"
 |H  |N  |S-1462|S-1463|S-1464|S-1465|S-1466|S-1468|S-1472|S-1473|S-1474|S-1475|S-1476|
 
 ## Results
+
+![[20251008_r14_GR_USDA-oral-swabs_Nano-QuIC.png]]

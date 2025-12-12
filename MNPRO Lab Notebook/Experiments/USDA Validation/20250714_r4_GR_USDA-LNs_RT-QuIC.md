@@ -27,3 +27,5 @@ protocols:
 |H  |N  |1944_RPLN|Y-18_RPLN|1905_RPLN|B-167_RPLN|B-227_RPLN|1904_RPLN|1943_RPLN|O-39_RPLN|      |      |      |
 
 ## Results
+
+![[20250714_r4_GR_USDA-LNs_RT-QuIC.png]]
