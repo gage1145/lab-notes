@@ -4,9 +4,10 @@ author: Gage Rowden
 date created: 2025-12-10
 tags: [project]
 abbreviation: GR
-status: active
+status: in-progress
 start: 2025-12-10
 end:
+association: Priogen
 duration:
 funding agency:
 funding code:

@@ -7,6 +7,7 @@ abbreviation: SRS
 status: in-progress
 start: 2025-12-08
 end:
+association: MNPRO
 duration: 3 years
 funding agency:
 funding code:

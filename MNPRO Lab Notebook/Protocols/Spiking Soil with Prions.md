@@ -3,6 +3,7 @@ name: Spiking Soil with Prions
 author: Gage Rowden
 date created: 2025-12-08
 tags: [protocol]
+association: MNPRO
 ---
 
 ## Equipment

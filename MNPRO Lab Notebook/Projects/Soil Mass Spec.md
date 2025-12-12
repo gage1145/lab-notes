@@ -7,6 +7,7 @@ abbreviation: SMS
 status: in-progress
 start: 2025-12-04
 end:
+association: MNPRO
 duration: 3 years
 funding agency:
 funding code:

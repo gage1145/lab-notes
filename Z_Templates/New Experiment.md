@@ -1,25 +1,24 @@
 <%*
 const title = tp.file.title;
+const path = tp.file.folder(true);
+const project = tp.file.folder(false);
 const date = tp.date.now("YYYY-MM-DD");
 let newTitle;
 
-const projectFolder = "lab_notebook/Projects";
-const allFiles = app.vault.getMarkdownFiles();
-let project;
-let projects;
+const patterns = [
+  { regex: /MNPRO/, value: "MNPRO" },
+  { regex: /Priogen/, value: "Priogen" },
+];
 
-projects = allFiles.filter(f => f.path.startsWith(projectFolder + "/"));
-projects = projects.map(f => f.basename);
+let ass = patterns.find(p => p.regex.test(path))?.value ?? "Unknown";
 
 if (title.startsWith("Untitled")) {
 	newTitle = await tp.system.prompt("Enter note title");
-	newTitle = date + " " + newTitle;
-	project = await tp.system.suggester(
-		projects,
-		projects,
-		false,
-		"Select associated project"
-	);
+	// Check if the experiment title starts with a digit.
+	// Don't add the date if so.
+	if (!/^\d/.test(newTitle)) {
+		newTitle = date + " " + newTitle;
+	}
 	await tp.file.rename(newTitle);
 }
 -%>
@@ -31,6 +30,7 @@ status: in-progress
 tags: experiment
 project: "[[<% project %>]]"
 continued_from: 
+association: <% ass %>
 protocols:
 ---
 ## Purpose

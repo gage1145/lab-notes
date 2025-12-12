@@ -3,6 +3,7 @@ title: Tissue RT-QuIC
 author: Gage Rowden
 date created: 2025-12-04
 tags: [protocol]
+association: MNPRO
 ---
 
 ## Equipment

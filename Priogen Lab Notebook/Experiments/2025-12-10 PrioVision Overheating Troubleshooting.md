@@ -7,6 +7,7 @@ tags: [experiment]
 project: "[[PrioVision]]"
 continued_from:
 protocols:
+association: Priogen
 ---
 
 ## Purpose

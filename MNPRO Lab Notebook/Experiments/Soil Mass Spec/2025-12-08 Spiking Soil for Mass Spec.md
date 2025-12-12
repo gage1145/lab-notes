@@ -6,6 +6,7 @@ status: completed
 tags: [experiment]
 project: "[[Soil Mass Spec]]"
 protocols: "[[Spiking Soil with Prions]]"
+association: MNPRO
 ---
 
 ## Purpose

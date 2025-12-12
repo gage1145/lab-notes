@@ -8,5 +8,6 @@
   "obsidian-linter",
   "obsidian-style-settings",
   "obsidian-tasks-plugin",
-  "obsidian-minimal-settings"
+  "obsidian-minimal-settings",
+  "obsidian-view-mode-by-frontmatter"
 ]

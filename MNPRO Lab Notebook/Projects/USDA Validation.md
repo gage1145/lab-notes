@@ -7,6 +7,7 @@ abbreviation: UV
 status: in-progress
 start: 2025-12-04
 end:
+association: MNPRO
 ---
 
 ## Overview

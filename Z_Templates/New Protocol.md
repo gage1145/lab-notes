@@ -1,5 +1,14 @@
 <%*
 const title = tp.file.title;
+const path = tp.file.path(false);
+
+let ass = "MNPRO";
+const pattern = /MNPRO/;
+
+if (!pattern.test(path)) {
+	ass = "Priogen";
+}
+
 let newTitle;
 if (title.startsWith("Untitled")) {
 		newTitle = await tp.system.prompt("Enter note title");
@@ -11,6 +20,7 @@ name: <% newTitle %>
 author: Gage Rowden
 date created: <% tp.date.now("YYYY-MM-DD") %>
 tags: [protocol]
+association: <% ass %>
 ---
 
 ## Equipment

@@ -5,24 +5,24 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:lab_notebook/Experiments  ",
+      "query": "tag:#experiment  ",
       "color": {
         "a": 1,
         "rgb": 16711680
       }
     },
     {
-      "query": "path:lab_notebook/Projects  ",
+      "query": "tag:#project  ",
       "color": {
         "a": 1,
         "rgb": 13893887
       }
     },
     {
-      "query": "path:lab_notebook/Protocols  ",
+      "query": "tag:#protocol  ",
       "color": {
         "a": 1,
         "rgb": 11206400
@@ -35,10 +35,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1,
-  "close": true
+  "centerStrength": 0.151041666666667,
+  "repelStrength": 6.14583333333333,
+  "linkStrength": 0.604166666666667,
+  "linkDistance": 123,
+  "scale": 0.3628873693012127,
+  "close": false
 }

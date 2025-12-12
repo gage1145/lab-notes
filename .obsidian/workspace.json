@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "be3b91fa9a04cb8c",
+        "id": "d05299c11260b8a9",
         "type": "tabs",
         "children": [
           {
-            "id": "8ea54665d8174cb9",
+            "id": "7786ebbe549b1c4f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Home"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 393.5
   },
   "right": {
     "id": "5a066b9f626cd31c",
@@ -187,50 +183,50 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
       "obsidian-import-json:JSON/CSV Importer": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8ea54665d8174cb9",
+  "active": "d88195afb156ed50",
   "lastOpenFiles": [
-    "Priogen Lab Notebook/Experiments/2025-12-10 PrioVision Overheating Troubleshooting.md",
-    "Priogen Lab Notebook/Projects/PrioVision.md",
-    "Priogen Lab Notebook/Experiments/20251210_pr2_GR_brain-brainSwabs.md",
-    "Priogen Lab Notebook/Experiments/20251210_pr1_GR_muscle-LN-BR.md",
-    "Priogen Lab Notebook/Projects/Diagnostics.md",
-    "Z_Templates/96-Well Template.md",
-    "Priogen Lab Notebook/Experiments",
-    "Z_Templates/New Project.md",
-    "MNPRO Lab Notebook/Projects/USDA Validation.md",
-    "MNPRO Lab Notebook/Projects/Synthetic RT-QuIC Seed.md",
-    "MNPRO Lab Notebook/Projects/Beltrami PPE Swabs.md",
-    "MNPRO Lab Notebook/Projects/Soil Mass Spec.md",
-    "MNPRO Lab Notebook/Experiments/2025-12-08 Spiking Soil for Mass Spec.md",
-    "MNPRO Lab Notebook/Experiments/2025-12-09 Sub-Sampling Soil for Mass Spec.md",
-    "Priogen Lab Notebook/Protocols/Test Protocol.md",
-    "Priogen Lab Notebook/Projects/Test Project.md",
-    "Priogen Lab Notebook/Orders/Test Order.md",
-    "Priogen Lab Notebook/Experiments/2025-12-09.md",
-    "Untitled.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20251205_r2_SG_USDA-oral-swabs_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20251203_r4_SG_USDA-oral-swabs_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20251126_r6_SG_USDA-oral-swabs_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20251125_r14_GR_USDA-oral-swabs_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20251124_r4_SG_USDA-oral-swabs_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20251120_r12_SG_USDA-oral-swabs_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20251028_r14_GR_USDA-oral-swabs_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20251024_r11_GR_USDA-oral-swabs_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20251021_r14_GR_USDA-oral-swabs_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20251008_r14_GR_USDA-oral-swabs_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20251008_r2_GR_USDA-oral-swabs_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20251001_r14_GR_USDA-oral-swabs_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20251001_r4_GR_USDA-oral-swabs_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20250923_r14_GR_USDA-oral-swabs_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20250923_r6_GR_USDA-oral-swabs_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20250923_r1_GR_USDA-oral-swabs_RT-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20250919_r6_GR_serum-plasma_RT-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20250919_r14_GR_serum-plasma_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20250916_r7_GR_USDA-oral-swabs_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20250912_r7_GR_USDA-oral-swabs_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20250912_r2_GR_USDA-oral-swabs_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20250903_r4_GR_USDA-oral-swabs_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20250903_r2_GR_USDA-oral-swabs_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20250821_r13_GR_USDA-oral-swabs_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20250821_r2_GR_USDA-oral-swabs_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20250819_r9_GR_USDA-oral-swabs_Nano-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/Soil Mass Spec",
+    "MNPRO Lab Notebook/Experiments/USDA Validation",
     "Priogen Lab Notebook/Protocols",
     "Priogen Lab Notebook/Orders",
     "Priogen Lab Notebook/Projects",
     "Priogen Lab Notebook/Experiments",
     "Priogen Lab Notebook",
-    "Home.md",
-    "Z_Templates/New Experiment.md",
-    "MNPRO Lab Notebook/Protocols/Soil Prion Extraction.md",
-    "MNPRO Lab Notebook/Protocols/Spiking Soil with Prions.md",
-    "lab_notebook/Experiments/2025-12-09 age.md",
-    "lab_notebook/Experiments/awg.md",
-    "lab_notebook/Experiments/2025-12-09 safd.md",
-    "lab_notebook/Experiments/2025-12-09 sfda.md",
     "Samples",
     "exports/USDA_Validation/USDA_Validation_quarto.qmd",
-    "exports/USDA_Validation",
-    "exports"
+    "exports/USDA_Validation"
   ]
 }
