@@ -1,9 +1,10 @@
 ---
-name: 2025-12-12 Extracting Prions from Beltrami Soil
+name: 2025-12-15 Extracting Prions from Beltrami Soil
 start_date: 2025-12-15
 end_date: 2025-12-15
 status: in-progress
-tags: [experiment]
+tags:
+  - experiment
 project: "[[Soil Mass Spec]]"
 continued_from: "[[2025-12-09 Sub-Sampling Soil for Mass Spec]]"
 association: MNPRO
