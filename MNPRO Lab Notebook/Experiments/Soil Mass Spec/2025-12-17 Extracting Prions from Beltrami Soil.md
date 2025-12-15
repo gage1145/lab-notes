@@ -1,7 +1,7 @@
 ---
 name: 2025-12-15 Extracting Prions from Beltrami Soil
-start_date: 2025-12-15
-end_date: 2025-12-15
+start_date: 2025-12-17
+end_date: 2025-12-17
 status: in-progress
 tags: [experiment]
 project: "[[Soil Mass Spec]]"
@@ -26,6 +26,12 @@ For spiked controls see [[2025-12-08 Spiking Soil for Mass Spec]].
 - [ ] A1 Spiked
 - [ ] H1 Spiked
 - [ ] H2 Spiked
+#### Peptides
+- [ ] GENFTETDIK
+- [ ] VVEQM**C**ITQYQ(R)
+- [ ] VVEQ**MC**ITQYQ(R)
+- [ ] YPGQGSPGGN(R)
+- [ ] ESQAYYQ(R)
 #### Unknowns
 - [ ] MPF 2
 - [ ] 013-S1

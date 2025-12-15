@@ -57,5 +57,7 @@
   "minimal-style@@table-lines": true,
   "minimal-style@@image-muted": 1,
   "minimal-style@@image-radius": 0,
-  "minimal-style@@zoom-off": true
+  "minimal-style@@zoom-off": true,
+  "minimal-style@@bold-modifier": 500,
+  "minimal-style@@bold-color@@dark": "#EFA95C"
 }
