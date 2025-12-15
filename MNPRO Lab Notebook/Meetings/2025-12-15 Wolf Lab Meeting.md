@@ -2,7 +2,7 @@
 date: 2025-12-15
 tags: [meeting]
 association: MNPRO
-summary: " "
+summary: The team shared brief updates on ongoing projects and scheduling. Tiffany will be out for a while, and the next lab meeting will be held next year. Several members reported progress on manuscripts, dashboards, reports, and data-processing tools, with multiple submissions planned in the coming week. Marc also reported positive outreach discussions with the Bush Foundation and upcoming submission plans.
 ---
 
 ## **Attendees**

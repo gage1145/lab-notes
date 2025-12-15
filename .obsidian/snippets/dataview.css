@@ -6,3 +6,8 @@ max-width: 100%;
 .markdown-source-view.mod-cm6.is-readable-line-width .cm-content {
 max-width: 100%;
 }
+
+/* Dataview column wrapping */
+ .table-view-table>tbody>tr>td { 
+    white-space: pre-wrap !important;
+}

@@ -1,26 +1,35 @@
 ---
 ---
 
-## Projects
-### In-Progress
-
-```dataview
-TABLE WITHOUT ID
-file.link AS Project, start AS "Start Date", association AS Association, length(file.inlinks) AS Experiments
-FROM #project 
-WHERE status = "in-progress"
-```
-
-### Completed
-
-```dataview
-TABLE WITHOUT ID
-file.link AS Project, start AS "Start Date", association AS Association, length(file.inlinks) AS Experiments
-FROM #project
-WHERE status = "completed"
-```
-
----
+>[!multi-column]
+>
+>>## Projects
+>>### In-Progress
+>>
+>>```dataview
+>>TABLE WITHOUT ID
+>>file.link AS Project, start AS "Start Date", association AS Association, length(file.inlinks) AS Experiments
+>>FROM #project 
+>>WHERE status = "in-progress"
+>>```
+>>
+>>### Completed
+>>
+>>```dataview
+>>TABLE WITHOUT ID
+>>file.link AS Project, start AS "Start Date", association AS Association, length(file.inlinks) AS Experiments
+>>FROM #project
+>>WHERE status = "completed"
+>>```
+>
+>>## Meetings
+>>
+>>```dataview
+>>TABLE WITHOUT ID
+>>file.link AS Meeting, summary AS Summary
+>>FROM #meeting 
+>>```
+>>
 ## Experiments
 ### In-Progress
 
@@ -38,7 +47,7 @@ SORT start_date DESC
 
 ### Completed
 
- ```dataview
+```dataview
 TABLE WITHOUT ID
 file.link AS Experiment,
 project AS Project, 
