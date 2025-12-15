@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MNPRO Lab Notebook/Experiments/Soil Mass Spec/2025-12-15 Extracting Prions from Beltrami Soil.md",
+                "file": "MNPRO Lab Notebook/Meetings/2025-12-15 Wolf Lab Meeting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-15 Extracting Prions from Beltrami Soil"
+              "title": "2025-12-15 Wolf Lab Meeting"
             }
           }
         ]
@@ -196,6 +196,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Z_Templates/New Experiment.md",
+    "MNPRO Lab Notebook/Meetings/2025-12-15 Wolf Lab Meeting.md",
+    "MNPRO Lab Notebook/Meetings",
+    "MNPRO Lab Notebook/Experiments/Soil Mass Spec/2025-12-15 Extracting Prions from Beltrami Soil.md",
     "Home.md",
     "Priogen Lab Notebook/Projects/Diagnostics.md",
     "Priogen Lab Notebook/Orders/Order 1126.md",
@@ -229,9 +233,6 @@
     "MNPRO Lab Notebook/Experiments/USDA Validation/20251120_r12_SG_USDA-oral-swabs_Nano-QuIC.md",
     "MNPRO Lab Notebook/Experiments/USDA Validation/20251028_r14_GR_USDA-oral-swabs_Nano-QuIC.md",
     "MNPRO Lab Notebook/Experiments/USDA Validation/20251028_r12_GR_USDA-oral-swabs_RT-QuIC.md",
-    "MNPRO Lab Notebook/Experiments/USDA Validation/20251024_r11_GR_USDA-oral-swabs_Nano-QuIC.md",
-    "MNPRO Lab Notebook/Experiments/USDA Validation/20251024_r10_GR_USDA-oral-swabs_RT-QuIC.md",
-    "MNPRO Lab Notebook/Experiments/USDA Validation/20251021_r14_GR_USDA-oral-swabs_Nano-QuIC.md",
     "MNPRO Lab Notebook/Figures/USDA Validation",
     "MNPRO Lab Notebook/Figures",
     "MNPRO Lab Notebook/Experiments/Soil Mass Spec",
@@ -240,7 +241,6 @@
     "Priogen Lab Notebook/Orders",
     "Priogen Lab Notebook/Projects",
     "Priogen Lab Notebook/Experiments",
-    "Priogen Lab Notebook",
-    "Samples"
+    "Priogen Lab Notebook"
   ]
 }
