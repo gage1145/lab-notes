@@ -59,5 +59,10 @@
   "minimal-style@@image-radius": 0,
   "minimal-style@@zoom-off": true,
   "minimal-style@@bold-modifier": 500,
-  "minimal-style@@bold-color@@dark": "#EFA95C"
+  "minimal-style@@bold-color@@dark": "#EFA95C",
+  "minimal-style@@tx2@@dark": "#5CEF88",
+  "minimal-style@@row-hover": false,
+  "minimal-style@@table-numbers": false,
+  "minimal-style@@ribbon-style": "ribbon-hidden",
+  "minimal-style@@metadata-heading-off": false
 }
