@@ -2,9 +2,8 @@
 name: 20251210_pr2_GR_brain-brainSwabs
 start_date: 2025-12-10
 end_date: 2025-12-12
-status: in-progress
-tags:
-  - experiment
+status: completed
+tags: [experiment]
 project: "[[Diagnostics]]"
 continued_from:
 protocols: "[[Priogen Lab Notebook/Protocols/Tissue Nano-QuIC]]"
