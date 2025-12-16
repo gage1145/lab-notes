@@ -29,34 +29,31 @@
 >>file.link AS Meeting, summary AS Summary
 >>FROM #meeting 
 >>```
->>
+
 ## Experiments
-### In-Progress
 
-```dataview
-TABLE WITHOUT ID
-file.link AS Experiment,
-project AS Project, 
-start_date AS Date, 
-project.association AS Association,
-protocols AS Protocols 
-FROM #experiment 
-WHERE status = "in-progress"
-SORT start_date DESC
-```
-
-### Completed
-
-```dataview
-TABLE WITHOUT ID
-file.link AS Experiment,
-project AS Project, 
-start_date AS Date, 
-project.association AS Association,
-protocols AS Protocols 
-FROM #experiment 
-WHERE status = "completed"
-SORT start_date DESC 
-```
-
+>[!multi-column]
+>>### In-Progress
+>>```dataview
+>>TABLE WITHOUT ID
+>>file.link AS Experiment,
+>>project AS Project, 
+>>start_date AS Date
+>>FROM #experiment 
+>>WHERE status = "in-progress"
+>>SORT start_date DESC
+>>```
+>
+>>### Completed
+>>```dataview
+>>TABLE WITHOUT ID
+>>file.link AS Experiment,
+>>project AS Project, 
+>>start_date AS Date
+>>FROM #experiment 
+>>WHERE status = "completed"
+>>SORT start_date DESC 
+>>LIMIT 20
+>>```
+>
 ---

@@ -27,4 +27,4 @@ protocols: "[[Oral Swab RT-QuIC]]"
 
 ## Results
 
-![[20250819_r9_GR_USDA-oral-swabs_Nano-QuIC 1.png]]
+![[20250821_r1_GR_USDA-oral-swabs_RT-QuIC.png]]
