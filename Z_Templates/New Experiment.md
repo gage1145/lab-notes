@@ -4,7 +4,10 @@ const path = tp.file.folder(true);
 const project = tp.file.folder(false);
 const date = tp.date.now("YYYY-MM-DD");
 let newTitle;
+let protocolFile;
+let protocolContent = "";
 
+// Association detection
 const asses = [
   { regex: /MNPRO/, value: "MNPRO" },
   { regex: /Priogen/, value: "Priogen" },
@@ -12,14 +15,34 @@ const asses = [
 
 let ass = asses.find(p => p.regex.test(path))?.value ?? "Unknown";
 
+// Rename note
 if (title.startsWith("Untitled")) {
 	newTitle = await tp.system.prompt("Enter note title");
-	// Check if the experiment title starts with a digit.
-	// Don't add the date if so.
 	if (!/^\d/.test(newTitle)) {
 		newTitle = date + " " + newTitle;
 	}
 	await tp.file.rename(newTitle);
+} else {
+	newTitle = title;
+}
+
+// Get protocol files
+const protocolFolder = path.split("/")[0] + "/Protocols";
+const protocolFiles = app.vault
+	.getMarkdownFiles()
+	.filter(f => f.path.startsWith(protocolFolder + "/"));
+
+// Protocol suggester
+protocolFile = await tp.system.suggester(
+	protocolFiles.map(f => f.basename),
+	protocolFiles,
+	false,
+	"Select associated protocol"
+);
+
+// Load protocol content
+if (protocolFile) {
+	protocolContent = await tp.file.include(`[[${protocolFile.basename}]]`);
 }
 -%>
 ---
@@ -29,12 +52,14 @@ end_date:
 status: in-progress
 tags: experiment
 project: "[[<% project %>]]"
-continued_from: 
+continued_from:
 association: <% ass %>
-protocols:
+protocols: "[[<% protocolFile?.basename ?? "" %>]]"
 ---
 ## Purpose
 
 ## Design
+
+<% protocolContent %>
 
 ## Results
