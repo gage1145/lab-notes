@@ -37,6 +37,14 @@
     {
       "folder": "Priogen Lab Notebook/Protocols",
       "template": "Z_Templates/New Protocol.md"
+    },
+    {
+      "folder": "Priogen Lab Notebook/Meetings",
+      "template": "Z_Templates/New Meeting.md"
+    },
+    {
+      "folder": "MNPRO Lab Notebook/Meetings",
+      "template": "Z_Templates/New Meeting.md"
     }
   ],
   "enable_file_templates": false,

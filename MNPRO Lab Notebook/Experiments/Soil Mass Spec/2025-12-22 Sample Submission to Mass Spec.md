@@ -1,26 +1,21 @@
 ---
-name: 2025-12-17 Extracting Prions from Beltrami Soil
-start_date: 2025-12-17
-end_date: 2025-12-17
+name: 2025-12-22 Sample Submission to Mass Spec
+start_date: 2025-12-22
+end_date:
 status: in-progress
 tags: [experiment]
 project: "[[Soil Mass Spec]]"
-continued_from: "[[2025-12-09 Sub-Sampling Soil for Mass Spec]]"
+continued_from:
 association: MNPRO
-protocols: "[[Soil Prion Extraction]]"
+protocols:
 ---
 
 ## Purpose
 
-These soils will be extracted for analysis by mass spec.
+These samples will be submitted to mass spec for a targeted assay.
 
 ## Design
-
-See protocol [[Soil Prion Extraction]].
-
-For spiked controls see [[2025-12-08 Spiking Soil for Mass Spec]].
-
-### Samples to Be Extracted
+### Samples to Submit
 #### Controls
 - [ ] A1
 - [ ] H1

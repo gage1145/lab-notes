@@ -1,7 +1,6 @@
 <%*
 const title = tp.file.title;
 const path = tp.file.folder(true);
-const project = tp.file.folder(false);
 const date = tp.date.now("YYYY-MM-DD");
 let newTitle;
 
@@ -14,27 +13,21 @@ let ass = asses.find(p => p.regex.test(path))?.value ?? "Unknown";
 
 if (title.startsWith("Untitled")) {
 	newTitle = await tp.system.prompt("Enter note title");
-	// Check if the experiment title starts with a digit.
-	// Don't add the date if so.
-	if (!/^\d/.test(newTitle)) {
-		newTitle = date + " " + newTitle;
-	}
+	newTitle = date + " " + newTitle;
 	await tp.file.rename(newTitle);
 }
 -%>
 ---
 name: <% newTitle %>
-start_date: <% date %>
-end_date:
-status: in-progress
-tags: experiment
-project: "[[<% project %>]]"
-continued_from: 
+date: <% date %>
+tags: meeting
+continued_from:
 association: <% ass %>
-protocols:
+summary:
 ---
-## Purpose
 
-## Design
+## **Attendees**
+- 
 
-## Results
+## Overview
+1. 
