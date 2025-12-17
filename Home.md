@@ -28,6 +28,7 @@
 >>TABLE WITHOUT ID
 >>file.link AS Meeting, summary AS Summary
 >>FROM #meeting 
+>>LIMIT 2
 >>```
 
 ## Experiments
