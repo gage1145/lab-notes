@@ -1,9 +1,9 @@
 ---
+cssclass: home
 ---
 
+## Projects
 >[!multi-column]
->
->>## Projects
 >>### In-Progress
 >>
 >>```dataview
@@ -12,7 +12,7 @@
 >>FROM #project 
 >>WHERE status = "in-progress"
 >>```
->>
+>
 >>### Completed
 >>
 >>```dataview
@@ -21,15 +21,21 @@
 >>FROM #project
 >>WHERE status = "completed"
 >>```
->
->>## Meetings
->>
->>```dataview
->>TABLE WITHOUT ID
->>file.link AS Meeting, summary AS Summary
->>FROM #meeting 
->>LIMIT 2
->>```
+
+## Meetings
+
+```dataviewjs
+const DQL = `
+TABLE WITHOUT ID
+file.link AS Meeting,
+summary AS Summary
+FROM #meeting 
+`
+
+dv.execute(DQL)
+
+dv.container.classList.add("meetingTable")
+```
 
 ## Experiments
 

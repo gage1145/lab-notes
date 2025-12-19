@@ -11,3 +11,9 @@ max-width: 100%;
  .table-view-table>tbody>tr>td { 
     white-space: pre-wrap !important;
 }
+
+.meetingTable {
+    td:nth-child(1) {
+        max-width: 100px;
+    }
+}

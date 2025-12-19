@@ -40,10 +40,12 @@ protocolFile = await tp.system.suggester(
 	"Select associated protocol"
 );
 
-// Load protocol content
+// Load protocol content WITHOUT frontmatter
 if (protocolFile) {
-	protocolContent = await tp.file.include(`[[${protocolFile.basename}]]`);
+	const raw = await app.vault.read(protocolFile);
+	protocolContent = raw.replace(/^---\s*[\s\S]*?\s*---\s*/m, "").trim();
 }
+protocolContent = protocolContent.replaceAll("##", "###")
 -%>
 ---
 name: <% newTitle %>
@@ -59,7 +61,5 @@ protocols: "[[<% protocolFile?.basename ?? "" %>]]"
 ## Purpose
 
 ## Design
-
 <% protocolContent %>
-
 ## Results
