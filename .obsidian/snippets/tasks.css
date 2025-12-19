@@ -1,0 +1,17 @@
+.markdown-preview-view ul > li.task-list-item.is-checked {
+    text-decoration:line-through;
+    text-decoration-color:rgba(92, 239, 136, 0.4);
+    text-decoration-thickness: 2px;
+}
+
+.markdown-preview-view ol > li.task-list-item.is-checked {
+    text-decoration:line-through;
+    text-decoration-color:rgba(92, 239, 136, 0.4);
+    text-decoration-thickness: 2px;
+}
+
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task]:not([data-task=" "]) {
+    text-decoration:line-through;
+    text-decoration-color:rgba(92, 239, 136, 0.4);
+    text-decoration-thickness: 2px;
+}

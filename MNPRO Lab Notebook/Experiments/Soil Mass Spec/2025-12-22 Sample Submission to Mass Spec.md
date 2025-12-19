@@ -29,7 +29,7 @@ RVVEQMCITQYQRESQAYYQRGASVILFSSPPVILLISFLIFLIVG
 ```
 
 <div style="page-break-after: always;"></div>
-
+- [ ] **Add other genotype reference sequences**
 ### Peptide Information
 #### Peptide 1
 - Sequence:\[NH2]GENFTETDI(K)\[COOH]
