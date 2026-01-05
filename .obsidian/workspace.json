@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "source": true
+                "file": "Priogen Lab Notebook/Meetings/2026-01-05 Lab Planning Meeting.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "2026-01-05 Lab Planning Meeting"
             }
           }
         ]
@@ -196,9 +196,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Priogen Lab Notebook/Meetings/2026-01-05 Database Meeting.md",
+    "Priogen Lab Notebook/Meetings/2026-01-05 Lab Planning Meeting.md",
+    "Priogen Lab Notebook/Projects/Diagnostics.md",
     "Priogen Lab Notebook/Meetings/2025-12-17 Whole Team Meeting.md",
-    "Priogen Lab Notebook/Projects/Shipping MNPROtein in MasterMix.md",
     "Home.md",
+    "Priogen Lab Notebook/Projects/Shipping MNPROtein in MasterMix.md",
     "Priogen Lab Notebook/Meetings",
     "Priogen Lab Notebook/Experiments/PrioVision/2025-12-16 PrioVision Overheating Troubleshooting.md",
     "Priogen Lab Notebook/Experiments/PrioVision/2025-12-10 PrioVision Overheating Troubleshooting.md",
@@ -231,14 +234,11 @@
     "MNPRO Lab Notebook/Experiments/Soil Mass Spec",
     "Priogen Lab Notebook/Protocols/Tissue Nano-QuIC.md",
     "Priogen Lab Notebook/Protocols/Muscle Nano-QuIC.md",
-    "MNPRO Lab Notebook/Protocols/Tissue Nano-QuIC.md",
-    "MNPRO Lab Notebook/Protocols/Oral Swab RT-QuIC.md",
     "MNPRO Lab Notebook/Figures/USDA Validation/20251205_r2_SG_USDA-oral-swabs_Nano-QuIC.png",
     "MNPRO Lab Notebook/Figures/USDA Validation/20251205_r1_SG_USDA-oral-swabs_RT-QuIC.png",
     "MNPRO Lab Notebook/Figures/USDA Validation/20251203_r4_SG_USDA-oral-swabs_Nano-QuIC.png",
     "MNPRO Lab Notebook/Figures/USDA Validation",
     "MNPRO Lab Notebook/Figures",
-    "MNPRO Lab Notebook/Experiments/USDA Validation/20251205_r2_SG_USDA-oral-swabs_Nano-QuIC.md",
     "MNPRO Lab Notebook/Experiments/USDA Validation",
     "Priogen Lab Notebook/Experiments",
     "Priogen Lab Notebook/Protocols"
