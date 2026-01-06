@@ -2,7 +2,7 @@
 name: 20251216_r12_GR_RAMALT_RT-QuIC
 start_date: 2025-12-16
 end_date: 2025-12-19
-status: in-progress
+status: completed
 tags: [experiment]
 project: "[[USDA Validation]]"
 continued_from:
@@ -12,7 +12,12 @@ protocols: "[[Tissue RT-QuIC]]"
 
 ## Purpose
 
+These are RAMALT biopsies that will be tested at each time point in the study.
+
 ## Design
+- RT-QuIC
+- 42$\textdegree$C
+- 72hr
 
 Each sample ID represents a Process ID [here](https://docs.google.com/spreadsheets/d/1Gpy_vkllNfxP3uzlkxPCsubpxfQAUC0-kNIHaqZN_hY/edit?gid=438225600#gid=438225600).
 
@@ -28,3 +33,5 @@ Each sample ID represents a Process ID [here](https://docs.google.com/spreadshee
 |  H  |  N  |      |      |      |      |      |      |      |      |      |      |      |
 
 ## Results
+
+![[20251216_r12_GR_RAMALT_RT-QuIC.png]]

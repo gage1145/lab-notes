@@ -2,7 +2,7 @@
 name: 20251216_pr1_GR_muscle-LN
 start_date: 2025-12-16
 end_date: 2025-12-18
-status: in-progress
+status: completed
 tags: [experiment]
 project: "[[Diagnostics]]"
 continued_from:
@@ -17,6 +17,9 @@ protocols:
 Diagnostic run of muscle and one lymph node sample.
 
 ## Design
+- Nano-QuIC
+- 45C
+- 48hr
 
 |     |  1  |    2     |    3     |    4     |    5     |    6     |    7     |    8     |    9     |    10    |    11    |    12    |
 | :-: | :-: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: |

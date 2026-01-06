@@ -11,14 +11,15 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Priogen Lab Notebook/Meetings/2026-01-05 Lab Planning Meeting.md",
-                "mode": "source",
-                "source": false
+                "aFile": "MNPRO Lab Notebook/Experiments/Soil Mass Spec/2025-12-17 Extracting Prions from Beltrami Soil.md",
+                "bFile": "MNPRO Lab Notebook/Experiments/Soil Mass Spec/2025-12-17 Extracting Prions from Beltrami Soil.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2026-01-05 Lab Planning Meeting"
+              "icon": "diff",
+              "title": "Diff: 2025-12-17 Extracting Prions from Beltrami Soil"
             }
           }
         ]
@@ -196,11 +197,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Priogen Lab Notebook/Meetings/2026-01-05 Database Meeting.md",
+    "Home.md",
+    "conflict-files-obsidian-git.md",
     "Priogen Lab Notebook/Meetings/2026-01-05 Lab Planning Meeting.md",
+    "Priogen Lab Notebook/Meetings/2026-01-05 Database Meeting.md",
     "Priogen Lab Notebook/Projects/Diagnostics.md",
     "Priogen Lab Notebook/Meetings/2025-12-17 Whole Team Meeting.md",
-    "Home.md",
     "Priogen Lab Notebook/Projects/Shipping MNPROtein in MasterMix.md",
     "Priogen Lab Notebook/Meetings",
     "Priogen Lab Notebook/Experiments/PrioVision/2025-12-16 PrioVision Overheating Troubleshooting.md",
@@ -233,7 +235,6 @@
     "MNPRO Lab Notebook/Experiments/Soil Mass Spec/2025-12-09 Sub-Sampling Soil for Mass Spec.md",
     "MNPRO Lab Notebook/Experiments/Soil Mass Spec",
     "Priogen Lab Notebook/Protocols/Tissue Nano-QuIC.md",
-    "Priogen Lab Notebook/Protocols/Muscle Nano-QuIC.md",
     "MNPRO Lab Notebook/Figures/USDA Validation/20251205_r2_SG_USDA-oral-swabs_Nano-QuIC.png",
     "MNPRO Lab Notebook/Figures/USDA Validation/20251205_r1_SG_USDA-oral-swabs_RT-QuIC.png",
     "MNPRO Lab Notebook/Figures/USDA Validation/20251203_r4_SG_USDA-oral-swabs_Nano-QuIC.png",

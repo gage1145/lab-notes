@@ -3,7 +3,8 @@
     "courier_font",
     "dataview",
     "MCL Multi Column",
-    "line-width"
+    "line-width",
+    "tasks"
   ],
   "cssTheme": "Minimal"
 }
