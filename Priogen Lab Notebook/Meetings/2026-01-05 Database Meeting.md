@@ -21,3 +21,8 @@ summary:
 5. Can I have the sample table be organized more like [this](https://docs.google.com/spreadsheets/d/1cgE6XdzcumlAfetppZW2UcuZ0JQ81PogwrFGOIViS9E/edit?gid=0#gid=0)?
 6. Add a "Retest Needed" field for a sample.
 7. Update database SOPs.
+
+## TODO
+- [x] Add a diagnosis table ✅ 2026-01-08
+- [x] Add a diagnosis button to the reaction view ✅ 2026-01-08
+- [ ] 
