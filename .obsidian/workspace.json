@@ -11,15 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "MNPRO Lab Notebook/Experiments/Soil Mass Spec/2025-12-17 Extracting Prions from Beltrami Soil.md",
-                "bFile": "MNPRO Lab Notebook/Experiments/Soil Mass Spec/2025-12-17 Extracting Prions from Beltrami Soil.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Priogen Lab Notebook/Meetings/2026-01-12 Lab Planning Meeting.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 2025-12-17 Extracting Prions from Beltrami Soil"
+              "icon": "lucide-file",
+              "title": "2026-01-12 Lab Planning Meeting"
             }
           }
         ]
@@ -198,6 +197,8 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Home.md",
+    "Priogen Lab Notebook/Meetings/2026-01-12 Lab Planning Meeting.md",
+    "MNPRO Lab Notebook/Meetings/2025-12-15 Wolf Lab Meeting.md",
     "conflict-files-obsidian-git.md",
     "Priogen Lab Notebook/Meetings/2026-01-05 Lab Planning Meeting.md",
     "Priogen Lab Notebook/Meetings/2026-01-05 Database Meeting.md",
@@ -227,14 +228,12 @@
     "Priogen Lab Notebook/Experiments/20251210_pr2_GR_brain-brainSwabs.md",
     "Priogen Lab Notebook/Experiments/20251210_pr1_GR_muscle-LN-BR.md",
     "Priogen Lab Notebook/Experiments/2025-12-10 PrioVision Overheating Troubleshooting.md",
-    "MNPRO Lab Notebook/Meetings/2025-12-15 Wolf Lab Meeting.md",
     "MNPRO Lab Notebook/Experiments/Soil Mass Spec/2025-12-17 Extracting Prions from Beltrami Soil.md",
     "MNPRO Lab Notebook/Experiments/Soil Mass Spec/2025-12-15 Extracting Prions from Beltrami Soil.md",
     "MNPRO Lab Notebook/Experiments/Soil Mass Spec/2025-12-08 Spiking Soil for Mass Spec.md",
     "MNPRO Lab Notebook/Meetings",
     "MNPRO Lab Notebook/Experiments/Soil Mass Spec/2025-12-09 Sub-Sampling Soil for Mass Spec.md",
     "MNPRO Lab Notebook/Experiments/Soil Mass Spec",
-    "Priogen Lab Notebook/Protocols/Tissue Nano-QuIC.md",
     "MNPRO Lab Notebook/Figures/USDA Validation/20251205_r2_SG_USDA-oral-swabs_Nano-QuIC.png",
     "MNPRO Lab Notebook/Figures/USDA Validation/20251205_r1_SG_USDA-oral-swabs_RT-QuIC.png",
     "MNPRO Lab Notebook/Figures/USDA Validation/20251203_r4_SG_USDA-oral-swabs_Nano-QuIC.png",
