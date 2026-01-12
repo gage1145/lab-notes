@@ -1,7 +1,7 @@
 ---
 name: 2026-01-12 Lab Planning Meeting
 date: 2026-01-12
-tags: meeting
+tags: [meeting]
 continued_from:
 association: Priogen
 summary:
