@@ -1,11 +1,11 @@
 ---
-name: 20260113_r3_GR_2X-blood_RT-QuIC
+name: 20260113_r3_GR_USDA-blood_2X_RT-QuIC
 start_date: 2026-01-13
 end_date: 2026-01-17
 status: in-progress
 tags: [experiment]
 project: "[[USDA Validation]]"
-continued_from:
+continued_from: "[[20251024_r8_GR_USDA-blood_2X_RT-QuIC]]"
 association: MNPRO
 protocols: "[[Tissue RT-QuIC]]"
 ---
