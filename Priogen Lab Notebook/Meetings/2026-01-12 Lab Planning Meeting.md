@@ -31,6 +31,6 @@ summary:
 	1. RnD run finished; was successful
 	2. Need to do image analysis
 8. PriLIMS
-	1. Add an inline in the sample table for diagnoses
-	2. Add logic to run QC on plates if controls are bad...
-	3. Add reaction field for passing QC.
+	- [x] Add an inline in the sample table for diagnoses ✅ 2026-01-13
+	- [ ] Add logic to run QC on plates if controls are bad...
+	- [ ] Add reaction field for passing QC.
