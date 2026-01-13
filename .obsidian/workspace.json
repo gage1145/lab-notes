@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "d3a93159b22a9e0a",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "7debff734ac61b98",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "New tab"
             }
           }
         ]
@@ -194,8 +190,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "226d8284adfc53f9",
   "lastOpenFiles": [
+    "MNPRO Lab Notebook/Experiments/USDA Validation/2026-01-13 null.md",
+    "Home.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/2026-01-13 null.md",
     "Priogen Lab Notebook/Meetings/2026-01-05 Database Meeting.md",
     "Priogen Lab Notebook/Meetings/2026-01-05 Lab Planning Meeting.md",
     "MNPRO Lab Notebook/Experiments/Soil Mass Spec/2026-01-06 Protein Concentrations of Soil Extractions.md",
@@ -203,7 +202,6 @@
     "MNPRO Lab Notebook/Experiments/Soil Mass Spec/2025-12-08 Spiking Soil for Mass Spec.md",
     "MNPRO Lab Notebook/Experiments/Soil Mass Spec/2025-12-09 Sub-Sampling Soil for Mass Spec.md",
     "MNPRO Lab Notebook/Experiments/Soil Mass Spec/2025-12-17 Extracting Prions from Beltrami Soil.md",
-    "Home.md",
     "MNPRO Lab Notebook/Meetings/2025-12-15 Wolf Lab Meeting.md",
     "MNPRO Lab Notebook/Projects/Soil Mass Spec.md",
     "MNPRO Lab Notebook/Projects/Synthetic RT-QuIC Seed.md",
@@ -222,8 +220,6 @@
     "MNPRO Lab Notebook/Experiments/Soil Mass Spec/2025-12-19 age.md",
     "MNPRO Lab Notebook/Experiments/Soil Mass Spec/2025-12-19 haeea.md",
     "MNPRO Lab Notebook/Experiments/Soil Mass Spec/2025-12-19 gaaeg.md",
-    "MNPRO Lab Notebook/Experiments/Soil Mass Spec/2025-12-19 asdfhae.md",
-    "MNPRO Lab Notebook/Experiments/Soil Mass Spec/2025-12-19 asdf.md",
     "Priogen Lab Notebook/Meetings",
     "MNPRO Lab Notebook/Figures/USDA Validation/20251028_r12_GR_USDA-oral-swabs_RT-QuIC.png",
     "MNPRO Lab Notebook/Figures/USDA Validation/20251024_r11_GR_USDA-oral-swabs_Nano-QuIC.png",
