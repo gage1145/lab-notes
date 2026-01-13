@@ -12,7 +12,17 @@ protocols: "[[Blood RT-QuIC]]"
 
 ## Purpose
 
+This is a continuation of [[20251024_r8_GR_USDA-blood_2X_RT-QuIC]]. These are the negative blood samples. I am hoping to see no activity on this plate.
+
 ## Design
+- Treatment A:
+	- Supernatant
+	- Dilute 10-fold in SDS/PBS (log dilutions: -1, -2, -3, -4)
+- Treatment B:
+	- Pellet
+	- Resuspend in 50 $\textmu$L SDS/PBS. Dilute 10-fold (log dilutions: 0, -1, -2, -3)
+- Reaction Conditions
+	- 42$\textdegree$C, 96h
 ### Plate View
 
 |       | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** | **11** | **12** |

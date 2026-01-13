@@ -16,23 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "d079f14380b1124d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Priogen Lab Notebook/Meetings/2026-01-12 Lab Planning Meeting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-12 Lab Planning Meeting"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 526.5
+    "width": 493.5
   },
   "right": {
     "id": "5a066b9f626cd31c",
@@ -205,8 +190,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d079f14380b1124d",
+  "active": "7debff734ac61b98",
   "lastOpenFiles": [
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20260113_r3_GR_USDA-blood_2X_RT-QuIC.md",
+    "MNPRO Lab Notebook/Experiments/USDA Validation/20260113_r4_GR_USDA-blood_2X_Nano-QuIC.md",
+    "Priogen Lab Notebook/Meetings/2026-01-12 Lab Planning Meeting.md",
     "Home.md",
     "Priogen Lab Notebook/Experiments/Diagnostics/20251216_pr1_GR_muscle-LN.md",
     "Priogen Lab Notebook/Experiments/Diagnostics/20251230_pr2_GR_muscle-LN.md",
@@ -221,12 +209,9 @@
     "Priogen Lab Notebook/Experiments/RnD",
     "MNPRO Lab Notebook/Experiments/USDA Validation/20251024_r9_GR_USDA-blood_2X_Nano-QuIC.md",
     "MNPRO Lab Notebook/Experiments/USDA Validation/20251024_r8_GR_USDA-blood_2X_RT-QuIC.md",
-    "MNPRO Lab Notebook/Experiments/USDA Validation/20260113_r4_GR_USDA-blood_2X_Nano-QuIC.md",
-    "MNPRO Lab Notebook/Experiments/USDA Validation/20260113_r3_GR_USDA-blood_2X_RT-QuIC.md",
     "MNPRO Lab Notebook/Protocols/Blood Nano-QuIC.md",
     "MNPRO Lab Notebook/Protocols/Blood RT-QuIC.md",
     "MNPRO Lab Notebook/Experiments/USDA Validation/20251216_r14_GR_RAMALT_Nano-QuIC.md",
-    "Priogen Lab Notebook/Meetings/2026-01-12 Lab Planning Meeting.md",
     "conflict-files-obsidian-git.md",
     "MNPRO Lab Notebook/Experiments/USDA Validation/2026-01-13 null.md",
     "MNPRO Lab Notebook/Experiments/USDA Validation/2026-01-13 null.md",
