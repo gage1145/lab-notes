@@ -3,11 +3,12 @@ name: 20251216_r12_GR_RAMALT_RT-QuIC
 start_date: 2025-12-16
 end_date: 2025-12-19
 status: completed
-tags: [experiment]
+tags:
+  - experiment
 project: "[[USDA Validation]]"
 continued_from:
 association: MNPRO
-protocols: "[[Tissue RT-QuIC]]"
+protocols: "[[MNPRO Lab Notebook/Protocols/Tissue RT-QuIC]]"
 ---
 
 ## Purpose

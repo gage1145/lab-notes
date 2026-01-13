@@ -7,7 +7,7 @@ tags: [experiment]
 project: "[[USDA Validation]]"
 continued_from:
 association: MNPRO
-protocols: "[[Tissue RT-QuIC]]"
+protocols: "[[Blood RT-QuIC]]"
 ---
 
 ## Purpose

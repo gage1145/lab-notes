@@ -3,12 +3,13 @@ name: 20250717_r2_GR_USDA-obex_RT-QuIC
 start_date: 2025-07-17
 end_date: 2025-07-20
 status: completed
-tags: [experiment]
+tags:
+  - experiment
 project: "[[USDA Validation]]"
 continued_from:
 association: MNPRO
 protocols:
-  - "[[Tissue RT-QuIC]]"
+  - "[[MNPRO Lab Notebook/Protocols/Tissue RT-QuIC]]"
 ---
 
 ## Purpose

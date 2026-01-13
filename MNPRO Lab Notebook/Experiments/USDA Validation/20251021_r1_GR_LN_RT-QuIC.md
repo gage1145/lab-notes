@@ -3,12 +3,14 @@ name: 20251021_r1_GR_LN_RT-QuIC
 start_date: 2025-10-21
 end_date: 2025-10-24
 status: completed
-tags: [experiment, RT-QuIC]
+tags:
+  - experiment
+  - RT-QuIC
 project: "[[USDA Validation]]"
 continued_from:
 association: MNPRO
 protocols:
-  - "[[Tissue RT-QuIC]]"
+  - "[[MNPRO Lab Notebook/Protocols/Tissue RT-QuIC]]"
 ---
 
 ## Purpose

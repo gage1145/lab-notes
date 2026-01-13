@@ -1,7 +1,7 @@
 ---
-name: 20251230_pr2_GR_muscle-LN
-start_date: 2025-12-30
-end_date: 2026-01-01
+name: 20260106_pr2_GR_muscle-LN-brain
+start_date: 2026-01-06
+end_date: 2026-01-08
 status: completed
 tags: [experiment]
 project: "[[Diagnostics]]"
@@ -22,7 +22,6 @@ protocols:
 - Vortex
 ### Consumables
 - Priogen RT-QuIC kit buffer A
-- Nanoparticle suspension
 - MNPROtein aliquots
 - 10% (w:v) tissue homogenate
 - Sample dilution buffer (No N$_2$)
@@ -33,16 +32,19 @@ protocols:
 #### Make Master Mix
 1. In a 10mL tube, add the reagents in order and vortex:
 	- 4707μL diH2O
-	- 1460μL Buffer A
-	- 2500μL Nanoparticles
+	- 1460 μL Buffer A
+	- 1250 μL Buffer B
+	- 1250 μL Buffer C
 	- Total volume will equal ∼8.7mL.
 2. Add 1333μL of MNPROtein™ (lot number 1000) to the same 10 mL
 tube and mix gently by inversion.
 	- Total volume will equal 10 mL
 #### Prepare Sample Dilutions
-1. Remove tissue homogenate from freezer.
-2. Resuspend muscle pellets in 200 μL of Sample dilution buffer.
-	- This is considered a 10$^{−1}$ dilution
+1. Remove tissue homogenate from freezer and allow to thaw.
+	- 10% (w:v) tissue homogenates are considered to be a dilution of 10$^{−1}$.
+2. Dilute the sample to at least 10$^{−2}$.
+	- Brain samples will need another 10-fold dilution to be detected.
+	- Brain samples should be tested at 10$^{−3}$ and 10$^{−4}$.
 #### Plate Setup
 1. Pipet 98 μL of master mix into each well of the microplate.
 2. Pipet 2 μL of the tissue dilution to each well.
