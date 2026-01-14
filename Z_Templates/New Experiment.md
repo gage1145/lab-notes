@@ -41,11 +41,11 @@ protocolFile = await tp.system.suggester(
 );
 
 // Load protocol content WITHOUT frontmatter
-if (protocolFile) {
-	const raw = await app.vault.read(protocolFile);
-	protocolContent = raw.replace(/^---\s*[\s\S]*?\s*---\s*/m, "").trim();
-}
-protocolContent = protocolContent.replaceAll("##", "###")
+// if (protocolFile) {
+// 	const raw = await app.vault.read(protocolFile);
+// 	protocolContent = raw.replace(/^---\s*[\s\S]*?\s*---\s*/m, "").trim();
+// }
+// protocolContent = protocolContent.replaceAll("##", "###")
 -%>
 ---
 name: <% newTitle %>
@@ -61,5 +61,5 @@ protocols: "[[<% protocolFile?.basename ?? "" %>]]"
 ## Purpose
 
 ## Design
-<% protocolContent %>
+
 ## Results
