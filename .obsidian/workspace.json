@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d3a93159b22a9e0a",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "7debff734ac61b98",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 493.5
+    "width": 282.5
   },
   "right": {
     "id": "5a066b9f626cd31c",
@@ -190,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7debff734ac61b98",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "MNPRO Lab Notebook/Experiments/USDA Validation/20260113_r3_GR_USDA-blood_2X_RT-QuIC.md",
     "MNPRO Lab Notebook/Experiments/USDA Validation/20260113_r4_GR_USDA-blood_2X_Nano-QuIC.md",
