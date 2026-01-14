@@ -17,7 +17,9 @@ In order to get accurate results with mass spec, the team informed me that I nee
 ## Design
 1. Resuspend pellet in 100$\textmu$L water.
 2. Measure the concentrations using the Qubit protein assay.
+	1. Use the 10$\textmu$L Qubit protocol. The protein concentration may be quite small.
 ## Results
+<div style="page-break-after: always;"></div>
 
 | Sample      | Concentration | Volume | Total Protein |
 | ----------- | ------------- | ------ | ------------- |
