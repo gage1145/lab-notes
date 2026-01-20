@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MNPRO Lab Notebook/Meetings/2026-01-15 USDA Project Check-in.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-15 USDA Project Check-in"
+              "title": "Home"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Home.md",
     "MNPRO Lab Notebook/Meetings/2026-01-15 USDA Project Check-in.md",
+    "Home.md",
     "Priogen Lab Notebook/Protocols/Tissue RT-QuIC.md",
     "Priogen Lab Notebook/Protocols/Swab RT-QuIC.md",
     "Priogen Lab Notebook/Projects/RnD.md",

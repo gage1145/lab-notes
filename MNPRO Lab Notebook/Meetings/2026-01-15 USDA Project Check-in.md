@@ -1,7 +1,7 @@
 ---
 name: 2026-01-15 USDA Project Check-in
 date: 2026-01-15
-tags: meeting
+tags: [meeting]
 continued_from:
 association: MNPRO
 summary:
