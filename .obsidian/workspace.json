@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Priogen Lab Notebook/Meetings/2026-01-20 Lab Planning Meeting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "2026-01-20 Lab Planning Meeting"
+            }
+          },
+          {
+            "id": "3dd52d74d56d78eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Priogen Lab Notebook/Meetings/2026-01-12 Lab Planning Meeting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-12 Lab Planning Meeting"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,10 +210,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "3dd52d74d56d78eb",
   "lastOpenFiles": [
-    "MNPRO Lab Notebook/Meetings/2026-01-15 USDA Project Check-in.md",
+    "Priogen Lab Notebook/Meetings/2026-01-20 Lab Planning Meeting.md",
+    "Priogen Lab Notebook/Meetings/2026-01-12 Lab Planning Meeting.md",
     "Home.md",
+    "MNPRO Lab Notebook/Meetings/2026-01-15 USDA Project Check-in.md",
     "Priogen Lab Notebook/Protocols/Tissue RT-QuIC.md",
     "Priogen Lab Notebook/Protocols/Swab RT-QuIC.md",
     "Priogen Lab Notebook/Projects/RnD.md",
@@ -206,7 +224,6 @@
     "Priogen Lab Notebook/Experiments/RnD",
     "Priogen Lab Notebook/Experiments/Diagnostics/20260106_pr2_GR_muscle-LN-brain.md",
     "conflict-files-obsidian-git.md",
-    "Priogen Lab Notebook/Meetings/2026-01-12 Lab Planning Meeting.md",
     "Priogen Lab Notebook/Experiments/Diagnostics/20251230_pr2_GR_muscle-LN.md",
     "MNPRO Lab Notebook/Experiments/Soil Mass Spec/2026-01-06 Protein Concentrations of Soil Extractions.md",
     "MNPRO Lab Notebook/Meetings/2025-12-15 Wolf Lab Meeting.md",
@@ -232,7 +249,6 @@
     "MNPRO Lab Notebook/Figures/USDA Validation/20250808_r12_GR_USDA-blood_Nano-QuIC.png",
     "MNPRO Lab Notebook/Experiments/USDA Validation/20251216_r14_GR_RAMALT_Nano-QuIC.md",
     "MNPRO Lab Notebook/Experiments/USDA Validation/20251216_r12_GR_RAMALT_RT-QuIC.md",
-    "MNPRO Lab Notebook/Experiments/Soil Mass Spec/2025-12-22 Sample Submission to Mass Spec.md",
     "MNPRO Lab Notebook/Meetings",
     "MNPRO Lab Notebook/Experiments/Soil Mass Spec",
     "MNPRO Lab Notebook/Figures/USDA Validation/20251205_r2_SG_USDA-oral-swabs_Nano-QuIC.png",

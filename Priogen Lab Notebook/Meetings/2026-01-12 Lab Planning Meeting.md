@@ -32,5 +32,5 @@ summary:
 	2. Need to do image analysis
 8. PriLIMS
 	- [x] Add an inline in the sample table for diagnoses ✅ 2026-01-13
-	- [ ] Add logic to run QC on plates if controls are bad...
-	- [ ] Add reaction field for passing QC.
+	- [x] Add logic to run QC on plates if controls are bad... ✅ 2026-01-20
+	- [x] Add reaction field for passing QC. ✅ 2026-01-20
