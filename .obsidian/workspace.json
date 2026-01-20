@@ -35,8 +35,7 @@
               "title": "2026-01-12 Lab Planning Meeting"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,10 +209,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3dd52d74d56d78eb",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Priogen Lab Notebook/Meetings/2026-01-20 Lab Planning Meeting.md",
     "Priogen Lab Notebook/Meetings/2026-01-12 Lab Planning Meeting.md",
+    "Priogen Lab Notebook/Meetings/2026-01-20 Lab Planning Meeting.md",
     "Home.md",
     "MNPRO Lab Notebook/Meetings/2026-01-15 USDA Project Check-in.md",
     "Priogen Lab Notebook/Protocols/Tissue RT-QuIC.md",

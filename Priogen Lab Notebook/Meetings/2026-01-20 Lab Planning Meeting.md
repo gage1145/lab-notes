@@ -22,4 +22,8 @@ summary:
 5. RnD
 	1. Tried new homogenizers on muscle
 		1. Can get 100mg with 900mL but it is a tight fit.
-6. 
+6. PriLIMS
+	1. Add reporting to sample level
+	2. Auto update from order level
+	3. Change perc_cross based on tissue type.
+	4. Add whether a sample is a tissue/swab/soil/etc.
