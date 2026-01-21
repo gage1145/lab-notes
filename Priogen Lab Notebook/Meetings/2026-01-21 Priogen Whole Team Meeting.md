@@ -7,9 +7,13 @@ association: Priogen
 summary:
 ---
 
-## **Attendees**
-- 
-
+## Attendees
+- Peter
+- Marc
+- Tonya
+- Tom
+- Gage
+- Roxy
 ## Overview
 1. Increase of 315% in revenue last year.
 2. Getting established with state agencies
@@ -69,7 +73,7 @@ summary:
 		2. Go to grants.gov
 8. Series A
 	1. Best approach may be a bridge round
-	2. "Pre-series A" - It derisks
+	2. "Pre-series A"
 	3. 2 year estimate is $3 million
 	4. Need to hire C-suite people.
 	5. We have a list of 20-30 VC groups.
