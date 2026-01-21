@@ -60,5 +60,16 @@ summary:
 	10. New Mexico University
 	11. Florida PrioScout
 7. Other Funding
-	
-	
+	1. USDA grants
+		1. We should be considered as a core diagnostic lab
+	2. DTRA
+		1. Is Priogen registered for DoD funding?
+	3. STYR & STTR for PrioVision
+		1. Look at open calls
+		2. Go to grants.gov
+8. Series A
+	1. Best approach may be a bridge round
+	2. "Pre-series A" - It derisks
+	3. 2 year estimate is $3 million
+	4. Need to hire C-suite people.
+	5. We have a list of 20-30 VC groups.
