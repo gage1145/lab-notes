@@ -1,11 +1,12 @@
 ---
 name: 2026-01-06 Protein Concentrations of Soil Extractions
-start_date: 2026-01-06
-end_date:
-status: in-progress
-tags: [experiment]
+start_date: 2026-01-16
+end_date: 2026-01-16
+status: completed
+tags:
+  - experiment
 project: "[[Soil Mass Spec]]"
-continued_from:
+continued_from: "[[2025-12-17 Extracting Prions from Beltrami Soil]]"
 association: MNPRO
 protocols: "[[Soil Prion Extraction]]"
 ---
