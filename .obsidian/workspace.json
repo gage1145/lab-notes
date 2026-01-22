@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "6c48af12f1054bc8",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "569b05ddd5037617",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "569b05ddd5037617",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "MNPRO Lab Notebook/Experiments/Soil Mass Spec/2026-01-06 Protein Concentrations of Soil Extractions.md",
+    "conflict-files-obsidian-git.md",
     "Priogen Lab Notebook/Meetings/2026-01-21 Priogen Whole Team Meeting.md",
     "MNPRO Lab Notebook/Experiments/Soil Mass Spec/2025-12-17 Extracting Prions from Beltrami Soil.md",
     "MNPRO Lab Notebook/Experiments/USDA Validation/20260121_r7_GR_RAMALT_Nano-QuIC.md",
