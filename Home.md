@@ -56,6 +56,7 @@ TABLE WITHOUT ID
 file.link AS Meeting,
 summary AS Summary
 FROM #meeting 
+SORT date DESC
 `
 
 dv.execute(DQL)

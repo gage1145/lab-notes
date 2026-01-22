@@ -4,7 +4,7 @@ date: 2026-01-05
 tags: [meeting]
 continued_from:
 association: Priogen
-summary:
+summary: The team reviewed recent Nano-QuIC results, noting one positive sample and the need to rerun LN dilutions at −2 and −3, alongside completion of fourth-quarter lab swab extractions. R&D planning focused on testing sensitivity at lower dilutions, evaluating Micro-QuIC reagent storage conditions, and advancing PrioVision, with engineering and 3D-printing timelines now moving forward. Database questions centered on result overwriting and using AUC to better capture diagnostic timing. Upcoming logistics include sending QuIC kits to UPenn, a meeting with Iceland collaborators, and a defined plate-running schedule for the week.
 ---
 
 ## **Attendees**
