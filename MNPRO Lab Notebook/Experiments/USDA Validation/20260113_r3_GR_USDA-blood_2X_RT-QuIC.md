@@ -2,7 +2,7 @@
 name: 20260113_r3_GR_USDA-blood_2X_RT-QuIC
 start_date: 2026-01-13
 end_date: 2026-01-17
-status: in-progress
+status: completed
 tags: [experiment]
 project: "[[USDA Validation]]"
 continued_from: "[[20251024_r8_GR_USDA-blood_2X_RT-QuIC]]"
