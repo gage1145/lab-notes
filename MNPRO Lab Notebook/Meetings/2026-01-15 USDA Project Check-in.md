@@ -5,6 +5,7 @@ tags: [meeting]
 continued_from:
 association: MNPRO
 summary:
+project: "[[USDA Validation]]"
 ---
 
 ## **Attendees**
