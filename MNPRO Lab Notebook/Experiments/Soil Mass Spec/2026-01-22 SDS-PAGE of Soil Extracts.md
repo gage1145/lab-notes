@@ -1,7 +1,7 @@
 ---
 name: 2026-01-22 SDS-PAGE of Soil Extracts
 start_date: 2026-01-22
-end_date:
+end_date: 2026-01-27
 status: in-progress
 tags: [experiment]
 project: "[[Soil Mass Spec]]"
@@ -53,3 +53,5 @@ These soil extracts must be run on SDS-PAGE in order to be analyzed by mass spec
 | GR01-S3        | 37                    | 40          | 1480               | 30.83                   | 285            | 9.24       | 3          |
 
 ## Results
+
+![[20260127_SDS-PAGE.svg]]
