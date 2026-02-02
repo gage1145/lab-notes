@@ -23,6 +23,7 @@ date: <% date %>
 tags: meeting
 continued_from:
 association: <% ass %>
+project:
 summary:
 ---
 

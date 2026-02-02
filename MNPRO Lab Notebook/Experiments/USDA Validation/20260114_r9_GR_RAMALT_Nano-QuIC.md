@@ -1,8 +1,8 @@
 ---
 name: 20260114_r9_GR_RAMALT_Nano-QuIC
 start_date: 2026-01-14
-end_date:
-status: in-progress
+end_date: 2026-01-17
+status: completed
 tags: [experiment]
 project: "[[USDA Validation]]"
 continued_from: "[[20251216_r14_GR_RAMALT_Nano-QuIC]]"

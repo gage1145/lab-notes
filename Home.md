@@ -22,21 +22,6 @@ cssclass: home
 >>WHERE status = "completed"
 >>```
 
-## Meetings
-
-```dataviewjs
-const DQL = `
-TABLE WITHOUT ID
-file.link AS Meeting,
-summary AS Summary
-FROM #meeting 
-`
-
-dv.execute(DQL)
-
-dv.container.classList.add("meetingTable")
-```
-
 ## Experiments
 
 >[!multi-column]
@@ -63,4 +48,18 @@ dv.container.classList.add("meetingTable")
 >>LIMIT 20
 >>```
 >
----
+## Meetings
+
+```dataviewjs
+const DQL = `
+TABLE WITHOUT ID
+file.link AS Meeting,
+summary AS Summary
+FROM #meeting 
+SORT date DESC
+`
+
+dv.execute(DQL)
+
+dv.container.classList.add("meetingTable")
+```

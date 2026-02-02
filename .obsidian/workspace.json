@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Priogen Lab Notebook/Meetings/2026-02-02 Lab Planning Meeting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "2026-02-02 Lab Planning Meeting"
+            }
+          },
+          {
+            "id": "352fe7f7378c4521",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 334.5,
+    "collapsed": true
   },
   "right": {
     "id": "5a066b9f626cd31c",
@@ -176,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,12 +211,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "352fe7f7378c4521",
   "lastOpenFiles": [
-    "MNPRO Lab Notebook/Experiments/Soil Mass Spec/2026-01-06 Protein Concentrations of Soil Extractions.md",
-    "Home.md",
-    "Priogen Lab Notebook/Meetings/2026-01-21 Priogen Whole Team Meeting.md",
+    "Priogen Lab Notebook/Meetings/2026-02-02 Lab Planning Meeting.md",
     "conflict-files-obsidian-git.md",
+    "2026-02-02 Planning Meeting.md",
+    "Home.md",
+    "MNPRO Lab Notebook/Figures/Soil Mass Spec/20260127_SDS-PAGE.svg",
+    "MNPRO Lab Notebook/Figures/Soil Mass Spec",
+    "MNPRO Lab Notebook/Experiments/Soil Mass Spec/2026-01-22 SDS-PAGE of Soil Extracts.md",
+    "MNPRO Lab Notebook/Experiments/Soil Mass Spec/2026-01-06 Protein Concentrations of Soil Extractions.md",
+    "Priogen Lab Notebook/Meetings/2026-01-21 Priogen Whole Team Meeting.md",
     "Priogen Lab Notebook/Meetings/2026-01-20 Lab Planning Meeting.md",
     "MNPRO Lab Notebook/Experiments/USDA Validation/20260121_r7_GR_RAMALT_Nano-QuIC.md",
     "MNPRO Lab Notebook/Experiments/USDA Validation/20260121_r5_GR_RAMALT_RT-QuIC.md",
@@ -221,10 +243,7 @@
     "Priogen Lab Notebook/Projects/Shipping MNPROtein in MasterMix.md",
     "Priogen Lab Notebook/Meetings",
     "Priogen Lab Notebook/Experiments/PrioVision/2025-12-16 PrioVision Overheating Troubleshooting.md",
-    "Priogen Lab Notebook/Experiments/PrioVision/2025-12-10 PrioVision Overheating Troubleshooting.md",
     "Priogen Lab Notebook/Experiments/PrioVision",
-    "Priogen Lab Notebook/Experiments/Diagnostics/20251210_pr2_GR_brain-brainSwabs.md",
-    "Priogen Lab Notebook/Experiments/Diagnostics/20251216_pr1_GR_muscle-LN.md",
     "Priogen Lab Notebook/Experiments/Diagnostics",
     "MNPRO Lab Notebook/Figures/USDA Validation/20250821_r1_GR_USDA-oral-swabs_RT-QuIC.png",
     "MNPRO Lab Notebook/Figures/USDA Validation/20250818_r7_GR_USDA-blood_Nano-QuIC.png",
@@ -237,10 +256,8 @@
     "MNPRO Lab Notebook/Experiments/Soil Mass Spec",
     "MNPRO Lab Notebook/Figures/USDA Validation/20251205_r2_SG_USDA-oral-swabs_Nano-QuIC.png",
     "MNPRO Lab Notebook/Figures/USDA Validation/20251205_r1_SG_USDA-oral-swabs_RT-QuIC.png",
-    "MNPRO Lab Notebook/Figures/USDA Validation/20251203_r4_SG_USDA-oral-swabs_Nano-QuIC.png",
     "MNPRO Lab Notebook/Figures/USDA Validation",
     "MNPRO Lab Notebook/Figures",
-    "MNPRO Lab Notebook/Experiments/USDA Validation",
-    "Priogen Lab Notebook/Experiments"
+    "MNPRO Lab Notebook/Experiments/USDA Validation"
   ]
 }
