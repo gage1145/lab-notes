@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Priogen Lab Notebook/Meetings/2026-02-02 Lab Planning Meeting.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-02 Lab Planning Meeting"
-            }
-          },
-          {
-            "id": "352fe7f7378c4521",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Home"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,10 +196,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "352fe7f7378c4521",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Priogen Lab Notebook/Meetings/2026-02-02 Lab Planning Meeting.md",
     "conflict-files-obsidian-git.md",
+    "Priogen Lab Notebook/Meetings/2026-02-02 Lab Planning Meeting.md",
     "2026-02-02 Planning Meeting.md",
     "Home.md",
     "MNPRO Lab Notebook/Figures/Soil Mass Spec/20260127_SDS-PAGE.svg",
