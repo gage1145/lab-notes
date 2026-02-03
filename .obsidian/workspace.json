@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MNPRO Lab Notebook/Experiments/Soil Mass Spec/2026-01-22 SDS-PAGE of Soil Extracts.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-01-22 SDS-PAGE of Soil Extracts"
+              "title": "New tab"
             }
           }
         ]
@@ -196,9 +192,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "MNPRO Lab Notebook/Experiments/Soil Mass Spec/2026-01-22 SDS-PAGE of Soil Extracts.md",
     "MNPRO Lab Notebook/Figures/Soil Mass Spec/20260127_SDS-PAGE.svg",
     "MNPRO Lab Notebook/Figures/Soil Mass Spec",
-    "MNPRO Lab Notebook/Experiments/Soil Mass Spec/2026-01-22 SDS-PAGE of Soil Extracts.md",
     "Untitled figure panel.svg",
     "Home.md",
     "MNPRO Lab Notebook/Meetings/2026-01-15 USDA Project Check-in.md",
