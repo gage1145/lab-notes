@@ -1,9 +1,10 @@
 ---
-name: 2025-12-22 Sample Submission to Mass Spec
-start_date: 2025-12-22
+name: 2026-02-03 Sample Submission to Mass Spec
+start_date: 2026-02-03
 end_date:
 status: in-progress
-tags: [experiment]
+tags:
+  - experiment
 project: "[[Soil Mass Spec]]"
 continued_from:
 association: MNPRO
@@ -18,8 +19,7 @@ These samples will be submitted to mass spec for a targeted assay. My goal is fo
 - Samples will be submitted as gel bands.
 - Gel bands will need to be de-stained for silver.
 - Samples will need to be trypsin digested.
-### Reference White-tailed Deer PrP Sequence
-
+### Reference White-tailed Deer PrP Sequence(FASTA Format)
 ```fasta
 >QMS79225.1 prion protein [Odocoileus virginianus]
 MVKSHIGSWILVLFVAMWSDVGLCKKRPKPGGGWNTGGSRYPGQGSPGGNRYPPQGGGGWGQPHGGGWGQPHGGGWGQPH
@@ -27,42 +27,49 @@ GGGWGQPHGGGGWGQGGTHSQWNKPSKPKTNMKHVAGAAAAGAVVGGLGGYMLGSAMSRPLIHFGNDYEDRYYRENMYRY
 PNQVYYRPVDQYNNQNTFVHDCVNITVKQHTVTTTTKGENFTETDIKMMERVVEQMCITQYQRESQAYYQRGASVILFSS
 PPVILLISFLIFLIVG
 ```
-
-### Reference Sequences for other Species
-
+### Reference Sequences for other Species (FASTA Format)
 ```fasta
 >AAD13289.1 prion protein, partial [Cervus nippon mantchuricus]
 KKRPKPGGGWNTGGSRYPGQGSPGGNRYPPQGGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQPHGGGGWGQGGTHSQWNK
 PSKPKTNMKHVAGAAAAGAVVGGLGGYMLGSAMSRPLIHFGNDYEDRYYRENMYRYPNQVYYRPVDQYNNQNTFVHDCVN
 ITVKQHTVTTTTKGENFTETDIKMM
+
 >6FNV_A Chain A, Major prion protein [Odocoileus hemionus]
 GQGGTHSQWNKPSKPKTNMKHVAGAAAAGAVVGGLGGYMLGSAMSRPLIHFGNDYEDRYYRENMYRYPNQVYYRPVDQYN
 NQNTFVHDCVNITVKQHTVTTTTKGENFTETDIKMMERVVEQMCITQYQRESQAYYQRGA
+
 >UXP86346.1 prion protein PrP, partial [Rangifer tarandus]
 KTNMKHVAGAAAAGAVVGGLGGYMLGSAMSRPLIHFGNDYEDRYYRENMYRYPNQVYYRPVDQYNNQNTFVHDCVNITVK
 QHTVTTTTKGENFTETDIKMMERVVEQMCITQYQRESQAYYQRGASVILFSSP
+
 >QMS79214.1 prion protein, partial [Odocoileus virginianus]
 VGLCKKRPKPGGGWNTGGSRYPGQGSPGGNRYPPQGGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQPHGGGGWGQSGTHS
 QWNKPSKPKTNMKHVAGAAAAGAVVGGLGGYMLGSAMSRPLIHFGNDYEDRYYRENMYRYPNQVYYRPVDQYNNQNTFVH
 DCVNITVKQHTVTTTTKGENFTETDIKMMERVVEQMCITQYQRESQA
+
 >AAF91403.1 prion protein, partial [Ovis aries]
 MVKSHIGSWILVLFVAMWSDVGLCKKRPKPGGGWNTGGSRYPGQGSPGGNRYPPQGGGGWGQPHGGGWGQPHGGGWGQPH
 GGGWGQPHGGGGWGQGGSHSXWNKPSKPKTNMKHVAGAAAAGAVVGGLGGYMLGSAMSRPLIH
+
 >UVC58669.1 prion protein, partial [Capra hircus]
 WILVLFVAMWSDVGLCKKRPKPGGGWNTGGSRYPGQGSPGGNRYPPQGGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQPH
 GGGGWGQGGSHSQWNKPSKPKTNMKHVAGAAAAGAVVGGLGGYMLGSAMSRPLIHFGNDYEDRYYRENMYRYPNQVYYRP
 VDQYSNQNNFVHDCVNITVKQHTVTTT
+
 >WQH83452.1 prion protein, partial [Connochaetes gnou]
 SDVGLCKKRPKPGGGWNTGGSRYPGQGSPGGNRYPPQGGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQPHGGGGWGQGGT
 HSQWNKPSKPKTNMKHMAGAAAAGAVVGGLGGYMLGSAMSRPLIHFGNDYEDRYYRENMYRYPNQVYYRPVDQYSNQNNF
 VHDCVNITVKQHTVTTTTKGENFTETDIKIMERVVEQMCITQYQRESQAYYQRGASVILFSSP
+
 >AXQ60482.1 prion protein, partial [Naemorhedus griseus]
 MVKSHIGSWILVLFVAMWSDVGLCKKRPKPGGGWNTGGSRYPGQGSPGGNRYPPQGGGGWGQPHGGGWGQPHGGGWGQPH
 GGGWGQPHGGGGWGQGGSHSQWNKPSKPKTNMKHVAGAAAAGAVVGGLGGYMLGSAMSRPLIHFGNDYEDRYYRENMYRY
 PNQVYYRPVDQYSNQNNFVHDCVNITVKQHTVTTTTKGENFTETDIKIMERVVEQMC
+
 >AAD19982.1 prion protein, partial [Tursiops truncatus]
 GGNRYPPQGGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQPHGGGGWGQGGGTHNQWKPSKPKTNMKHVAGAAAAGAVVGG
 LGGYMLGSAMSRPLIHFGSDYEDRYYRENMYRYPNQVYYRPVDQYNNQNSFVHDCVKITVK
+
 >4KML_A Chain A, Major prion protein [Homo sapiens]
 MGSSHHHHHHSSGLVPRGSHMASMTGGQQMGRGKRPKPGGWNTGGSRYPGQGSPGGNRYPPQGGGGWGQPHGGGWGQPHG
 GGWGQPHGGGWGQPHGGGWGQGGGTHSQWNKPSKPKTNMKHMAGAAAAGAVVGGLGGYMLGSAMSRPIIHFGSDYEDRYY
@@ -71,6 +78,7 @@ S
 ```
 
 <div style="page-break-after: always;"></div>
+
 ### Peptide Information
 #### Peptide 1
 - Sequence:\[NH2]GENFTETDI(K)\[COOH]
@@ -90,7 +98,6 @@ S
 | 1      | 13.739               | 2.791  |
 | 2      | 14.827               | 97.209 |
 
-<div style="page-break-after: always;"></div>
 #### Peptide 2
 - Sequence:\[NH2]YPGQGSPGGN(R)\[COOH]
 - Concentration: 5pmol/$\textmu$L
@@ -111,6 +118,7 @@ S
 | 3      | 11.108               | 0.184  |
 
 <div style="page-break-after: always;"></div>
+
 #### Peptide 3a
 - Sequence:\[NH2]VVEQ\[M(O)]\[C(CAM)]ITQY(R)\[COOH]
 - Concentration: 5pmol/$\textmu$L
@@ -131,7 +139,6 @@ S
 | 3      | 12.703               | 97.894 |
 | 4      | 12.842               | 0.452  |
 
-<div style="page-break-after: always;"></div>
 #### Peptide 3b
 - Sequence:\[NH2]VVEQM\[C(CAM)]ITQY(R)\[COOH]
 - Concentration: 5pmol/$\textmu$L
@@ -153,6 +160,7 @@ S
 | 4      | 13.709               | 0.172  |
 
 <div style="page-break-after: always;"></div>
+
 #### Peptide 4
 - Sequence:\[NH2]ESQAYYQ(R)\[COOH]
 - Concentration: 5pmol/$\textmu$L
@@ -172,14 +180,23 @@ S
 | 2      | 10.810               | 99.256 |
 | 3      | 10.979               | 0.284  |
 
-<div style="page-break-after: always;"></div>
 ### Positive Sample Information
 - 141234
 	- SD$_{50}$: 5E$^{10}$/mL
-		- Equivalent amount in spike: 2.5E$^8$.
+		- Equivalent amount in spike: 2.5E$^{8}$.
 - 1268-P
 	- A Minnesota deer lymph node homogenate that might be more representative of the soil extracts.
 ### Samples to Submit - 36 Total
+- Sample Treatment
+	- All controls and unknowns are contained in polyacrylamide gel.
+	- Samples will need to be de-stained for silver.
+	- Peptides are submitted as liquid aliquots.
+- Analysis Request
+	- Targeted mass spec using white-tailed deer prion protein as reference sequence.
+	- Target peptides are included as reference for retention time and mass spec fingerprint reference.
+<div style="page-break-after: always;"></div>
+
+### Sample IDs
 >[!multi-column]
 >>#### Controls
 >>- A1
@@ -222,3 +239,6 @@ S
 >>- PL18-W1
 >>- GR01-S3
 
+### SDS-PAGE
+
+![[20260127_SDS-PAGE.jpg]]
