@@ -2,20 +2,54 @@
 cssclass: home
 ---
 
-## Projects
+## Experiments per Month
 
 ```dataviewjs
-let pages = dv.pages("#experiment");
-let dates = pages.groupBy(p => p['start_date']).key;
-let counts = [];
+let pages = dv.pages("#experiment").where(p => p.start_date);
 
-for (let date in dates) {
-	let exps = pages.where(p => p.start_date == date).length();
-	counts.push(exps);
+let groups = pages
+  .groupBy(p => {
+    let d = new Date(p.start_date);
+    return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}`;
+  })
+  .sort(g => g.key);
+
+let dates = groups.map(g => g.key).values;
+let counts = groups.map(g => g.rows.length).values;
+
+const chartData = {
+  type: 'line',
+  data: {
+    labels: dates,
+    datasets: [{
+      label: '# of Experiments',
+      data: counts,
+      borderColor: "#5CEF88",
+    }]
+  },
+  options: {
+  responsive: true,
+  scales: {
+    x: {
+      type: 'time',
+      time: {
+        unit: 'month',
+        displayFormats: {
+          month: 'MMM yyyy'
+        }
+      }
+    }
+  },
+  plugins: {
+    legend: { display: true }
+  }
 }
+};
 
-dv.list(counts);
+window.renderChart(chartData, this.container);
 ```
+
+## Projects
 
 >[!multi-column]
 >>### In-Progress
