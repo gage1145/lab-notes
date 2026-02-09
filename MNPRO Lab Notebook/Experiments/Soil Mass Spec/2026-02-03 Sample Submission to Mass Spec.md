@@ -3,8 +3,7 @@ name: 2026-02-03 Sample Submission to Mass Spec
 start_date: 2026-02-03
 end_date:
 status: in-progress
-tags:
-  - experiment
+tags: [experiment]
 project: "[[Soil Mass Spec]]"
 continued_from:
 association: MNPRO
@@ -20,6 +19,7 @@ These samples will be submitted to mass spec for a targeted assay. My goal is fo
 - Gel bands will need to be de-stained for silver.
 - Samples will need to be trypsin digested.
 ### Reference White-tailed Deer PrP Sequence(FASTA Format)
+
 ```fasta
 >QMS79225.1 prion protein [Odocoileus virginianus]
 MVKSHIGSWILVLFVAMWSDVGLCKKRPKPGGGWNTGGSRYPGQGSPGGNRYPPQGGGGWGQPHGGGWGQPHGGGWGQPH
@@ -27,7 +27,9 @@ GGGWGQPHGGGGWGQGGTHSQWNKPSKPKTNMKHVAGAAAAGAVVGGLGGYMLGSAMSRPLIHFGNDYEDRYYRENMYRY
 PNQVYYRPVDQYNNQNTFVHDCVNITVKQHTVTTTTKGENFTETDIKMMERVVEQMCITQYQRESQAYYQRGASVILFSS
 PPVILLISFLIFLIVG
 ```
+
 ### Reference Sequences for other Species (FASTA Format)
+
 ```fasta
 >AAD13289.1 prion protein, partial [Cervus nippon mantchuricus]
 KKRPKPGGGWNTGGSRYPGQGSPGGNRYPPQGGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQPHGGGGWGQGGTHSQWNK
