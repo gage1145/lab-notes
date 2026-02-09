@@ -1,11 +1,11 @@
 ---
 name: 2026-02-09 Wolf Lab Meeting
 date: 2026-02-09
-tags: meeting
+tags: [meeting]
 continued_from: "[[2025-12-15 Wolf Lab Meeting]]"
 association: MNPRO
 project:
-summary:
+summary: The team shared updates on training, manuscripts, and upcoming schedules, with Tiffany nearing completion of a manuscript review and several members planning time away. Lab and research updates included RT-QuIC training progress, mass spectrometry samples now with the core lab, and confirmation that all deer capture lymph nodes tested negative, with a small set of older samples still unaccounted for. Ongoing work includes manuscript and grant preparation, fellowship and conference applications, and protocol comparisons. Several trainings and practice presentations are scheduled for the coming week.
 ---
 
 ## **Attendees**
@@ -18,7 +18,7 @@ summary:
 - Gage
 
 ## Overview
-1. Tiffany is on her last manuscript review. 
+1. Tiffany is on her last manuscript review.
 2. She'll be out Friday and Monday.
 3. Practice talk next Monday for Miranda.
 4. Gage

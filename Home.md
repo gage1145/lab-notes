@@ -3,6 +3,20 @@ cssclass: home
 ---
 
 ## Projects
+
+```dataviewjs
+let pages = dv.pages("#experiment");
+let dates = pages.groupBy(p => p['start_date']).key;
+let counts = [];
+
+for (let date in dates) {
+	let exps = pages.where(p => p.start_date == date).length();
+	counts.push(exps);
+}
+
+dv.list(counts);
+```
+
 >[!multi-column]
 >>### In-Progress
 >>
@@ -45,7 +59,7 @@ cssclass: home
 >>FROM #experiment 
 >>WHERE status = "completed"
 >>SORT start_date DESC 
->>LIMIT 20
+>>LIMIT 10
 >>```
 >
 ## Meetings
@@ -57,6 +71,7 @@ file.link AS Meeting,
 summary AS Summary
 FROM #meeting 
 SORT date DESC
+LIMIT 10
 `
 
 dv.execute(DQL)

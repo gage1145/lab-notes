@@ -50,3 +50,5 @@ This is a continuation of [[20251024_r8_GR_USDA-blood_2X_RT-QuIC]]. These are th
 | **H**   | 1000  | 10    | 100   | 1000  | 10000 | 1     | 10    | 100   | 1000  |        |        |        |
 
 ## Results
+
+![[20260113_r3_GR_USDA-blood_2X_RT-QuIC.png]]

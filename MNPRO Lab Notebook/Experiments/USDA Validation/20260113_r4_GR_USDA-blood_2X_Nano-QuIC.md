@@ -50,3 +50,5 @@ This is a continuation of [[20251024_r9_GR_USDA-blood_2X_Nano-QuIC]]. These are 
 | **H**   | 1000  | 10    | 100   | 1000  | 10000 | 1     | 10    | 100   | 1000  |        |        |        |
 
 ## Results
+
+![[20260113_r4_GR_USDA-blood_2X_Nano-QuIC.png]]
