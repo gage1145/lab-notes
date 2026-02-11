@@ -1,7 +1,7 @@
 ---
 name: 2026-02-09 Wolf Lab Meeting
 date: 2026-02-09
-tags: meeting
+tags: [meeting]
 continued_from: "[[2025-12-15 Wolf Lab Meeting]]"
 association: MNPRO
 project:
@@ -18,7 +18,7 @@ summary:
 - Gage
 
 ## Overview
-1. Tiffany is on her last manuscript review. 
+1. Tiffany is on her last manuscript review.
 2. She'll be out Friday and Monday.
 3. Practice talk next Monday for Miranda.
 4. Gage
