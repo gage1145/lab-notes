@@ -8,42 +8,54 @@ cssclass: home
 let pages = dv.pages("#experiment").where(p => p.start_date);
 
 let groups = pages
-  .groupBy(p => {
-    let d = new Date(p.start_date);
-    return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}`;
-  })
-  .sort(g => g.key);
+	 .groupBy(p => {
+		let d = new Date(p.start_date);
+		return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}`;
+	 })
+	.sort(g => g.key);
 
 let dates = groups.map(g => g.key).values;
 let counts = groups.map(g => g.rows.length).values;
+let color = "#5CEF88";
+let font = {
+	family: ''
+}
 
 const chartData = {
-  type: 'line',
-  data: {
-    labels: dates,
-    datasets: [{
-      label: '# of Experiments',
-      data: counts,
-      borderColor: "#5CEF88",
-    }]
-  },
-  options: {
-  responsive: true,
-  scales: {
-    x: {
-      type: 'time',
-      time: {
-        unit: 'month',
-        displayFormats: {
-          month: 'MMM yyyy'
-        }
-      }
-    }
-  },
-  plugins: {
-    legend: { display: true }
-  }
-}
+	type: 'line',
+	data: {
+	    labels: dates,
+	    datasets: [{
+			label: '# of Experiments',
+		    data: counts,
+		    borderColor: color,
+	    }]
+	},
+	options: {
+		responsive: true,
+		scales: {
+		    x: {
+		        type: 'time',
+			    time: {
+				    unit: 'month',
+			        displayFormats: {
+				        month: 'MMM yyyy'
+			        }
+			    },
+			    ticks: {
+				    color: color,
+			    }
+		    },
+		    y: {
+				ticks: {
+					color: color,
+				}
+			}
+		},
+		plugins: {
+		    legend: { display: true }
+		}
+	}
 };
 
 window.renderChart(chartData, this.container);
