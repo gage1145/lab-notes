@@ -7,7 +7,7 @@ author:
 date created: 2026-02-09
 tags: [project]
 abbreviation: GR
-status: active
+status: in-progress
 start: 2026-02-09
 end:
 association: MNPRO
