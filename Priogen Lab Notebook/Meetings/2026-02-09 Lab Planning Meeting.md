@@ -5,7 +5,7 @@ tags: [meeting]
 continued_from: "[[2026-02-02 Lab Planning Meeting]]"
 association: Priogen
 project:
-summary:
+summary: The team reviewed incoming samples and logistics, including new muscle samples to be processed next week and an expected shipment of ~200 oral swabs from Iceland arriving at MNPRO. Mississippi testing remains fluid, with 175 soil samples ready to ship, another 100–150 expected soon, and possible expansion to recurring or monthly testing. MNPROtein shipments to TVMDL and Canada are moving toward recurring orders, with efforts ongoing to send plates to Spain. Additional updates covered upcoming Micro-QuIC experiments, lab access needs, and team travel for the Southeast Deer Study later in the month.
 ---
 
 ## **Attendees**

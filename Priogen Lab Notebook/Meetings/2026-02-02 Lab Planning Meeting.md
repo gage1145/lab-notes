@@ -5,7 +5,7 @@ tags: [meeting]
 continued_from: "[[2026-01-20 Lab Planning Meeting]]"
 association: Priogen
 project:
-summary:
+summary: The meeting focused on project coordination and outstanding logistics, including a lack of response from Hunter and uncertainty around swab supplies, with PBS identified as a fallback. Updates on Iceland confirmed acceptance of the estimate, shipment plans for 214 oral swabs, required protocol updates, and a projected 10 plates over ~2.5 weeks. Mississippi and MNPROtein orders remain pending timelines, though packages are prepared, and LN pooling was discussed as most viable in low-prevalence, non-endemic areas due to break-even constraints. PriLIMS was noted as an ongoing consideration without specific updates.
 ---
 
 ## **Attendees**

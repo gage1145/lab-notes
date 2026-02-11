@@ -2,7 +2,65 @@
 cssclass: home
 ---
 
+## Experiments per Month
+
+```dataviewjs
+let pages = dv.pages("#experiment").where(p => p.start_date);
+
+let groups = pages
+	 .groupBy(p => {
+		let d = new Date(p.start_date);
+		return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}`;
+	 })
+	.sort(g => g.key);
+
+let dates = groups.map(g => g.key).values;
+let counts = groups.map(g => g.rows.length).values;
+let color = "#5CEF88";
+
+const chartData = {
+	type: 'line',
+	data: {
+	    labels: dates,
+	    datasets: [{
+			label: '# of Experiments',
+		    data: counts,
+		    borderColor: color,
+		    borderWidth: 5,
+	    }]
+	},
+	options: {
+		responsive: true,
+		scales: {
+		    x: {
+		        type: 'time',
+			    time: {
+				    unit: 'month',
+			        displayFormats: {
+				        month: 'MMM yyyy'
+			        }
+			    },
+			    ticks: {
+				    color: color,
+			    }
+		    },
+		    y: {
+				ticks: {
+					color: color,
+				}
+			}
+		},
+		plugins: {
+		    legend: { display: false }
+		}
+	}
+};
+
+window.renderChart(chartData, this.container);
+```
+
 ## Projects
+
 >[!multi-column]
 >>### In-Progress
 >>
@@ -45,7 +103,7 @@ cssclass: home
 >>FROM #experiment 
 >>WHERE status = "completed"
 >>SORT start_date DESC 
->>LIMIT 20
+>>LIMIT 10
 >>```
 >
 ## Meetings
@@ -57,6 +115,7 @@ file.link AS Meeting,
 summary AS Summary
 FROM #meeting 
 SORT date DESC
+LIMIT 10
 `
 
 dv.execute(DQL)

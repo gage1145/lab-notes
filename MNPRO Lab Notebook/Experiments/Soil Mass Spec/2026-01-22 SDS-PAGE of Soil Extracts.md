@@ -2,7 +2,7 @@
 name: 2026-01-22 SDS-PAGE of Soil Extracts
 start_date: 2026-01-22
 end_date: 2026-01-27
-status: in-progress
+status: completed
 tags: [experiment]
 project: "[[Soil Mass Spec]]"
 continued_from: "[[2026-01-06 Protein Concentrations of Soil Extractions]]"

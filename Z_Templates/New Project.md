@@ -21,7 +21,7 @@ author: Gage Rowden
 date created: <% tp.date.now("YYYY-MM-DD") %>
 tags: project
 abbreviation: GR
-status: active
+status: in-progress
 start: <% tp.date.now("YYYY-MM-DD") %>
 end:
 association: <% ass %>

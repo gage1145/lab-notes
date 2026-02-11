@@ -1,5 +1,6 @@
 :root {
-    --primary-font: 'Courier Prime Code', 'Courier New', monospace !important
+    --primary-font: 'Courier Prime Code', 'Courier New', monospace !important;
+    font-family: var(--primary-font);
 }
 
 /* For Editor & Preview */
@@ -26,5 +27,9 @@
 }
 
 .workspace-tab-header-inner {
+    font-family: var(--primary-font);
+}
+
+.chart-plugin {
     font-family: var(--primary-font);
 }
