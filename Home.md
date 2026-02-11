@@ -17,9 +17,6 @@ let groups = pages
 let dates = groups.map(g => g.key).values;
 let counts = groups.map(g => g.rows.length).values;
 let color = "#5CEF88";
-let font = {
-	family: ''
-}
 
 const chartData = {
 	type: 'line',
@@ -29,6 +26,7 @@ const chartData = {
 			label: '# of Experiments',
 		    data: counts,
 		    borderColor: color,
+		    borderWidth: 5,
 	    }]
 	},
 	options: {
@@ -53,7 +51,7 @@ const chartData = {
 			}
 		},
 		plugins: {
-		    legend: { display: true }
+		    legend: { display: false }
 		}
 	}
 };
