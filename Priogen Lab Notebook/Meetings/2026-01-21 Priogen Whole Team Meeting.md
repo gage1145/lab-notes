@@ -5,6 +5,7 @@ tags: [meeting]
 continued_from: "[[2025-12-17 Whole Team Meeting]]"
 association: Priogen
 summary: The team reviewed strong company momentum, including a 315% increase in revenue last year, progress establishing relationships with state agencies, and major technical advances in PrioVision and Micro-QuIC. Updates covered active and potential clients across multiple states and institutions, with several near-term contracts, pilot projects, and grant opportunities identified, alongside ongoing challenges related to the Mississippi contract and cash flow. Additional discussion focused on expanding diagnostic services, revitalizing MNPROtein sales, and pursuing federal funding through USDA and DTRA. The meeting concluded with strategic planning around fundraising, including a potential bridge round ahead of a pre–Series A and plans to build out the executive team.
+project:
 ---
 
 ## Attendees

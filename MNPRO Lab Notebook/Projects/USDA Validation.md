@@ -5,7 +5,7 @@ date created: 2025-12-04
 tags: [project]
 abbreviation: UV
 status: in-progress
-start: 2025-12-04
+start: 2025-07-14
 end:
 association: MNPRO
 ---
@@ -19,14 +19,9 @@ This project is in collaboration with the USDA. They have experimentally inocula
 ```dataview
 TABLE WITHOUT ID
 file.name AS Experiment,
+start_date AS Date,
 protocols AS Protocols
 FROM #experiment 
 WHERE project = this.file.link
-```
-
-## Meetings
-
-```dataview
-LIST FROM #meeting 
-WHERE project = this.link LIMIT 6
+SORT Date DESC
 ```

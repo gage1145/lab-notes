@@ -5,6 +5,7 @@ tags: [meeting]
 continued_from:
 association: Priogen
 summary: The meeting reviewed strong financial performance, with $350k in revenue, 200% growth this year, and a $450k break-even target. Sales and marketing updates highlighted growth in Mississippi testing, steady MNPROtein sales, modest increases in venison kits, and expanded marketing efforts including LinkedIn, ads, and a potential certification program. Lab operations focused on several major projects and a discussion about improving reporting through PriLIMS automation. R&D updates emphasized PrioVision’s readiness for validation, ongoing Micro-QuIC reagent storage questions, and a 2026 strategy centered on ~30% revenue growth, product expansion, and $5M in fundraising.
+project:
 ---
 
 ## **Attendees**

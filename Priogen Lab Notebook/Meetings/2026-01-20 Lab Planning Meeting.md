@@ -5,6 +5,7 @@ tags: [meeting]
 continued_from: "[[2026-01-12 Lab Planning Meeting]]"
 association: Priogen
 summary: The team planned current and upcoming lab work, including setting up a plate that day and starting another later in the week. Updates from last week’s R&D LN plates showed strong positive controls, with potential false seeding in the negative control. Operational needs included preparing a new batch of Buffer A and evaluating new homogenizers for muscle samples. PriLIMS updates focused on improving sample-level reporting, automating updates from orders, and refining QC logic based on tissue type and sample category.
+project:
 ---
 
 ## **Attendees**
