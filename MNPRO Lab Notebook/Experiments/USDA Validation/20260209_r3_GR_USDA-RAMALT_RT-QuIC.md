@@ -40,3 +40,5 @@ protocols: "[[Tissue RT-QuIC]]"
 | **H** |  N  | -3  | -3  | -3  | -3  | -3  | -3  | -3  | -3  | -3  | -3  | -3  |
 
 ## Results
+
+![[20260209_r3_GR_USDA-RAMALT_RT-QuIC.png]]

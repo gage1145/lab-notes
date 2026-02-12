@@ -40,3 +40,5 @@ protocols: "[[MNPRO Lab Notebook/Protocols/Tissue Nano-QuIC|Tissue Nano-QuIC]]"
 | **H** |  N  | -3  | -3  | -3  | -3  | -3  | -3  | -3  | -3  | -3  | -3  | -3  |
 
 ## Results
+
+![[20260209_r4_GR_USDA-RAMALT_Nano-QuIC.png]]
