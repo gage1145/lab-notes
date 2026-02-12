@@ -18,7 +18,7 @@ This project is in collaboration with the USDA. They have experimentally inocula
 
 ```dataview
 TABLE WITHOUT ID
-file.name AS Experiment,
+file.link AS Experiment,
 start_date AS Date,
 protocols AS Protocols
 FROM #experiment 

@@ -35,7 +35,9 @@ funding code:
 
 ```dataview
 TABLE WITHOUT ID
-file.name AS Experiment,
+file.link AS Experiment,
+start_date AS Date,
 protocols AS Protocols
 FROM #experiment WHERE project = this.file.link
+SORT Date DESC
 ```
