@@ -1,5 +1,5 @@
 ---
-name: 2026-02-11 Micro-QuIC Testing
+name: 2026-02-12 Micro-QuIC Testing
 start_date: 2026-02-12
 end_date:
 status: in-progress
@@ -19,4 +19,5 @@ Continuing testing. We found that 50$\textdegree$C was too high, so we are lower
 2. 1 min on, 1 min off
 3. Temp: 37$\textdegree$C
 4. Reaction volume: full (not sure the total volume)
+5. Experiment started at 10:05am
 ## Results

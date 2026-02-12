@@ -22,6 +22,7 @@ date created: <% tp.date.now("YYYY-MM-DD") %>
 tags: [protocol]
 association: <% ass %>
 time: 1hr
+alters:
 ---
 
 ## Equipment

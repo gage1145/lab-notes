@@ -5,7 +5,7 @@ date created: 20205-12-04
 tags: [project]
 abbreviation: BPPES
 status: in-progress
-start: 2025-12-04
+start: 2025-03-04
 end:
 association: MNPRO
 duration: 3 years
@@ -15,6 +15,8 @@ title:
 ---
 
 ## Overview
+
+The goal of this project is to determine if we can use RT-QuIC to accurately detect prions from worn PPE. The PPE will be worn at the Beltrami dump site, and swabbed before and after entering the site. Negative control sites will be utilized to determine a baseline.
 
 ## Experiments
 
