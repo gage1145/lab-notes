@@ -2,7 +2,7 @@
 name: 20260209_r3_GR_USDA-RAMALT_RT-QuIC
 start_date: 2026-02-09
 end_date: 2026-02-12
-status: in-progress
+status: completed
 tags: [experiment]
 project: "[[USDA Validation]]"
 continued_from:
