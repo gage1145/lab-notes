@@ -2,6 +2,21 @@
 cssclass: home
 ---
 
+>[!multi-column]
+>>## MNPRO TODO
+>>```dataview
+>>TASK
+>>FROM "MNPRO Lab Notebook/MNPRO TODO"
+>>WHERE !completed
+>>```
+>
+>>## Priogen TODO
+>>```dataview
+>>TASK
+>>FROM "Priogen Lab Notebook/Priogen TODO"
+>>WHERE !completed
+>>```
+>
 ## Experiments per Month
 
 ```dataviewjs

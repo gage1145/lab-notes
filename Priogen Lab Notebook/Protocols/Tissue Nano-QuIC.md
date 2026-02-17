@@ -27,8 +27,7 @@ association: Priogen
 	- 1250 μL Buffer B
 	- 1250 μL Buffer C
 	- Total volume will equal ∼8.7mL.
-2. Add 1333μL of MNPROtein™ (lot number 1000) to the same 10 mL
-tube and mix gently by inversion.
+2. Add 1333μL of MNPROtein™ (lot number 1000) to the same 10 mL tube and mix gently by inversion.
 	- Total volume will equal 10 mL
 ### Prepare Sample Dilutions
 1. Remove tissue homogenate from freezer and allow to thaw.

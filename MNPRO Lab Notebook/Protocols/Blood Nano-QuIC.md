@@ -17,7 +17,4 @@ alters: "[[Blood RT-QuIC]]"
 - Consumable2
 
 ## Protocol
-- [ ] Step 1
-- [ ] Step 2
-	- [ ] Substep1
 

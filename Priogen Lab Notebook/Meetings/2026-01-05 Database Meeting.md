@@ -26,4 +26,3 @@ project:
 ## TODO
 - [x] Add a diagnosis table ✅ 2026-01-08
 - [x] Add a diagnosis button to the reaction view ✅ 2026-01-08
-- [ ] 

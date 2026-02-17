@@ -22,7 +22,7 @@ Soils were measured to ~200mg, placed in 1.5mL tubes and stored at -80$\textdegr
 - [x] MPF 2 ✅ 2025-12-09
 - [x] 013-S1 ✅ 2025-12-09
 - [x] 028-N2 ✅ 2025-12-12
-- [ ] ~~028-S2~~ - INSUFFICIENT MATERIAL
+- [x] ~~028-S2~~ - INSUFFICIENT MATERIAL
 - [x] GR01 ✅ 2025-12-12
 - [x] GR04 ✅ 2025-12-12
 - [x] GR06-CENTER ✅ 2025-12-09

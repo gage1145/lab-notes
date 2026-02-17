@@ -1,0 +1,5 @@
+- [x] Make LinkedIn post about Byron Caughey ✅ 2026-02-17
+- [ ] Analyze mass spec data
+- [ ] RT-/Nano-QuIC RAMALTs for USDA (2208-2218)
+- [ ] RT-/Nano-QuIC RAMALTs for USDA (2219-2229)
+- [ ] RT-/Nano-QuIC RAMALTs for USDA (2230-2240)
