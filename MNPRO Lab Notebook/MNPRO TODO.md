@@ -7,3 +7,5 @@
 - [x] Find out date of Iberian Prion Conference ✅ 2026-02-17
 - [ ] Work on the USDA Airtable integration
 - [ ] Get Prion Bot working again
+- [ ] Ask Sylvie about her meeting in Spain
+- [ ] Make Spain budget
