@@ -5,3 +5,5 @@
 - [ ] RT-/Nano-QuIC RAMALTs for USDA (2230-2240)
 - [ ] Meet with LeeAnn and Tod to discuss mass spec results
 - [x] Find out date of Iberian Prion Conference ✅ 2026-02-17
+- [ ] Work on the USDA Airtable integration
+- [ ] Get Prion Bot working again
