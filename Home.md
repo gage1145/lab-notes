@@ -3,14 +3,14 @@ cssclass: home
 ---
 
 >[!multi-column]
->>## MNPRO TODO
+>>## [[MNPRO TODO]]
 >>```dataview
 >>TASK
 >>FROM "MNPRO Lab Notebook/MNPRO TODO"
 >>WHERE !completed
 >>```
 >
->>## Priogen TODO
+>>## [[Priogen TODO]]
 >>```dataview
 >>TASK
 >>FROM "Priogen Lab Notebook/Priogen TODO"
