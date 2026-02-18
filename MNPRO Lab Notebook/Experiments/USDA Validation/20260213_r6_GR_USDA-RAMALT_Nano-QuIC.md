@@ -2,7 +2,7 @@
 name: 20260213_r6_GR_USDA-RAMALT_Nano-QuIC
 start_date: 2026-02-13
 end_date: 2026-02-16
-status: in-progress
+status: completed
 tags: [experiment]
 project: "[[USDA Validation]]"
 continued_from:

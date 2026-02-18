@@ -1,8 +1,9 @@
 - [x] Make LinkedIn post about Byron Caughey ✅ 2026-02-17
 - [x] Analyze mass spec data ✅ 2026-02-17
-- [ ] RT-/Nano-QuIC RAMALTs for USDA (2208-2218)
-- [ ] RT-/Nano-QuIC RAMALTs for USDA (2219-2229)
-- [ ] RT-/Nano-QuIC RAMALTs for USDA (2230-2240)
+- [x] RT-/Nano-QuIC RAMALTs for USDA (2197-2207) ✅ 2026-02-18
+- [x] RT-/Nano-QuIC RAMALTs for USDA (2208-2218) ✅ 2026-02-18
+- [x] RT-/Nano-QuIC RAMALTs for USDA (2219-2229) ✅ 2026-02-18
+- [x] RT-/Nano-QuIC RAMALTs for USDA (2230-2240) ✅ 2026-02-18
 - [ ] Meet with LeeAnn and Tod to discuss mass spec results
 - [x] Find out date of Iberian Prion Conference ✅ 2026-02-17
 - [x] Work on the USDA Airtable integration
