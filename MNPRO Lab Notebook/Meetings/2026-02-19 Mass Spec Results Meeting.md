@@ -14,4 +14,5 @@ summary:
 - Gage Rowden
 
 ## Overview
-1. 
+1. Can get relative peptide amount from AUC of chromatogram curve
+2. 
