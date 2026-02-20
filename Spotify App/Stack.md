@@ -1,19 +1,19 @@
-# Backend
+## Backend
 - **Django**
 - **Django REST Framework**
 
-# Database
+## Database
 - **PostgreSQL**
 
-# Machine Learning
+## Machine Learning
 - scikit-learn
 - XGBoost
 - SHAP
 
-# Frontend
+## Frontend
 - Django templates + Chart.js OR React (stronger signal)
 
-# Infrastructure
+## Infrastructure
 - Docker
 - GitHub Actions
 - Deployed on Render / Railway / AWS
