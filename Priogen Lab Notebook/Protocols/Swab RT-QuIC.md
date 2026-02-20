@@ -16,7 +16,4 @@ time: 1hr
 - Consumable2
 
 ## Protocol
-- [ ] Step 1
-- [ ] Step 2
-	- [ ] Substep1
 

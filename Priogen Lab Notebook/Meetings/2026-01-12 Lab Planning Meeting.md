@@ -5,6 +5,7 @@ tags: [meeting]
 continued_from:
 association: Priogen
 summary: The team reviewed recent lab activities, including LN dilution plates, Micro-QuIC QC runs, and waste pickups, with plans to rerun a negative control plate and consider RT-QuIC testing. This week’s work includes running two additional plates, while the UPenn shipment remains on hold pending nanoparticle delivery. R&D updates highlighted a successful PrioVision run that now needs image analysis, along with continued evaluation of Micro-QuIC reagent freezing constraints. PriLIMS updates were completed to improve diagnosis visibility and automate QC handling when controls fail.
+project:
 ---
 
 ## **Attendees**

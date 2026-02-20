@@ -5,6 +5,7 @@ date created: 2026-01-13
 tags: [protocol]
 association: MNPRO
 time: 1hr
+alters: "[[Blood RT-QuIC]]"
 ---
 
 ## Equipment
@@ -16,7 +17,4 @@ time: 1hr
 - Consumable2
 
 ## Protocol
-- [ ] Step 1
-- [ ] Step 2
-	- [ ] Substep1
 

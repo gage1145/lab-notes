@@ -5,6 +5,7 @@ tags: [meeting]
 continued_from:
 association: Priogen
 summary: The meeting focused on improving database structure and workflows to better support sample diagnostics and QC. Key discussion points included preventing overwrites with null values, adding a diagnosis button, incorporating AUC-based QC metrics, and creating a separate diagnoses/results table to handle multiple runs per sample. The team also discussed reorganizing the sample table layout, adding a “Retest Needed” field, and updating database SOPs. Initial action items to add a diagnosis table and diagnosis button were completed shortly after the meeting.
+project:
 ---
 
 ## **Attendees**
@@ -25,4 +26,3 @@ summary: The meeting focused on improving database structure and workflows to be
 ## TODO
 - [x] Add a diagnosis table ✅ 2026-01-08
 - [x] Add a diagnosis button to the reaction view ✅ 2026-01-08
-- [ ] 

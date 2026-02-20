@@ -4,6 +4,7 @@ author: Gage Rowden
 date created: 2025-12-12
 tags: [protocol]
 association: MNPRO
+alters: "[[Oral Swab RT-QuIC]]"
 ---
 
 ## Equipment
