@@ -7,7 +7,8 @@
 - [x] Meet with LeeAnn and Tod to discuss mass spec results
 - [x] Find out date of Iberian Prion Conference ✅ 2026-02-17
 - [x] Work on the USDA Airtable integration
-- [ ] Get Prion Bot working again
+- [x] Get Prion Bot working again
 - [ ] Ask Sylvie about her meeting in Spain
-- [ ] Make Spain budget
+- [x] Make Spain budget
 - [ ] Meet with Tiffany about mass spec results
+- [x] Email Tiffany about mass spec results
