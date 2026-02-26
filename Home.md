@@ -20,7 +20,7 @@ cssclass: home
 >>```
 ---
 >[!multi-column]
->>[!blank-container|wide-2.5]
+>>[!blank-container|wide-2]
 >>## Experiments per Month
 >>```dataviewjs
 >>let pages = dv.pages("#experiment").where(p => p.start_date);
