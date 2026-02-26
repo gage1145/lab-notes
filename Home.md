@@ -193,7 +193,7 @@ file.link AS Meeting,
 summary AS Summary
 FROM #meeting 
 SORT date DESC
-LIMIT 10
+LIMIT 6
 `
 
 dv.execute(DQL)
