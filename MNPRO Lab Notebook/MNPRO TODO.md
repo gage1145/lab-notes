@@ -18,3 +18,4 @@
 - [ ] Coordinate land travel to/from hotel
 - [ ] Submit abstract
 - [ ] Pay conference registration fee
+- [ ] Find continuing education opportunities
