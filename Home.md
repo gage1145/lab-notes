@@ -99,7 +99,7 @@ cssclass: home
 >>// Generate dynamic colors  
 >>function generateColors(n) {  
 >>	return Array.from({ length: n }, (_, i) => {  
->>		const lightness = 20 + (80 / n) * i;  
+>>		const lightness = 100 - (20 + (80 / n) * i);  
 >>		return `hsl(140, 70%, ${lightness}%)`;  
 >>	});  
 >>}
