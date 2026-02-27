@@ -2,7 +2,7 @@
 name: 2026-02-26 Micro-QuIC Testing
 start_date: 2026-02-26
 end_date: 2026-02-26
-status: in-progress
+status: completed
 tags: [experiment]
 project: "[[Micro-QuIC]]"
 continued_from:
