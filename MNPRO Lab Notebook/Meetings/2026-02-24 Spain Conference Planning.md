@@ -24,3 +24,4 @@ summary:
 	5. Land transport: $60
 	6. Poster Printing: $120
 	7. Symposium: $110
+3. Total: ~$3,800/person ($7,600 for both of us)
