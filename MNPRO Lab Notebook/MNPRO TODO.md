@@ -12,10 +12,10 @@
 - [x] Make Spain budget
 - [ ] Meet with Tiffany about mass spec results
 - [x] Email Tiffany about mass spec results
-- [ ] Two USDA nasal swab plates
+- [x] Two USDA nasal swab plates
 - [ ] Book travel to Spain
 - [ ] Book hotel in Spain
 - [ ] Coordinate land travel to/from hotel
 - [ ] Submit abstract
 - [ ] Pay conference registration fee
-- [ ] Find continuing education opportunities
+- [x] Find continuing education opportunities
