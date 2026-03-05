@@ -8,9 +8,9 @@
 - [x] Find out date of Iberian Prion Conference ✅ 2026-02-17
 - [x] Work on the USDA Airtable integration
 - [x] Get Prion Bot working again
-- [ ] Ask Sylvie about her meeting in Spain
+- [ ] Inform Sylvie that we will be attending her Spain meeting
 - [x] Make Spain budget
-- [ ] Meet with Tiffany about mass spec results
+- [ ] Meet with Tiffany and Marc about mass spec results
 - [x] Email Tiffany about mass spec results
 - [x] Two USDA nasal swab plates
 - [x] Book travel to Spain
@@ -19,3 +19,6 @@
 - [ ] Submit abstract
 - [ ] Pay conference registration fee
 - [x] Find continuing education opportunities
+- [x] Update usda-validation README
+- [x] Update USDA project with new nasal swab data
+- [ ] Make presentation for Spain
