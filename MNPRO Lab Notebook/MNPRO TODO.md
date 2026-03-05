@@ -22,3 +22,6 @@
 - [x] Update usda-validation README
 - [x] Update USDA project with new nasal swab data
 - [ ] Make presentation for Spain
+- [ ] Re-run protein gel for mass spec
+- [ ] Re-submit mass spec samples
+- [ ] Set up meeting with mass spec and Tiffany
