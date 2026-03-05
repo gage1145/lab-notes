@@ -8,7 +8,7 @@
 - [x] Find out date of Iberian Prion Conference ✅ 2026-02-17
 - [x] Work on the USDA Airtable integration
 - [x] Get Prion Bot working again
-- [ ] Inform Sylvie that we will be attending her Spain meeting
+- [x] Inform Sylvie that we will be attending her Spain meeting ✅ 2026-03-05
 - [x] Make Spain budget
 - [ ] Meet with Tiffany and Marc about mass spec results
 - [x] Email Tiffany about mass spec results
