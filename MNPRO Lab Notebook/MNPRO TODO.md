@@ -13,9 +13,9 @@
 - [ ] Meet with Tiffany about mass spec results
 - [x] Email Tiffany about mass spec results
 - [x] Two USDA nasal swab plates
-- [ ] Book travel to Spain
-- [ ] Book hotel in Spain
-- [ ] Coordinate land travel to/from hotel
+- [x] Book travel to Spain
+- [x] Book hotel in Spain
+- [x] Coordinate land travel to/from hotel
 - [ ] Submit abstract
 - [ ] Pay conference registration fee
 - [x] Find continuing education opportunities
