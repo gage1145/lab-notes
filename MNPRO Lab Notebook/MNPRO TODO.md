@@ -10,7 +10,7 @@
 - [x] Get Prion Bot working again
 - [x] Inform Sylvie that we will be attending her Spain meeting ✅ 2026-03-05
 - [x] Make Spain budget
-- [ ] Meet with Tiffany and Marc about mass spec results
+- [x] Meet with Tiffany and Marc about mass spec results
 - [x] Email Tiffany about mass spec results
 - [x] Two USDA nasal swab plates
 - [x] Book travel to Spain
