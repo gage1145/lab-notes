@@ -2,7 +2,7 @@
 name: 20260226_pr3_GR_muscle
 start_date: 2026-02-26
 end_date: 2026-02-28
-status: in-progress
+status: completed
 tags: [experiment]
 project: "[[Diagnostics]]"
 continued_from:
