@@ -27,3 +27,5 @@
 - [ ] Set up meeting with mass spec and Tiffany
 - [ ] Analyze reindeer PrioScout swabs
 - [ ] Add new nasal swab data to USDA project
+- [ ] Share GitHub repo with Caylie
+- [ ] 
