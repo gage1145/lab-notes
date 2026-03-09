@@ -25,7 +25,6 @@
 - [ ] Re-run protein gel for mass spec
 - [ ] Re-submit mass spec samples
 - [ ] Set up meeting with mass spec and Tiffany
-- [ ] Analyze reindeer PrioScout swabs
+- [x] Update reindeer PrioScout swab project folder ✅ 2026-03-09
 - [ ] Add new nasal swab data to USDA project
-- [ ] Share GitHub repo with Caylie
-- [ ] 
+- [x] Share GitHub repo with Caylie ✅ 2026-03-09
