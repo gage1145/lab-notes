@@ -25,3 +25,5 @@
 - [ ] Re-run protein gel for mass spec
 - [ ] Re-submit mass spec samples
 - [ ] Set up meeting with mass spec and Tiffany
+- [ ] Analyze reindeer PrioScout swabs
+- [ ] Add new nasal swab data to USDA project
