@@ -1,7 +1,7 @@
 ---
 name: 2026-03-09 Wolf Lab Meeting
 date: 2026-03-09
-tags: meeting
+tags: [meeting]
 continued_from: "[[2026-02-09 Wolf Lab Meeting]]"
 association: MNPRO
 project:
