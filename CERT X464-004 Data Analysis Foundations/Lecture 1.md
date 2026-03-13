@@ -10,10 +10,10 @@ summary:
 
 ## Learning Outcomes
 - Differentiate the four major types of data analytics
-	- Descriptive - What happened?
-	- Diagnostic - Why did it happen?
-	- Predictive - What might happen next?
-	- Prescriptive - What should we do about it?
+	- **Descriptive** - What happened?
+	- **Diagnostic** - Why did it happen?
+	- **Predictive** - What might happen next?
+	- **Prescriptive** - What should we do about it?
 - **Can I use these as a workflow?**
 ## What is Data Analysis?
 - Map the right type of *analytical methods* to the type of analytics being done
