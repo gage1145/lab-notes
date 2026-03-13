@@ -1,13 +1,13 @@
 ---
 name: Lecture 1
 date: 2026-03-11
-tags:
-  - lecture
+tags: [lecture]
 continued_from:
 association:
 project:
 summary:
 ---
+
 ## Learning Outcomes
 - Differentiate the four major types of data analytics
 	- Descriptive - What happened?
@@ -30,8 +30,10 @@ summary:
 | Numerical (interval, ratio) |          |     x      |    x     |
 | Ordinal                     |    x     |     x      |          |
 | DateTime                    |          |            |          |
+
 - Categorical data can be tricky to summarize.
 ### Measures of Dispersion
+
 | **Type**                    | **Min/Max** | **Quartiles** | **Range** | **Variance** | **Std Dev** |
 | --------------------------- | :---------: | :-----------: | :-------: | :----------: | :---------: |
 | Dichotomous (logical)       |             |               |           |              |      x      |
@@ -39,6 +41,7 @@ summary:
 | Numerical (interval, ratio) |      x      |       x       |     x     |      x       |      x      |
 | Ordinal                     |      x      |       x       |           |              |             |
 | DateTime                    |      x      |               |     x     |              |             |
+
 ## Data Analytics Life Cycle
 1. Problem Definition
 2. Data Collection
