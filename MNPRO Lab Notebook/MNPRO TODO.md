@@ -26,5 +26,5 @@
 - [ ] Re-submit mass spec samples
 - [x] Set up meeting with mass spec and Tiffany ✅ 2026-03-09
 - [x] Update reindeer PrioScout swab project folder ✅ 2026-03-09
-- [ ] Add new nasal swab data to USDA project
+- [x] Add new nasal swab data to USDA project
 - [x] Share GitHub repo with Caylie ✅ 2026-03-09
