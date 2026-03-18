@@ -1,8 +1,8 @@
 ---
 name: 20260311_pr1_GR_oral-swabs
 start_date: 2026-03-11
-end_date:
-status: in-progress
+end_date: 2026-03-13
+status: completed
 tags: [experiment]
 project: "[[Diagnostics]]"
 continued_from:
