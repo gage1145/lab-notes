@@ -13,6 +13,7 @@ protocols: "[[SDS-PAGE]]"
 ## Purpose
 
 The first round of mass spec didn't work. We didn't get any detection in the soil samples. I am abandoning the qualitative aspect of the project and focusing on the qualitative. I will use what I still have from the previous extractions and maximize the total protein in the well. I'm also using a 10-well gel with 30ul volume/well.
+
 <div style="page-break-after: always;"></div>
 ## Design
 
