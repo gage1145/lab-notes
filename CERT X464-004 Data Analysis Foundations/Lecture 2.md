@@ -10,6 +10,8 @@ summary:
 ---
 ## Overview
 1. This week - Data cleaning
+2. Download and review the final report template.
+3. READ AHEAD!
 
 ## Group Discussion
 1. Andrea - Steam
@@ -22,3 +24,15 @@ summary:
 4. Lisa - Disney
 	1. Group by genre and box office
 5. Me - my own data set
+
+## Get to know your data
+1. Before cleaning, get to know the set first!
+2. Where does it come from?
+3. What's the granularity? What is a row showing?
+	1. Start here!
+4. What are its facts and dimensions?
+
+## Workflow
+1. Visual inspection first
+2. See what the rows are showing. Are there blanks??
+3. Aggregate data based on interesting groups.
