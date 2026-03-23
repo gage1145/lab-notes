@@ -1,7 +1,7 @@
 ---
 name: 2026-03-23 Wolf Lab Meeting
 date: 2026-03-23
-tags: meeting
+tags: [meeting]
 continued_from: "[[2026-03-16 Wolf Lab Meeting]]"
 association: MNPRO
 project:
@@ -28,4 +28,4 @@ summary:
 	1. Will be running some RT-QuIC next week for practice.
 	2. Presentation went well!
 4. Sarah
-	1. 
+	1.
