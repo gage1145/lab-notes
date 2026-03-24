@@ -2,7 +2,7 @@
 name: 20260316_pr1_GR_muscle-ln-brain
 start_date: 2026-03-16
 end_date: 2026-03-18
-status: in-progress
+status: completed
 tags: [experiment]
 project: "[[Diagnostics]]"
 continued_from:

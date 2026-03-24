@@ -22,7 +22,7 @@
 - [x] Update usda-validation README
 - [x] Update USDA project with new nasal swab data
 - [ ] Make presentation for Spain
-- [ ] Re-run protein gel for mass spec
+- [x] Re-run protein gel for mass spec
 - [ ] Re-submit mass spec samples
 - [x] Set up meeting with mass spec and Tiffany ✅ 2026-03-09
 - [x] Update reindeer PrioScout swab project folder ✅ 2026-03-09
