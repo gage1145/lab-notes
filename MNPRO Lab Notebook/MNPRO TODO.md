@@ -28,5 +28,5 @@
 - [x] Update reindeer PrioScout swab project folder ✅ 2026-03-09
 - [x] Add new nasal swab data to USDA project
 - [x] Share GitHub repo with Caylie ✅ 2026-03-09
-- [ ] Make calls for Gordon
+- [x] Make calls for Gordon
 - [ ] Stain soil gels

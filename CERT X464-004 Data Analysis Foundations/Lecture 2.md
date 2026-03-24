@@ -1,13 +1,13 @@
 ---
 name: Lecture 2
 date: 2026-03-18
-tags:
-  - lecture
+tags: [lecture]
 continued_from: "[[Lecture 1]]"
 association: Unknown
 project:
 summary:
 ---
+
 ## Overview
 1. This week - Data cleaning
 2. Download and review the final report template.
@@ -25,7 +25,7 @@ summary:
 	1. Group by genre and box office
 5. Me - my own data set
 
-## Get to know your data
+## Get to Know Your Data
 1. Before cleaning, get to know the set first!
 2. Where does it come from?
 3. What's the granularity? What is a row showing?
