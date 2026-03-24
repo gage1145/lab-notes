@@ -1,7 +1,7 @@
 ---
 name: 2026-03-24 Upenn MNPROtein Meeting
 date: 2026-03-24
-tags: meeting
+tags: [meeting]
 continued_from:
 association: Priogen
 project:

@@ -29,4 +29,6 @@
 - [x] Add new nasal swab data to USDA project
 - [x] Share GitHub repo with Caylie ✅ 2026-03-09
 - [x] Make calls for Gordon
-- [ ] Stain soil gels
+- [x] Stain soil gels ✅ 2026-03-24
+- [x] Cut out gel bands ✅ 2026-03-24
+- [ ] 
