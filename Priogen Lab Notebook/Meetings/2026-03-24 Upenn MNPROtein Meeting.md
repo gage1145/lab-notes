@@ -20,8 +20,11 @@ summary:
 	4. Used 10-2 dilution
 	5. 6 reps
 	6. 42C, 700rpm
+	7. 62 hours
 2. Feces
-### REsults
+	1. Not great for RT-QuIC
+	2. 
+### Results
 1. RPLN
 	1. Nano
 		1. Found 2 of the 8 discrepant samples
@@ -31,3 +34,12 @@ summary:
 	3. VMRD
 		1. Same results **but slower**
 	4. Used ANOVA and multiple comparison
+2. Feces
+	1. 9 pos, 9 neg
+	2. make 10% w:v homogenate
+	3. VMRD
+		1. 2/9 true pos
+		2. 8/9 true neg
+	4. MNPROtein
+		1. 1/9 true pos
+		2. 4/9 true neg
