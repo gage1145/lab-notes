@@ -54,4 +54,4 @@ These soil extracts must be run on SDS-PAGE in order to be analyzed by mass spec
 
 ## Results
 
-![[20260127_SDS-PAGE.svg]]
+![[20260127_SDS-PAGE.svg|1117]]
