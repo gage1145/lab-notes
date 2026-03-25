@@ -243,4 +243,4 @@ S
 
 ### SDS-PAGE
 
-![[20260127_SDS-PAGE.jpg]]
+![[20260325_gel_figure.png]]
