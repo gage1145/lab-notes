@@ -33,3 +33,4 @@
 - [x] Cut out gel bands ✅ 2026-03-24
 - [ ] Analyze PrioScout data with metadata from Gordon
 - [ ] Fill out mass spec form
+- [x] Re-run PrioScout swabs ✅ 2026-03-25
