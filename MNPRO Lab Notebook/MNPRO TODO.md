@@ -31,4 +31,5 @@
 - [x] Make calls for Gordon
 - [x] Stain soil gels ✅ 2026-03-24
 - [x] Cut out gel bands ✅ 2026-03-24
-- [ ] 
+- [ ] Analyze PrioScout data with metadata from Gordon
+- [ ] Fill out mass spec form
