@@ -2,7 +2,7 @@
 name: 20260317_r14_GR_USDA-nasal-swabs_Nano-QuIC
 start_date: 2026-03-17
 end_date: 2026-03-20
-status: in-progress
+status: completed
 tags: [experiment]
 project: "[[USDA Validation]]"
 continued_from:

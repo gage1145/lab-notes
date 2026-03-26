@@ -2,7 +2,7 @@
 name: 2026-03-19 SDS-PAGE of Soil Extracts
 start_date: 2026-03-19
 end_date: 2026-03-19
-status: in-progress
+status: completed
 tags: [experiment]
 project: "[[Soil Mass Spec]]"
 continued_from:
