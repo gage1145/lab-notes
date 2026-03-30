@@ -9,10 +9,19 @@ summary:
 ---
 
 ## **Attendees**
-- 
+- Tiffany
+- Veruca
+- Miranda
+- Caylie
+- Sarah
+- Marc
+- Michelle Schultze
+- Gage
+- Kristin
 
-## Discussing [Facilitating effective collaboration to prevent aquatic invasive species spread](https://www.sciencedirect.com/science/article/pii/S0006320724000107)
+## Discussing [this paper](https://www.sciencedirect.com/science/article/pii/S0006320724000107)
 
+### Facilitating effective collaboration to prevent aquatic invasive species spread
 ### Defining "Risky Boats"
 
 The authors filtered the full boater network down to only _risky_ movements — boats traveling from an infested lake to a lake not yet infested with at least one of the same species. They formalized this with the parameter:
