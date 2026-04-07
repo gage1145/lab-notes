@@ -2,7 +2,7 @@
 name: 20260325_r2_GR_reindeer-swabs
 start_date: 2026-03-25
 end_date: 2026-03-28
-status: in-progress
+status: completed
 tags: [experiment]
 project: "[[Reindeer PrioScouts]]"
 continued_from:

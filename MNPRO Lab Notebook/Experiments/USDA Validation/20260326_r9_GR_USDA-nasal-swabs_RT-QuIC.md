@@ -2,7 +2,7 @@
 name: 20260326_r9_GR_USDA-nasal-swabs_RT-QuIC
 start_date: 2026-03-26
 end_date: 2026-03-26
-status: in-progress
+status: completed
 tags: [experiment]
 project: "[[USDA Validation]]"
 continued_from:

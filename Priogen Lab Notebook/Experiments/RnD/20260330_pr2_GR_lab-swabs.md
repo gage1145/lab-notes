@@ -1,8 +1,8 @@
 ---
 name: 20260330_pr2_GR_lab-swabs
 start_date: 2026-03-30
-end_date:
-status: in-progress
+end_date: 2026-04-01
+status: completed
 tags: [experiment]
 project: "[[RnD]]"
 continued_from:
