@@ -52,3 +52,5 @@ The first round of mass spec didn't work. We didn't get any detection in the soi
 | GR01-S3        | 37                    | 40          | 1480               | 30.8                    | 925            | 30         | 4          |
 
 ## Results
+
+![[20260325_gel_figure.png]]
