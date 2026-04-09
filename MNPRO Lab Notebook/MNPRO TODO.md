@@ -31,7 +31,10 @@
 - [x] Make calls for Gordon
 - [x] Stain soil gels ✅ 2026-03-24
 - [x] Cut out gel bands ✅ 2026-03-24
-- [ ] Analyze PrioScout data with metadata from Gordon
+- [x] Analyze PrioScout data with metadata from Gordon ✅ 2026-04-09
 - [ ] Fill out mass spec form
 - [x] Re-run PrioScout swabs ✅ 2026-03-25
-- [ ] Combine bird feeder and PPE data into single project.
+- [x] Combine bird feeder and PPE data into single project. ✅ 2026-04-09
+- [ ] Send Sylvie the presentation title
+- [ ] Extract soil spikes
+- [ ] Re-run protein gel with new spikes and pos-control
