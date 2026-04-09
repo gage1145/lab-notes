@@ -16,6 +16,7 @@
 - [x] Book travel to Spain
 - [x] Book hotel in Spain
 - [x] Coordinate land travel to/from hotel
+- [x] Share abstract with co-authors ✅ 2026-04-09
 - [ ] Submit abstract
 - [ ] Pay conference registration fee
 - [x] Find continuing education opportunities
@@ -38,3 +39,4 @@
 - [ ] Send Sylvie the presentation title
 - [ ] Extract soil spikes
 - [ ] Re-run protein gel with new spikes and pos-control
+- [x] Start test run for reader 15 replacement ✅ 2026-04-09
