@@ -18,7 +18,7 @@
 - [x] Coordinate land travel to/from hotel
 - [x] Share abstract with co-authors ✅ 2026-04-09
 - [ ] Submit abstract
-- [ ] Pay conference registration fee
+- [x] Pay conference registration fee
 - [x] Find continuing education opportunities
 - [x] Update usda-validation README
 - [x] Update USDA project with new nasal swab data
