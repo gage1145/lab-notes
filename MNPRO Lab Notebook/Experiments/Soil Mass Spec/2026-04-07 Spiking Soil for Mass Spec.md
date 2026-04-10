@@ -2,7 +2,7 @@
 name: 2026-04-07 Spiking Soil for Mass Spec
 start_date: 2026-04-07
 end_date: 2026-04-08
-status: in-progress
+status: completed
 tags: [experiment]
 project: "[[Soil Mass Spec]]"
 continued_from:

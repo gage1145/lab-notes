@@ -37,6 +37,7 @@
 - [x] Re-run PrioScout swabs ✅ 2026-03-25
 - [x] Combine bird feeder and PPE data into single project. ✅ 2026-04-09
 - [ ] Send Sylvie the presentation title
-- [ ] Extract soil spikes
+- [x] Extract soil spikes ✅ 2026-04-10
 - [ ] Re-run protein gel with new spikes and pos-control
 - [x] Start test run for reader 15 replacement ✅ 2026-04-09
+- [ ] Update job description
