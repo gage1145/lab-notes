@@ -17,7 +17,7 @@
 - [x] Book hotel in Spain
 - [x] Coordinate land travel to/from hotel
 - [x] Share abstract with co-authors ✅ 2026-04-09
-- [ ] Submit abstract
+- [x] Submit abstract
 - [x] Pay conference registration fee
 - [x] Find continuing education opportunities
 - [x] Update usda-validation README
@@ -38,7 +38,7 @@
 - [x] Combine bird feeder and PPE data into single project. ✅ 2026-04-09
 - [x] Send Sylvie the presentation title
 - [x] Extract soil spikes ✅ 2026-04-10
-- [ ] Re-run protein gel with new spikes and pos-control
+- [x] Re-run protein gel with new spikes and pos-control
 - [x] Start test run for reader 15 replacement ✅ 2026-04-09
 - [ ] Update job description
 - [ ] Make presentation for Sylvie's meeting
