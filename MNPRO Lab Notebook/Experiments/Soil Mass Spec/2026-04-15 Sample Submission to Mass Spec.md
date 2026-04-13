@@ -1,9 +1,10 @@
 ---
 name: 2026-03-25 Sample Submission to Mass Spec
 start_date: 2026-03-25
-end_date: 2026-03-25
-status: completed
-tags: [experiment]
+end_date: 2026-04-15
+status: in-progress
+tags:
+  - experiment
 project: "[[Soil Mass Spec]]"
 continued_from:
 association: MNPRO
@@ -241,6 +242,8 @@ S
 >>- PL18-W1
 >>- GR01-S3
 
-### SDS-PAGE
+### SDS-PAGE - First Attempt
 
 ![[20260325_gel_figure.png]]
+### SDS-PAGE - Re-run broken lanes
+![[20260413_gel_figure.png]]

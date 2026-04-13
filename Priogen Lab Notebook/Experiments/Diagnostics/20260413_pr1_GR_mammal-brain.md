@@ -7,7 +7,7 @@ tags: [experiment]
 project: "[[Diagnostics]]"
 continued_from:
 association: Priogen
-protocols: "[[Tissue RT-QuIC]]"
+protocols: "[[Priogen Lab Notebook/Protocols/Tissue RT-QuIC|Tissue RT-QuIC]]"
 ---
 
 ## Purpose
