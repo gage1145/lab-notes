@@ -16,8 +16,9 @@
 - [x] Book travel to Spain
 - [x] Book hotel in Spain
 - [x] Coordinate land travel to/from hotel
+- [x] Share abstract with co-authors ✅ 2026-04-09
 - [ ] Submit abstract
-- [ ] Pay conference registration fee
+- [x] Pay conference registration fee
 - [x] Find continuing education opportunities
 - [x] Update usda-validation README
 - [x] Update USDA project with new nasal swab data
@@ -31,7 +32,13 @@
 - [x] Make calls for Gordon
 - [x] Stain soil gels ✅ 2026-03-24
 - [x] Cut out gel bands ✅ 2026-03-24
-- [ ] Analyze PrioScout data with metadata from Gordon
+- [x] Analyze PrioScout data with metadata from Gordon ✅ 2026-04-09
 - [ ] Fill out mass spec form
 - [x] Re-run PrioScout swabs ✅ 2026-03-25
-- [ ] Combine bird feeder and PPE data into single project.
+- [x] Combine bird feeder and PPE data into single project. ✅ 2026-04-09
+- [x] Send Sylvie the presentation title
+- [x] Extract soil spikes ✅ 2026-04-10
+- [ ] Re-run protein gel with new spikes and pos-control
+- [x] Start test run for reader 15 replacement ✅ 2026-04-09
+- [ ] Update job description
+- [ ] Make presentation for Sylvie's meeting

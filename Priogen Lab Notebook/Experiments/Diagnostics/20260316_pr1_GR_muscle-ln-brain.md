@@ -8,8 +8,8 @@ project: "[[Diagnostics]]"
 continued_from:
 association: Priogen
 protocols:
-  - "[[Tissue Nano-QuIC]]"
   - "[[Muscle Nano-QuIC]]"
+  - "[[Priogen Lab Notebook/Protocols/Tissue Nano-QuIC|Tissue Nano-QuIC]]"
 ---
 
 ## Purpose

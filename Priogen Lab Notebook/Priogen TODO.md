@@ -8,6 +8,7 @@
 - [x] Start Iceland report ✅ 2026-03-19
 - [ ] Figure out neg ctrl distribution for understanding background fluorescence
 - [x] Report for order 1132
-- [ ] Ask Stefania for the metadata before meeting.
+- [x] Ask Stefania for the metadata before meeting.
 - [ ] Update swab protocol to exclude N2.
 - [ ] Analyze UPenn data
+- [ ] Analyze Iceland data
