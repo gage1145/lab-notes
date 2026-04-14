@@ -212,8 +212,8 @@ S
 >>#### Peptides
 >>- 1:  GENFTETDI(K)
 >>- 2:  YPGQGSPGGN(R)
->>- 3a: VVEQ\[M(O)]\[C(CAM)]ITQY(R)
 >>- 3b: VVEQM\[C(CAM)]ITQY(R)
+>>	- **Look for oxidized methionine in this peptide.**
 >>- 4:  ESQAYYQ(R)
 >
 >>#### Unknowns

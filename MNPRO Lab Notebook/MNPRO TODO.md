@@ -33,7 +33,7 @@
 - [x] Stain soil gels ✅ 2026-03-24
 - [x] Cut out gel bands ✅ 2026-03-24
 - [x] Analyze PrioScout data with metadata from Gordon ✅ 2026-04-09
-- [ ] Fill out mass spec form
+- [x] Fill out mass spec form
 - [x] Re-run PrioScout swabs ✅ 2026-03-25
 - [x] Combine bird feeder and PPE data into single project. ✅ 2026-04-09
 - [x] Send Sylvie the presentation title
