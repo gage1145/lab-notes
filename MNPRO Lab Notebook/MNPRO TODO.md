@@ -42,3 +42,4 @@
 - [x] Start test run for reader 15 replacement ✅ 2026-04-09
 - [ ] Update job description
 - [ ] Make presentation for Sylvie's meeting
+- [ ] Fix Airtable upload bug
