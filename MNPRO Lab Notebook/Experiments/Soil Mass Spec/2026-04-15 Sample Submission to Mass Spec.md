@@ -1,8 +1,8 @@
 ---
 name: 2026-03-25 Sample Submission to Mass Spec
 start_date: 2026-03-25
-end_date: 2026-03-25
-status: completed
+end_date: 2026-04-15
+status: in-progress
 tags: [experiment]
 project: "[[Soil Mass Spec]]"
 continued_from:
@@ -212,8 +212,8 @@ S
 >>#### Peptides
 >>- 1:  GENFTETDI(K)
 >>- 2:  YPGQGSPGGN(R)
->>- 3a: VVEQ\[M(O)]\[C(CAM)]ITQY(R)
 >>- 3b: VVEQM\[C(CAM)]ITQY(R)
+>>	- **Look for oxidized methionine in this peptide.**
 >>- 4:  ESQAYYQ(R)
 >
 >>#### Unknowns
@@ -241,6 +241,10 @@ S
 >>- PL18-W1
 >>- GR01-S3
 
-### SDS-PAGE
+### SDS-PAGE - First Attempt
 
 ![[20260325_gel_figure.png]]
+
+### SDS-PAGE - Re-run Broken Lanes
+
+![[20260413_gel_figure.png]]
