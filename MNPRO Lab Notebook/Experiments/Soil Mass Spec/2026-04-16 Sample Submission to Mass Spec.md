@@ -1,8 +1,8 @@
 ---
 name: 2026-03-25 Sample Submission to Mass Spec
 start_date: 2026-03-25
-end_date: 2026-04-15
-status: in-progress
+end_date: 2026-04-16
+status: completed
 tags: [experiment]
 project: "[[Soil Mass Spec]]"
 continued_from:
