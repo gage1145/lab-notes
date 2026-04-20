@@ -1,7 +1,7 @@
 ---
 name: Lecture 6
 date: 2026-04-15
-tags: meeting
+tags: [meeting]
 continued_from:
 association: Unknown
 project:
