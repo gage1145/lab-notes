@@ -1,8 +1,8 @@
 ---
 name: 2026-03-25 Sample Submission to Mass Spec
 start_date: 2026-03-25
-end_date: 2026-04-15
-status: in-progress
+end_date: 2026-04-16
+status: completed
 tags: [experiment]
 project: "[[Soil Mass Spec]]"
 continued_from:
@@ -100,6 +100,8 @@ S
 | 1      | 13.739               | 2.791  |
 | 2      | 14.827               | 97.209 |
 
+<div style="page-break-after: always;"></div>
+
 #### Peptide 2
 - Sequence:\[NH2]YPGQGSPGGN(R)\[COOH]
 - Concentration: 5pmol/$\textmu$L
@@ -120,26 +122,6 @@ S
 | 3      | 11.108               | 0.184  |
 
 <div style="page-break-after: always;"></div>
-
-#### Peptide 3a
-- Sequence:\[NH2]VVEQ\[M(O)]\[C(CAM)]ITQY(R)\[COOH]
-- Concentration: 5pmol/$\textmu$L
-- Molecular weight
-	- Calculated: 1452.70 g/mol
-	- Experimental: 1452.09 g/mol
-- HPLC
-	- Column: 150X4.6mm 3.6u C18 120A
-	- Solvent
-		- A: 0.05% TFA in water
-		- B: 0.05% TFA in ACN
-	- Flowrate: 1mL/min
-
-| Peak # | Retention Time (min) | Area % |
-| ------ | -------------------- | ------ |
-| 1      | 12.433               | 0.346  |
-| 2      | 12.605               | 1.308  |
-| 3      | 12.703               | 97.894 |
-| 4      | 12.842               | 0.452  |
 
 #### Peptide 3b
 - Sequence:\[NH2]VVEQM\[C(CAM)]ITQY(R)\[COOH]
@@ -241,9 +223,13 @@ S
 >>- PL18-W1
 >>- GR01-S3
 
+<div style="page-break-after: always;"></div>
+
 ### SDS-PAGE - First Attempt
 
 ![[20260325_gel_figure.png]]
+
+<div style="page-break-after: always;"></div>
 
 ### SDS-PAGE - Re-run Broken Lanes
 

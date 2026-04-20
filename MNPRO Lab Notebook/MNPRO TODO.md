@@ -24,7 +24,7 @@
 - [x] Update USDA project with new nasal swab data
 - [ ] Make presentation for Spain
 - [x] Re-run protein gel for mass spec
-- [ ] Re-submit mass spec samples
+- [x] Re-submit mass spec samples
 - [x] Set up meeting with mass spec and Tiffany ✅ 2026-03-09
 - [x] Update reindeer PrioScout swab project folder ✅ 2026-03-09
 - [x] Add new nasal swab data to USDA project
@@ -40,7 +40,7 @@
 - [x] Extract soil spikes ✅ 2026-04-10
 - [x] Re-run protein gel with new spikes and pos-control
 - [x] Start test run for reader 15 replacement ✅ 2026-04-09
-- [ ] Update job description
+- [x] Update job description
 - [ ] Make presentation for Sylvie's meeting
 - [x] Fix Airtable upload bug ✅ 2026-04-14
 - [x] Schedule mass spec sample drop-off ✅ 2026-04-14
