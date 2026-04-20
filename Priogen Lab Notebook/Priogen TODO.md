@@ -10,5 +10,7 @@
 - [x] Report for order 1132
 - [x] Ask Stefania for the metadata before meeting.
 - [ ] Update swab protocol to exclude N2.
+- [ ] Update feces protocol to exclude N2.
 - [ ] Analyze UPenn data
 - [ ] Analyze Iceland data
+- [ ] Do the mammal brain report (order 1135)
