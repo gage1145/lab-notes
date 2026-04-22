@@ -24,3 +24,7 @@ summary:
 		1. Map sites to activity
 		2. Link sites directly to RT-QuIC graphs
 		3. Incorporate route we took
+2. Bird feeders
+	1. How far away from dump site correlation
+	2. Height from ground vs seeding activity?
+	3. Correlation of seasonal precipiation
