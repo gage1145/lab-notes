@@ -2,7 +2,7 @@
 name: Lecture 3
 date: 2026-03-25
 tags: [lecture]
-continued_from:
+continued_from: "[[Lecture 2]]"
 association:
 project:
 summary:
