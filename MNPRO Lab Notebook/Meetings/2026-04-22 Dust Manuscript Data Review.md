@@ -1,10 +1,10 @@
 ---
 name: 2026-04-22 Dust Manuscript Data Review
 date: 2026-04-22
-tags: meeting
+tags: [meeting]
 continued_from:
 association: MNPRO
-project: 
+project:
   - "[[Beltrami PPE Swabs]]"
   - "[[Bird Feeder Swabs]]"
 summary:
@@ -24,7 +24,8 @@ summary:
 		1. Map sites to activity
 		2. Link sites directly to RT-QuIC graphs
 		3. Incorporate route we took
+	4. Separate by collection date
 2. Bird feeders
 	1. How far away from dump site correlation
 	2. Height from ground vs seeding activity?
-	3. Correlation of seasonal precipiation
+	3. Correlation of seasonal precipitation
