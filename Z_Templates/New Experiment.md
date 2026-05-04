@@ -1,7 +1,9 @@
 <%*
 const title = tp.file.title;
 const path = tp.file.folder(true);
-const project = tp.file.folder(false);
+const folders = path.split('/');
+const project = folders[folders.length - 2];
+// const project = tp.file.folder(false);
 const date = tp.date.now("YYYY-MM-DD");
 let newTitle;
 let protocolFile;

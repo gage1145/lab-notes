@@ -8,6 +8,8 @@ project: "[[Diagnostics]]"
 continued_from:
 association: Priogen
 protocols:
+  - "[[Skin RT-QuIC]]"
+  - "[[Soil RT-QuIC]]"
 ---
 
 ## Purpose
