@@ -13,4 +13,6 @@
 - [ ] Update feces protocol to exclude N2.
 - [ ] Analyze UPenn data
 - [ ] Analyze Iceland data
-- [ ] Do the mammal brain report (order 1135)
+- [x] Do the mammal brain report (order 1135) ✅ 2026-05-04
+- [ ] 1137 report
+- [ ] 1134 report
