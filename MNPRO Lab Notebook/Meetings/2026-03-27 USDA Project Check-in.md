@@ -4,7 +4,7 @@ date: 2026-03-27
 tags: [meeting]
 continued_from:
 association: MNPRO
-project:
+project: "[[USDA Validation]]"
 summary:
 ---
 
