@@ -14,7 +14,7 @@
 - [ ] Analyze UPenn data
 - [ ] Analyze Iceland data
 - [x] Do the mammal brain report (order 1135) ✅ 2026-05-04
-- [ ] 1137 report
-- [ ] 1134 report
+- [x] 1137 report
+- [x] 1134 report
 - [x] Report for order 1092 ✅ 2026-04-21
-- [ ] Report for order 1117
+- [x] Report for order 1117
