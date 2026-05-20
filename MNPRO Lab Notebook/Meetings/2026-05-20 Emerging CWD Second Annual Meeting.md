@@ -84,5 +84,5 @@ summary:
 - Some RT-Q signals in EDTA buffy coats for reindeer
 	- Still need to optimize the extraction
 ### An update on strain properties of emergent Nordic CWD - Glenn Telling
-- 
+- 109Q AA is important for moose transmission
 
