@@ -50,3 +50,26 @@ summary:
 	- Antler scratching
 - Clinical Signs Monitoring
 	- Previous studies showed clinical signs around 18-20 months
+- Note: first naturally CWD positive reindeer in Alberta has occurred.
+### Peripheral prions amplification in organs from Norwegian CWD cervids - Lars Folkman
+- Bank vole more sensitive with PMCA
+	- detects more tissues after fewer rounds
+- Reindeer results:
+	- All animals have prions in lymphoid tissues
+	- not all have prions in brain
+	- consistently in multiple peripheral and secretory tissues
+	- No CNS positivity without lymphoid involvement
+	- most tissues are positive
+	- Difficult to assess influence of genotype
+- Moose results:
+	- Prions in brains of all animals
+	- present in lymphoid tissues
+	- Present in secretory and peripheral organs
+	- Prions always present in brain
+	- widely present in lymphoid and peripheral tissues
+	- Present in secretory tissues
+- Red Deer results:
+	- Prions present in brain
+	- Present in lymph
+	- present in peripheral tissues
+- 
