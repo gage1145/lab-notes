@@ -1,17 +1,15 @@
 ---
 name: 2026-05-20 Emerging CWD Second Annual Meeting
 date: 2026-05-20
-tags: meeting
+tags: [meeting]
 continued_from:
 association: MNPRO
 project:
 summary:
 ---
 
-
-
-# Chronic wasting disease prions from Norwegian cervids: Assessing the pathogenesis, shedding, spillover and Zoonotic potential - Emerging CWD
-## Attendees
+## Chronic Wasting Disease Prions from Norwegian Cervids: Assessing the Pathogenesis, Shedding, Spillover and Zoonotic Potential - Emerging CWD
+### Attendees
 - Gage Rowden
 - Sarah Gresch
 - Sylvie Benestad
@@ -19,10 +17,10 @@ summary:
 - Linh
 - Glenn Telling
 - Gordon Mitchell
-## Presentations
-### Status about surveillance for CWD and re-establishment of reindeer in the Nordfjella area - Jorn Vage
+### Presentations
+#### Status about Surveillance for CWD and Re-establishment of Reindeer in the Nordfjella Area - Jorn Vage
 
-### Update from Gordon Mitchell
+#### Update from Gordon Mitchell
 - Coming up on 18 MPI
 - So far eating well
 - Irregular seasonality causing different phenotypes
@@ -51,7 +49,7 @@ summary:
 - Clinical Signs Monitoring
 	- Previous studies showed clinical signs around 18-20 months
 - Note: first naturally CWD positive reindeer in Alberta has occurred.
-### Peripheral prions amplification in organs from Norwegian CWD cervids - Lars Folkman
+#### Peripheral Prions Amplification in Organs from Norwegian CWD Cervids - Lars Folkman
 - Bank vole more sensitive with PMCA
 	- detects more tissues after fewer rounds
 - Reindeer results:
