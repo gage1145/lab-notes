@@ -80,5 +80,9 @@ summary:
 	* WTD -> BoPrP-Tg110            **YES** only after second passage
 * Pigs and humans seem to be very resistant to all species of CWD; PHEW!
 * Cattle and sheep: transmission is variable! 
-### Interspecies Bioassays - 
+### Work progress in WP3 & WP4 - Juan Carlos Espinosa
+- Some RT-Q signals in EDTA buffy coats for reindeer
+	- Still need to optimize the extraction
+### An update on strain properties of emergent Nordic CWD - Glenn Telling
 - 
+
