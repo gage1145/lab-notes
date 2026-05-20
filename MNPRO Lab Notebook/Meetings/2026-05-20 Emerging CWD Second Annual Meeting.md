@@ -8,8 +8,8 @@ project:
 summary:
 ---
 
-## Chronic Wasting Disease Prions from Norwegian Cervids: Assessing the Pathogenesis, Shedding, Spillover and Zoonotic Potential - Emerging CWD
-### Attendees
+# Chronic Wasting Disease Prions from Norwegian Cervids: Assessing the Pathogenesis, Shedding, Spillover and Zoonotic Potential - Emerging CWD
+## Attendees
 - Gage Rowden
 - Sarah Gresch
 - Sylvie Benestad
@@ -17,10 +17,10 @@ summary:
 - Linh
 - Glenn Telling
 - Gordon Mitchell
-### Presentations
-#### Status about Surveillance for CWD and Re-establishment of Reindeer in the Nordfjella Area - Jorn Vage
+## Presentations
+### Status about Surveillance for CWD and Re-establishment of Reindeer in the Nordfjella Area - Jorn Vage
 
-#### Update from Gordon Mitchell
+### Update from Gordon Mitchell
 - Coming up on 18 MPI
 - So far eating well
 - Irregular seasonality causing different phenotypes
@@ -49,7 +49,7 @@ summary:
 - Clinical Signs Monitoring
 	- Previous studies showed clinical signs around 18-20 months
 - Note: first naturally CWD positive reindeer in Alberta has occurred.
-#### Peripheral Prions Amplification in Organs from Norwegian CWD Cervids - Lars Folkman
+### Peripheral Prions Amplification in Organs from Norwegian CWD Cervids - Lars Folkman
 - Bank vole more sensitive with PMCA
 	- detects more tissues after fewer rounds
 - Reindeer results:
@@ -70,4 +70,15 @@ summary:
 	- Prions present in brain
 	- Present in lymph
 	- present in peripheral tissues
+**Need to follow up about whether these samples are the same that Zoe tested!**
+### CWD prions from Norwegian cervids: Assessing the pathogenesis, shedding, spillover, and zoonotic potential - Juan Maria Torres
+* Interspecies transmission of CWD
+	* Moose -> OvPrP-Tg338 mouse    **YES**
+	* Elk -> OvPrP-Tg338 mouse      **YES** after second passage
+	* Red Deer -> OvPrP-Tg338 mouse **YES** only after second passage (so far)
+	* Elk -> BoPrP-Tg110            **YES** only after second passage
+	* WTD -> BoPrP-Tg110            **YES** only after second passage
+* Pigs and humans seem to be very resistant to all species of CWD; PHEW!
+* Cattle and sheep: transmission is variable! 
+### Interspecies Bioassays - 
 - 
