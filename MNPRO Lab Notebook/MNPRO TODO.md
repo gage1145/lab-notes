@@ -46,4 +46,6 @@
 - [x] Schedule mass spec sample drop-off ✅ 2026-04-14
 - [x] Email Christina about tau substrate his-tag ✅ 2026-05-04
 - [x] Register online for Spain hotel booking ✅ 2026-05-04
-- [ ] Get quote for tau ATUM clone
+- [x] Get quote for tau ATUM clone ✅ 2026-05-26
+- [ ] Order Tau ATUM clone
+- [ ] Add quenching calculation to quicR
