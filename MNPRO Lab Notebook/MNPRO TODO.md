@@ -49,3 +49,4 @@
 - [x] Get quote for tau ATUM clone ✅ 2026-05-26
 - [ ] Order Tau ATUM clone
 - [ ] Add quenching calculation to quicR
+- [ ] Print off training history and give to Suzanne
