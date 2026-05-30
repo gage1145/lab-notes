@@ -26,7 +26,7 @@ cssclass: home
 >>let pages = dv.pages("#experiment").where(p => p.start_date);
 >>
 >>let groups = pages
->>	 .groupBy(p => {
+>>	.groupBy(p => {
 >>		let d = new Date(p.start_date);
 >>		return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}`;
 >>	 })
