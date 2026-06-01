@@ -2,7 +2,7 @@
 name: 2026-05-26 Lab Planning Meeting
 date: 2026-05-26
 tags: [meeting]
-continued_from:
+continued_from: "[[2026-05-11 Lab Planning Meeting]]"
 association: Priogen
 project:
 summary:

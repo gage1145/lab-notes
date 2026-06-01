@@ -22,7 +22,7 @@
 - [x] Find continuing education opportunities
 - [x] Update usda-validation README
 - [x] Update USDA project with new nasal swab data
-- [ ] Make presentation for Spain
+- [x] Make presentation for Spain
 - [x] Re-run protein gel for mass spec
 - [x] Re-submit mass spec samples
 - [x] Set up meeting with mass spec and Tiffany ✅ 2026-03-09
@@ -41,12 +41,12 @@
 - [x] Re-run protein gel with new spikes and pos-control
 - [x] Start test run for reader 15 replacement ✅ 2026-04-09
 - [x] Update job description
-- [ ] Make presentation for Sylvie's meeting
+- [x] Make presentation for Sylvie's meeting
 - [x] Fix Airtable upload bug ✅ 2026-04-14
 - [x] Schedule mass spec sample drop-off ✅ 2026-04-14
 - [x] Email Christina about tau substrate his-tag ✅ 2026-05-04
 - [x] Register online for Spain hotel booking ✅ 2026-05-04
 - [x] Get quote for tau ATUM clone ✅ 2026-05-26
 - [ ] Order Tau ATUM clone
-- [ ] Add quenching calculation to quicR
-- [ ] Print off training history and give to Suzanne
+- [x] Add quenching calculation to quicR
+- [x] Print off training history and give to Suzanne
