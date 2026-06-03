@@ -1,7 +1,7 @@
 ---
 name: 2026-06-01 Wolf Lab Meeting
 date: 2026-06-01
-tags: meeting
+tags: [meeting]
 continued_from:
 association: MNPRO
 project:
@@ -19,4 +19,5 @@ summary:
 - Caylie
 
 ## Overview
-1. 
+1. USDA Project
+	1.
