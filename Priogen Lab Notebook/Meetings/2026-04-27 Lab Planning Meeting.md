@@ -5,7 +5,7 @@ tags: [meeting]
 continued_from: "[[2026-04-20 Lab Planning Meeting]]"
 association: Priogen
 project:
-summary:
+summary: Overview of multiple ongoing projects including South Dakota, TPWD, and Mississippi soil testing with prioritization of large Mississippi State project (400 samples). Projects at various stages from reporting to plate preparation.
 ---
 
 ## **Attendees**

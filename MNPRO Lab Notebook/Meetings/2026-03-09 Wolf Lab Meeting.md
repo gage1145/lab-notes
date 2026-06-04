@@ -5,7 +5,7 @@ tags: [meeting]
 continued_from: "[[2026-02-09 Wolf Lab Meeting]]"
 association: MNPRO
 project:
-summary:
+summary: Brief update on LCCMR grant proposals and ongoing research projects including mass spec work and USDA validation studies.
 ---
 
 ## **Attendees**

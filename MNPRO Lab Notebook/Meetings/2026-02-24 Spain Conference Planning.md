@@ -5,7 +5,7 @@ tags: [meeting]
 continued_from:
 association: MNPRO
 project:
-summary:
+summary: Planned trip to Spain conference May 21-22, 2026. Total budget estimated at ~$3,800 per person covering flights, lodging, registration, and related expenses for two attendees.
 ---
 
 ## **Attendees**

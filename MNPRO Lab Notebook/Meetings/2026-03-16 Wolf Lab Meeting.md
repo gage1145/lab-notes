@@ -5,7 +5,7 @@ tags: [meeting]
 continued_from: "[[2026-03-09 Wolf Lab Meeting]]"
 association: MNPRO
 project:
-summary:
+summary: Feedback session on Caylee's presentation for RT-/Nano-QuIC validation project with suggestions to improve slide titles, diagrams, and formatting.
 ---
 
 ## **Attendees**

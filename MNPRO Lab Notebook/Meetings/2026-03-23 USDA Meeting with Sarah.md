@@ -5,7 +5,7 @@ tags: [meeting]
 continued_from:
 association: MNPRO
 project: "[[USDA Validation]]"
-summary:
+summary: Planning analysis approach for USDA validation data including RAF time-series plots, RT-QuIC to ELISA comparisons, and ROC threshold optimization.
 ---
 
 ## **Attendees**

@@ -5,7 +5,7 @@ tags: [meeting]
 continued_from:
 association: MNPRO
 project: "[[Reindeer PrioScouts]]"
-summary:
+summary: Meeting with Gordon Mitchell regarding Reindeer PrioScouts project.
 ---
 
 ## **Attendees**

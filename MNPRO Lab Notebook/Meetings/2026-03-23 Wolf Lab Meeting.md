@@ -5,7 +5,7 @@ tags: [meeting]
 continued_from: "[[2026-03-16 Wolf Lab Meeting]]"
 association: MNPRO
 project:
-summary:
+summary: Team updates on CWD paper submission, manager survey deployment for study recruitment, RT-QuIC training progress, and ongoing USDA validation work.
 ---
 
 ## **Attendees**

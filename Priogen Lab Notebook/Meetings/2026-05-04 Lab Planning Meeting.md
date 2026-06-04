@@ -5,7 +5,7 @@ tags: [meeting]
 continued_from: "[[2026-04-27 Lab Planning Meeting]]"
 association: Priogen
 project:
-summary:
+summary: MSU soil project progress update with samples at various processing stages. Discussed negative control issues in recent runs, team availability for summer, and project reporting status.
 ---
 
 ## **Attendees**
