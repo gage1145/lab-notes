@@ -19,7 +19,7 @@ The blood protocol was optimized in [[20260113_r4_GR_USDA-blood_2X_Nano-QuIC]]. 
 - Pellets resuspended in 50uL SDS/PBS.
 - Resuspensions diluted 100-fold further in SDS/PBS.
 - Used 2X MNPROtein
-- 72h, 42\textdegreeC
+- 72h, 42$\textdegree$C
 
 ||**1**|**2**|**3**|**4**|**5**|**6**|**7**|**8**|**9**|**10**|**11**|**12**|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
