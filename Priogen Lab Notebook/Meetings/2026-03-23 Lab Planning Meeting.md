@@ -5,7 +5,7 @@ tags: [meeting]
 continued_from: "[[2026-03-09 Lab Planning Meeting]]"
 association: Priogen
 project:
-summary:
+summary: Team reported a positive Mississippi lymph node sample and multiple incoming projects including South Dakota soils and Iceland swabs. Updates on sample processing, client communications, and protocol adjustments for oral swabs.
 ---
 
 ## **Attendees**

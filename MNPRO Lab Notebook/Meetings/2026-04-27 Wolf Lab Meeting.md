@@ -5,7 +5,7 @@ tags: [meeting]
 continued_from: "[[2026-04-20 Wolf Lab Meeting]]"
 association: MNPRO
 project:
-summary:
+summary: Brief lab meeting with team members.
 ---
 
 ## **Attendees**

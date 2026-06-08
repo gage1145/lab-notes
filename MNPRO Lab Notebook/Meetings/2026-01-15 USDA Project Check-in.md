@@ -4,7 +4,7 @@ date: 2026-01-15
 tags: [meeting]
 continued_from:
 association: MNPRO
-summary:
+summary: USDA validation project check-in with team leads and collaborators.
 project: "[[USDA Validation]]"
 ---
 

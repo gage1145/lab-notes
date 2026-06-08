@@ -5,7 +5,7 @@ tags: [meeting]
 continued_from:
 association: Priogen
 project:
-summary:
+summary: Brief meeting on evaluating negative control distribution to determine if threshold adjustments are needed.
 ---
 
 ## **Attendees**

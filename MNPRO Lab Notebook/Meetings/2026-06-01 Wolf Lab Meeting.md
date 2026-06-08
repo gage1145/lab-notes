@@ -5,7 +5,7 @@ tags: [meeting]
 continued_from:
 association: MNPRO
 project:
-summary:
+summary: Lab meeting with team members.
 ---
 
 ## **Attendees**

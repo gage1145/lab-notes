@@ -5,7 +5,7 @@ tags: [meeting]
 continued_from:
 association: MNPRO
 project: "[[Soil Mass Spec]]"
-summary:
+summary: Soil mass spec results showed successful analysis with relative peptide amounts obtainable from AUC measurements. The $5,750 run revealed unexpected properties (singly charged, non-normalized gel bands), requiring a repeat with more sample and extended gel separation.
 ---
 
 ## **Attendees**

@@ -5,7 +5,7 @@ tags: [meeting]
 continued_from: "[[2026-05-04 Lab Planning Meeting]]"
 association: Priogen
 project:
-summary:
+summary: MSU soil project nearing halfway completion with 470 samples in processing pipeline. Successful mammal brain runs, reports underway, and new swab projects shipping to multiple states.
 ---
 
 ## **Attendees**

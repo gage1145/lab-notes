@@ -5,7 +5,9 @@ tags: [meeting]
 continued_from:
 association: MNPRO
 project:
-summary:
+  - "[[Reindeer PrioScouts]]"
+  - "[[QuIC Validation for Norwegian Cervids]]"
+summary: International CWD consortium meeting covering prion pathogenesis, distribution across tissues and species, interspecies transmission risk assessment, and emerging Nordic CWD strain properties. Key findings show prions widely distributed in cervid tissues with variable transmission risk to cattle and sheep.
 ---
 
 ## Chronic Wasting Disease Prions from Norwegian Cervids: Assessing the Pathogenesis, Shedding, Spillover and Zoonotic Potential - Emerging CWD

@@ -5,7 +5,7 @@ tags: [meeting]
 continued_from: "[[2026-04-13 Lab Planning Meeting]]"
 association: Priogen
 project:
-summary:
+summary: Lab updates on feces plate processing, incoming sample batches, and action items including brain report completion and ear plate scheduling.
 ---
 
 ## **Attendees**

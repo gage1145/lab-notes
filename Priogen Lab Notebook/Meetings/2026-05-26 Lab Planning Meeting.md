@@ -5,7 +5,7 @@ tags: [meeting]
 continued_from: "[[2026-05-11 Lab Planning Meeting]]"
 association: Priogen
 project:
-summary:
+summary: Multiple projects underway including MSU soil testing (43% complete), Mississippi Department of Wildlife sampling, and swab projects to New Mexico, Florida, and Texas. USDA grant funding inquiry and MNPROtein sales updates.
 ---
 
 ## **Attendees**

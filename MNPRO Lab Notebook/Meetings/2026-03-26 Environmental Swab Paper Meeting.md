@@ -6,7 +6,7 @@ continued_from:
 association: MNPRO
 project:
   - "[[Beltrami PPE Swabs]]"
-summary:
+summary: Planning for PPE swab and bird feeder swab papers with analysis framework. Focus on demonstrating dust-borne prions with site mapping, weather correlations, and environmental exposure variables.
 ---
 
 ## **Attendees**

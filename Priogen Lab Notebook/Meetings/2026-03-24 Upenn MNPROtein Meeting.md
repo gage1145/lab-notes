@@ -5,7 +5,7 @@ tags: [meeting]
 continued_from:
 association: Priogen
 project:
-summary:
+summary: Results review comparing MNPROtein, Nano-QuIC, and VMRD assays on formalin-fixed lymph nodes and feces samples. MNPROtein and Nano-QuIC showed comparable sensitivity and specificity to VMRD on lymph nodes, though both assays showed lower detection rates on feces samples.
 ---
 
 ## **Attendees**

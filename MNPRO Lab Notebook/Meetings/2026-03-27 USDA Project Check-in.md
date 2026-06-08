@@ -5,7 +5,7 @@ tags: [meeting]
 continued_from:
 association: MNPRO
 project: "[[USDA Validation]]"
-summary:
+summary: Project status presentation covering MNPRO goals, USDA project overview, tissue samples received, RT-/Nano-QuIC methods, and next steps including sensitivity/specificity analysis and genotype evaluation.
 ---
 
 ## **Attendees**

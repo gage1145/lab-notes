@@ -1,0 +1,24 @@
+{
+  "id": "conv-1780585513723-ghv12zuhi",
+  "providerId": "claude",
+  "title": "**Title:** Update Meeting Summaries\n\nI'll help ...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1780585513725,
+  "updatedAt": 1780585777161,
+  "lastResponseAt": 1780585777161,
+  "sessionId": "d607c705-91ae-4aec-9464-49830fb0374a",
+  "providerState": {
+    "providerSessionId": "d607c705-91ae-4aec-9464-49830fb0374a"
+  },
+  "currentNote": "MNPRO Lab Notebook/Meetings/2025-12-15 Wolf Lab Meeting.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 1540,
+    "cacheReadInputTokens": 51696,
+    "contextWindow": 200000,
+    "contextTokens": 53244,
+    "percentage": 27,
+    "contextWindowIsAuthoritative": true
+  }
+}
