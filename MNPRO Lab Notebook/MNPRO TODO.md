@@ -50,3 +50,4 @@
 - [ ] Order Tau ATUM clone
 - [x] Add quenching calculation to quicR
 - [x] Print off training history and give to Suzanne
+- [ ] Update blood concentrations on Airtable
