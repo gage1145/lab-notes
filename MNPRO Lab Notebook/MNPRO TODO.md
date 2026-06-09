@@ -47,7 +47,9 @@
 - [x] Email Christina about tau substrate his-tag ✅ 2026-05-04
 - [x] Register online for Spain hotel booking ✅ 2026-05-04
 - [x] Get quote for tau ATUM clone ✅ 2026-05-26
-- [ ] Order Tau ATUM clone
+- [x] Order Tau ATUM clone ✅ 2026-06-09
 - [x] Add quenching calculation to quicR
 - [x] Print off training history and give to Suzanne
-- [ ] Update blood concentrations on Airtable
+- [x] Update blood concentrations on Airtable ✅ 2026-06-09
+- [x] Add the new blood data to Airtable
+- [ ] Send the demo script to Rhemar in Denmark
