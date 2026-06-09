@@ -4,7 +4,7 @@ author: Gage Rowden
 date created: 2026-01-13
 tags: [protocol]
 association: MNPRO
-time: 1hr
+time: 72hr
 alters: "[[Blood RT-QuIC]]"
 ---
 
