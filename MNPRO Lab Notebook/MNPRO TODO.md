@@ -52,4 +52,4 @@
 - [x] Print off training history and give to Suzanne
 - [x] Update blood concentrations on Airtable ✅ 2026-06-09
 - [x] Add the new blood data to Airtable
-- [ ] Send the demo script to Rhemar in Denmark
+- [x] Send the demo script to Rhemar in Denmark

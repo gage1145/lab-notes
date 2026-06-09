@@ -12,8 +12,8 @@
 - [x] Ask Stefania for the metadata before meeting.
 - [ ] Update swab protocol to exclude N2.
 - [ ] Update feces protocol to exclude N2.
-- [ ] Analyze UPenn data
-- [ ] Analyze Iceland data
+- [x] Analyze UPenn data
+- [x] Analyze Iceland data
 - [x] Do the mammal brain report (order 1135) ✅ 2026-05-04
 - [x] 1137 report
 - [x] 1134 report
