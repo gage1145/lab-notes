@@ -4,8 +4,8 @@
   "title": "**Title:** Update Meeting Summaries\n\nI'll help ...",
   "titleGenerationStatus": "success",
   "createdAt": 1780585513725,
-  "updatedAt": 1780585777161,
-  "lastResponseAt": 1780585777161,
+  "updatedAt": 1781543359115,
+  "lastResponseAt": 1781543359115,
   "sessionId": "d607c705-91ae-4aec-9464-49830fb0374a",
   "providerState": {
     "providerSessionId": "d607c705-91ae-4aec-9464-49830fb0374a"
@@ -14,11 +14,11 @@
   "usage": {
     "model": "haiku",
     "inputTokens": 8,
-    "cacheCreationInputTokens": 1540,
-    "cacheReadInputTokens": 51696,
+    "cacheCreationInputTokens": 750,
+    "cacheReadInputTokens": 29887,
     "contextWindow": 200000,
-    "contextTokens": 53244,
-    "percentage": 27,
+    "contextTokens": 30645,
+    "percentage": 15,
     "contextWindowIsAuthoritative": true
   }
 }

@@ -23,7 +23,7 @@ cssclass: home
 >>[!blank-container|wide-2]
 >>## Experiments per Month
 >>```dataviewjs
->>let pages = dv.pages("#experiment").where(p => p.start_date);
+>>const pages = dv.pages("#experiment").where(p => p.start_date);
 >>
 >>let groups = pages
 >>	.groupBy(p => {
@@ -34,9 +34,10 @@ cssclass: home
 >>
 >>let dates = groups.map(g => g.key).values;
 >>let counts = groups.map(g => g.rows.length).values;
->>const color = "#266338";
+>>const color = "#010081";
 >>const font = {
->>	a
+>>	family: "'Win95Font', 'Inter', 'Rubik', 'Segoe UI'",
+>>	size: 14
 >>}
 >>
 >>const chartData = {
@@ -62,17 +63,21 @@ cssclass: home
 >>			        }
 >>			    },
 >>			    ticks: {
->>				    color: color,
+>>				    font: font,
+>>				    color: "#000000",
 >>			    }
 >>		    },
 >>		    y: {
 >>				ticks: {
->>					color: color,
+>>					font: font,
+>>					//color: "#000000",
 >>				}
 >>			}
 >>		},
 >>		plugins: {
->>		    legend: { display: false }
+>>			legend: { 
+>>			    display: false
+>>			   }
 >>		},
 >>		onHover: (event, chartElements) => {
 >>			event.native.target.style.cursor = 'default';
@@ -100,14 +105,25 @@ cssclass: home
 >>const color = "#266338";
 >>
 >>// Generate dynamic colors  
->>function generateColors(n) {  
->>	return Array.from({ length: n }, (_, i) => {  
->>		const lightness = 100 - (20 + (80 / n) * i);  
->>		return `hsl(140, 70%, ${lightness}%)`;  
->>	});  
+>>//function generateColors(n) {  
+>>//	return Array.from({ length: n }, (_, i) => {  
+>>//		const lightness = 100 - (20 + (80 / n) * i);  
+>>//		return `hsl(140, 70%, ${lightness}%)`;  
+>>//	});  
+>>//}
+>>
+>>function generateColors(n) {
+>>	let palette = ["#FF0081", "#010081", "#FFD700", "#C3C3C3", "#818181", "#008080", "#3FB0DA", "#8EC582"];
+>>	return Array.from({ length: n }), (_, i) => {
+>>		return palette
+>>	}
 >>}
 >>
 >>let dynamicColors = generateColors(labels.length);
+>>const font = {
+>>	family: "'Win95Font', 'Inter', 'Rubik', 'Segoe UI'",
+>>	size: 14
+>>}
 >>
 >>const chartData = {
 >>	type: 'pie',
@@ -127,7 +143,8 @@ cssclass: home
 >> 	       legend: {
 >> 		       position: 'bottom',
 >> 		       labels: {
->> 			       color: color
+>> 			       font: font,
+>> 			       color: "#000000"
 >> 			   }
 >> 		   }
 >> 	   },

@@ -54,4 +54,5 @@
 - [x] Add the new blood data to Airtable
 - [x] Send the demo script to Rhemar in Denmark
 - [ ] Receive and store the ATUM Tau clone
-- [ ] Test the 3 different swab types
+- [ ] Test the 3 different swab types for USDA project
+- [ ] Analyze mass spec data

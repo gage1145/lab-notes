@@ -2,7 +2,7 @@
 name: 20260609_r3_GR_USDA-blood_Nano-QuIC
 start_date: 2026-06-09
 end_date: 2026-06-12
-status: in-progress
+status: completed
 tags: [experiment]
 project: "[[USDA Validation]]"
 continued_from:
