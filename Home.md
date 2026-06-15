@@ -35,6 +35,9 @@ cssclass: home
 >>let dates = groups.map(g => g.key).values;
 >>let counts = groups.map(g => g.rows.length).values;
 >>const color = "#266338";
+>>const font = {
+>>	a
+>>}
 >>
 >>const chartData = {
 >>	type: 'line',
@@ -158,6 +161,7 @@ cssclass: home
 >>WHERE contains(status, "completed")
 >>```
 >
+
 >[!multi-column]
 >>### Analysis
 >>

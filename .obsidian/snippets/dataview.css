@@ -1,10 +1,15 @@
+/* Change font of DataviewJS blocks */
+* {
+    font-family: 'Win95Font', 'Inter', 'Rubik', 'Segoe UI';
+}
+
 .markdown-preview-view.is-readable-line-width.page-100 .markdown-preview-sizer,
 .markdown-source-view.mod-cm6.is-readable-line-width.page-100 .cm-sizer {
-max-width: 100%;
+    max-width: 100%;
 }
 .markdown-source-view.mod-cm6.is-readable-line-width .cm-line,
 .markdown-source-view.mod-cm6.is-readable-line-width .cm-content {
-max-width: 100%;
+    max-width: 100%;
 }
 
 /* Dataview column wrapping */
@@ -17,3 +22,5 @@ max-width: 100%;
         max-width: 100px;
     }
 }
+
+

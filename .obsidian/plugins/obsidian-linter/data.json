@@ -285,6 +285,11 @@
       "label": "Templates",
       "match": "Z_Templates",
       "flags": "i"
+    },
+    {
+      "match": "^Home\\.md$",
+      "flags": "",
+      "label": ""
     }
   ],
   "linterLocale": "system-default",
