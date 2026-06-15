@@ -34,7 +34,7 @@ cssclass: home
 >>
 >>let dates = groups.map(g => g.key).values;
 >>let counts = groups.map(g => g.rows.length).values;
->>let color = "#5CEF88";
+>>const color = "#266338";
 >>
 >>const chartData = {
 >>	type: 'line',
@@ -94,7 +94,7 @@ cssclass: home
 >>// Extract labels and counts
 >>let labels = groups.map(g => g.key.path.split("/").pop().replace(".md", "")).values;
 >>let counts = groups.map(g => g.rows.length).values;
->>let color = "#5CEF88";
+>>const color = "#266338";
 >>
 >>// Generate dynamic colors  
 >>function generateColors(n) {  
@@ -158,7 +158,6 @@ cssclass: home
 >>WHERE contains(status, "completed")
 >>```
 >
-
 >[!multi-column]
 >>### Analysis
 >>

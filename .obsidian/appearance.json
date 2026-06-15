@@ -1,10 +1,10 @@
 {
   "enabledCssSnippets": [
-    "courier_font",
     "dataview",
     "MCL Multi Column",
     "line-width",
     "tasks"
   ],
-  "cssTheme": "Minimal"
+  "cssTheme": "RetroOS 98",
+  "theme": "moonstone"
 }
