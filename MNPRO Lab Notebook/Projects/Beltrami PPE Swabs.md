@@ -4,8 +4,10 @@ author: Gage Rowden
 date created: 2025-03-04
 tags: [project]
 abbreviation: BPPES
-status: in-progress
-start: 2025-03-04
+status:
+  - analysis
+  - writing
+start: 2022-09-01
 end:
 association: MNPRO
 duration: 3 years

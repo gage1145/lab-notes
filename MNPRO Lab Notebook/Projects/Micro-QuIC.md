@@ -5,8 +5,7 @@ author:
   - Damani Bryant
   - Peter Larsen
 date created: 2026-02-11
-tags:
-  - project
+tags: [project]
 abbreviation: GR
 status: in-progress
 start: 2026-02-11
@@ -16,6 +15,7 @@ duration: 3 years
 funding agency:
 funding code:
 ---
+
 ## Overview
 
 ## Experiments

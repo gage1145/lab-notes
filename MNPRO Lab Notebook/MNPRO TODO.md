@@ -53,3 +53,5 @@
 - [x] Update blood concentrations on Airtable ✅ 2026-06-09
 - [x] Add the new blood data to Airtable
 - [x] Send the demo script to Rhemar in Denmark
+- [ ] Receive and store the ATUM Tau clone
+- [ ] Test the 3 different swab types

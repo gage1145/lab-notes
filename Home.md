@@ -146,7 +146,7 @@ cssclass: home
 >>TABLE WITHOUT ID
 >>file.link AS Project, start AS "Start Date", association AS Association, length(file.inlinks) AS Experiments
 >>FROM #project 
->>WHERE status = "in-progress"
+>>WHERE contains(status, "in-progress")
 >>```
 >
 >>### Completed
@@ -155,9 +155,29 @@ cssclass: home
 >>TABLE WITHOUT ID
 >>file.link AS Project, start AS "Start Date", association AS Association, length(file.inlinks) AS Experiments
 >>FROM #project
->>WHERE status = "completed"
+>>WHERE contains(status, "completed")
 >>```
+>
 
+>[!multi-column]
+>>### Analysis
+>>
+>>```dataview
+>>TABLE WITHOUT ID
+>> file.link AS Project, start AS "Start Date", association AS Association, length(file.inlinks) AS Experiments  
+>> FROM #project  
+>> WHERE contains(status, "analysis")
+>>```
+>
+>>### Writing
+>>
+>>```dataview
+>>TABLE WITHOUT ID
+>>file.link AS Project, start AS "Start Date", association AS Association, length(file.inlinks) AS Experiments
+>>FROM #project
+>>WHERE contains(status, "writing")
+>>```
+>
 ## Experiments
 
 >[!multi-column]

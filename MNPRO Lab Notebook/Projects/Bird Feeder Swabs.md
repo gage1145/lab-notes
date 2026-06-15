@@ -4,7 +4,9 @@ author: Gage Rowden
 date created: 2024-11-18
 tags: [project]
 abbreviation: GR
-status: in-progress
+status:
+  - analysis
+  - writing
 start: 2024-11-18
 end:
 association: MNPRO
