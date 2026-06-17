@@ -178,7 +178,6 @@ cssclass: home
 >>WHERE contains(status, "completed")
 >>```
 >
-
 >[!multi-column]
 >>### Analysis
 >>
