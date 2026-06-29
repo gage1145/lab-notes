@@ -2,7 +2,7 @@
 name: 20260616_r12_GR_USDA-blood_RT-QuIC
 start_date: 2026-06-16
 end_date: 2026-06-19
-status: in-progress
+status: completed
 tags: [experiment]
 project: "[[USDA Validation]]"
 continued_from:

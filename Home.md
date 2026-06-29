@@ -18,7 +18,10 @@ cssclass: home
 >>FROM "Priogen Lab Notebook/Priogen TODO"
 >>WHERE !completed
 >>```
+>
+
 ---
+
 >[!multi-column]
 >>[!blank-container|wide-2]
 >>## Experiments per Month
@@ -178,6 +181,9 @@ cssclass: home
 >>WHERE contains(status, "completed")
 >>```
 >
+
+---
+
 >[!multi-column]
 >>### Analysis
 >>
@@ -197,6 +203,9 @@ cssclass: home
 >>WHERE contains(status, "writing")
 >>```
 >
+
+---
+
 ## Experiments
 
 >[!multi-column]
