@@ -1,15 +1,13 @@
 ---
-name: 20260608_pr2_GR_skin-swabs
-start_date: 2026-06-08
-end_date: 2026-06-10
+name: 20260624_pr2_GR_sab-swabs
+start_date: 2026-06-24
+end_date: 2026-06-26
 status: completed
 tags: [experiment]
 project: "[[Diagnostics]]"
 continued_from:
 association: Priogen
-protocols:
-  - "[[Skin RT-QuIC]]"
-  - "[[Swab RT-QuIC]]"
+protocols: "[[Swab RT-QuIC]]"
 ---
 
 ## Purpose
