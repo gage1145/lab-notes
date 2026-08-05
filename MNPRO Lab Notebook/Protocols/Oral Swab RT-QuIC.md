@@ -7,8 +7,7 @@ association: MNPRO
 ---
 
 ## Equipment
-- Equip1
-- Equip2
+- BMG
 ## Consumables
 - Consumable1
 - Consumable2
