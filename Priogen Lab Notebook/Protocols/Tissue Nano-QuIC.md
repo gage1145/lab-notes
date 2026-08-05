@@ -4,6 +4,7 @@ author: Gage Rowden
 date created: 2025-12-12
 tags: [protocol, Nano-QuIC]
 association: Priogen
+dg-publish: true
 ---
 
 ## Equipment

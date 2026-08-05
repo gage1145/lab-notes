@@ -8,6 +8,7 @@ project:
   - "[[Beltrami PPE Swabs]]"
   - "[[Bird Feeder Swabs]]"
 summary: Review of PPE swab and bird feeder swab manuscript data with feedback on site mapping, analysis approaches, and incorporation of temporal and environmental variables.
+dg-publish: true
 ---
 
 ## **Attendees**

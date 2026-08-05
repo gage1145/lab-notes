@@ -8,6 +8,7 @@ project: "[[Beltrami PPE Swabs]]"
 continued_from:
 association: MNPRO
 protocols: "[[Environmental Swab RT-QuIC]]"
+dg-publish: true
 ---
 
 ## Purpose

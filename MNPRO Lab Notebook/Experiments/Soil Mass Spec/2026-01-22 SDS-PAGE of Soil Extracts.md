@@ -8,6 +8,7 @@ project: "[[Soil Mass Spec]]"
 continued_from: "[[2026-01-06 Protein Concentrations of Soil Extractions]]"
 association: MNPRO
 protocols: "[[SDS-PAGE]]"
+dg-publish: true
 ---
 
 ## Purpose

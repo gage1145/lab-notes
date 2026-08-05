@@ -5,6 +5,7 @@ date created: 2026-01-13
 tags: [protocol]
 association: MNPRO
 time: 72hr
+dg-publish: true
 ---
 
 ## Equipment

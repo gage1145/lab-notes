@@ -8,6 +8,7 @@ project: "[[Deer Capture]]"
 continued_from:
 association: MNPRO
 protocols: "[[Prion Extraction from Skin]]"
+dg-publish: true
 ---
 
 ## Purpose

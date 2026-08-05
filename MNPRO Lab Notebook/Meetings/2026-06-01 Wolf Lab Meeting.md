@@ -6,6 +6,7 @@ continued_from:
 association: MNPRO
 project:
 summary: Lab meeting with team members.
+dg-publish: true
 ---
 
 ## **Attendees**

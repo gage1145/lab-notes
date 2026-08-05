@@ -11,6 +11,7 @@ association: Priogen
 duration: 3 years
 funding agency:
 funding code:
+dg-publish: true
 ---
 
 ## Overview

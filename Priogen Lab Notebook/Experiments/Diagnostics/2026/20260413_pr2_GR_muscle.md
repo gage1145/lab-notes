@@ -8,6 +8,7 @@ project: "[[Diagnostics]]"
 continued_from:
 association: Priogen
 protocols: "[[Muscle Nano-QuIC]]"
+dg-publish: true
 ---
 
 ## Purpose

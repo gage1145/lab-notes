@@ -8,6 +8,7 @@ project: "[[PrioVision]]"
 continued_from: "[[2025-12-10 PrioVision Overheating Troubleshooting]]"
 association: Priogen
 protocols:
+dg-publish: true
 ---
 
 ## Purpose

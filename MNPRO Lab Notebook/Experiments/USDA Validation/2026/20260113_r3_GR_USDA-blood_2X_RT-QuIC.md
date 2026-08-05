@@ -8,6 +8,7 @@ project: "[[USDA Validation]]"
 continued_from: "[[20251024_r8_GR_USDA-blood_2X_RT-QuIC]]"
 association: MNPRO
 protocols: "[[Blood RT-QuIC]]"
+dg-publish: true
 ---
 
 ## Purpose

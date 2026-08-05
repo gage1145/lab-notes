@@ -6,6 +6,7 @@ continued_from: "[[2026-03-30 Wolf Lab Meeting]]"
 association: MNPRO
 project:
 summary: Brief meeting focused on obtaining USDA clinical disease progression data for analysis.
+dg-publish: true
 ---
 
 ## **Attendees**

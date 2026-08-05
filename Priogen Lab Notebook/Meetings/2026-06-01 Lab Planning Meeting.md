@@ -6,6 +6,7 @@ continued_from: "[[2026-05-26 Lab Planning Meeting]]"
 association: Priogen
 project:
 summary: Major order from Mississippi Department of Wildlife for 500 muscle kits, MSU soil project progressing with multiple plates scheduled, and PrioScout swab testing beginning. Potential $25k reagent supply for USDA ring test.
+dg-publish: true
 ---
 
 ## **Attendees**

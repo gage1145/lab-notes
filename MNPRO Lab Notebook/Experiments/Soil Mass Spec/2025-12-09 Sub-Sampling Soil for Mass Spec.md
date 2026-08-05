@@ -7,6 +7,7 @@ tags: [experiment]
 project: "[[Soil Mass Spec]]"
 protocols: "[[Soil Prion Extraction]]"
 association: MNPRO
+dg-publish: true
 ---
 
 ## Purpose

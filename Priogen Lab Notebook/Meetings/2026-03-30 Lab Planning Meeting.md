@@ -6,6 +6,7 @@ continued_from:
 association: Priogen
 project:
 summary: Updates on major client orders including MNPROtein shipment to Broad Institute ($7k), incoming samples from British Columbia, Mississippi soils ($50k), and South Dakota contract ($20k). Discussed fundraising progress and personal account updates.
+dg-publish: true
 ---
 
 ## **Attendees**

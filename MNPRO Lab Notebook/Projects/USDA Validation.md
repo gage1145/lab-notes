@@ -8,6 +8,7 @@ status: in-progress
 start: 2025-07-14
 end:
 association: MNPRO
+dg-publish: true
 ---
 
 ## Overview

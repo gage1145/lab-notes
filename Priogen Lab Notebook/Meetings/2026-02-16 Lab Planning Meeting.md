@@ -6,6 +6,7 @@ continued_from: "[[2026-02-09 Lab Planning Meeting]]"
 association: Priogen
 project:
 summary: Lab updates on muscle plate processing, MNPROtein shipment to Spain, Iceland swab arrival, and preparation for Southeast Deer study. Team addressed pH meter calibration and TPWD methods confirmation.
+dg-publish: true
 ---
 
 ## **Attendees**

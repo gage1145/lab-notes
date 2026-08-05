@@ -10,6 +10,7 @@ association: Priogen
 protocols:
   - "[[Skin RT-QuIC]]"
   - "[[Soil RT-QuIC]]"
+dg-publish: true
 ---
 
 ## Purpose

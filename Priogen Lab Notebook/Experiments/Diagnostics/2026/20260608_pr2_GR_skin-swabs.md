@@ -10,6 +10,7 @@ association: Priogen
 protocols:
   - "[[Skin RT-QuIC]]"
   - "[[Swab RT-QuIC]]"
+dg-publish: true
 ---
 
 ## Purpose

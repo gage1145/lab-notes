@@ -6,6 +6,7 @@ continued_from: "[[2026-06-01 Wolf Lab Meeting]]"
 association: MNPRO
 project:
 summary: Team updates on grant proposals (USDA submission), CWD modeling and management work, human contribution to CWD spread research, and USDA manuscript optimization. Sample processing underway including blood, deer capture samples, and fecal analysis. Soil mass spec results and quicR demo expected this week.
+dg-publish: true
 ---
 
 ## **Attendees**

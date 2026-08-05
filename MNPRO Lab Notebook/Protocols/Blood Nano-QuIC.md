@@ -6,6 +6,7 @@ tags: [protocol]
 association: MNPRO
 time: 72hr
 alters: "[[Blood RT-QuIC]]"
+dg-publish: true
 ---
 
 ## Equipment

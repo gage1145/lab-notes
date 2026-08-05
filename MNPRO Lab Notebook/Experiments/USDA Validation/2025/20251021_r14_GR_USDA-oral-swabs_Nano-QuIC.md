@@ -8,6 +8,7 @@ project: "[[USDA Validation]]"
 continued_from:
 association: MNPRO
 protocols: "[[Oral Swab Nano-QuIC]]"
+dg-publish: true
 ---
 
 ## Purpose

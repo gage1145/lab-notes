@@ -7,6 +7,7 @@ tags: [experiment]
 project: "[[Soil Mass Spec]]"
 protocols: "[[Spiking Soil with Prions]]"
 association: MNPRO
+dg-publish: true
 ---
 
 ## Purpose

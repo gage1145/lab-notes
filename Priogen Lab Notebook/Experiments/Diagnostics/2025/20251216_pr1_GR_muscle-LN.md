@@ -10,6 +10,7 @@ association: Priogen
 protocols:
   - "[[Priogen Lab Notebook/Protocols/Tissue Nano-QuIC|Tissue Nano-QuIC]]"
   - "[[Muscle Nano-QuIC]]"
+dg-publish: true
 ---
 
 ## Purpose

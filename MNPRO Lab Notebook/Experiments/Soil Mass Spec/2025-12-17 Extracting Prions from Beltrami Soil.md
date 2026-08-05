@@ -8,6 +8,7 @@ project: "[[Soil Mass Spec]]"
 continued_from: "[[2025-12-09 Sub-Sampling Soil for Mass Spec]]"
 association: MNPRO
 protocols: "[[Soil Prion Extraction]]"
+dg-publish: true
 ---
 
 ## Purpose

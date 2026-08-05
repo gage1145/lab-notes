@@ -8,6 +8,7 @@ project: "[[Soil Mass Spec]]"
 continued_from: "[[2026-04-07 Spiking Soil for Mass Spec]]"
 association: MNPRO
 protocols: "[[Soil Prion Extraction]]"
+dg-publish: true
 ---
 
 ## Purpose

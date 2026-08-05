@@ -11,6 +11,7 @@ association: Priogen
 duration:
 funding agency:
 funding code:
+dg-publish: true
 ---
 
 ## Overview

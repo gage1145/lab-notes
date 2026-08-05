@@ -8,6 +8,7 @@ project: "[[PrioVision]]"
 continued_from:
 protocols:
 association: Priogen
+dg-publish: true
 ---
 
 ## Purpose

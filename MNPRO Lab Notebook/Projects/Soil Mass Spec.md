@@ -12,6 +12,7 @@ duration: 3 years
 funding agency:
 funding code:
 title:
+dg-publish: true
 ---
 
 ## Overview

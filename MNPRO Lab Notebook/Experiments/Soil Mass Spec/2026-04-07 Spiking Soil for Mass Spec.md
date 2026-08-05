@@ -8,6 +8,7 @@ project: "[[Soil Mass Spec]]"
 continued_from:
 association: MNPRO
 protocols: "[[Spiking Soil with Prions]]"
+dg-publish: true
 ---
 
 ## Purpose

@@ -6,6 +6,7 @@ continued_from: "[[2026-03-23 Wolf Lab Meeting]]"
 association: MNPRO
 project:
 summary: Discussion of aquatic invasive species management paper, focusing on network analysis methods to identify risky boat movements between infested and uninfested lakes.
+dg-publish: true
 ---
 
 ## **Attendees**

@@ -6,6 +6,7 @@ tags: [protocol]
 association: MNPRO
 time: 30min
 alters:
+dg-publish: true
 ---
 
 ## Equipment

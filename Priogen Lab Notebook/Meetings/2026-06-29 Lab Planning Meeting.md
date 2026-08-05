@@ -6,6 +6,7 @@ continued_from: "[[2026-06-29 Lab Planning Meeting]]"
 association: Priogen
 project:
 summary:
+dg-publish: true
 ---
 
 ## **Attendees**

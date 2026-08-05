@@ -8,6 +8,7 @@ project: "[[USDA Validation]]"
 continued_from:
 association: MNPRO
 protocols:
+dg-publish: true
 ---
 
 ## Purpose

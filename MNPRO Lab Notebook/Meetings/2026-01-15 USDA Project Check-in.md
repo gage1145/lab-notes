@@ -6,6 +6,7 @@ continued_from:
 association: MNPRO
 summary: USDA validation project check-in with team leads and collaborators.
 project: "[[USDA Validation]]"
+dg-publish: true
 ---
 
 ## **Attendees**

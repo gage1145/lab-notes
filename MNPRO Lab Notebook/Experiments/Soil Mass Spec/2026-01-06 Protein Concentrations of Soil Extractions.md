@@ -8,6 +8,7 @@ project: "[[Soil Mass Spec]]"
 continued_from: "[[2025-12-17 Extracting Prions from Beltrami Soil]]"
 association: MNPRO
 protocols: "[[Soil Prion Extraction]]"
+dg-publish: true
 ---
 
 ## Purpose

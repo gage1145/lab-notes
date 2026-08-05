@@ -4,6 +4,7 @@ author: Gage Rowden
 date created: 2025-09-29
 tags: [protocol]
 association: Priogen
+dg-publish: true
 ---
 
 ## Equipment

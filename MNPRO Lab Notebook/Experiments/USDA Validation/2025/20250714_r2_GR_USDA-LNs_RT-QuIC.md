@@ -9,6 +9,7 @@ continued_from:
 association: MNPRO
 protocols:
   - "[[MNPRO Lab Notebook/Protocols/Tissue RT-QuIC]]"
+dg-publish: true
 ---
 
 ## Purpose

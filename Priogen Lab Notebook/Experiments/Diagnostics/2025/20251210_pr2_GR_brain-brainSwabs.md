@@ -8,6 +8,7 @@ project: "[[Diagnostics]]"
 continued_from:
 protocols: "[[Priogen Lab Notebook/Protocols/Tissue Nano-QuIC]]"
 association: Priogen
+dg-publish: true
 ---
 
 ## Purpose

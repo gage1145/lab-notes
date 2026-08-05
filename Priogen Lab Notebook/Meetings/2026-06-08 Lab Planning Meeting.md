@@ -6,6 +6,7 @@ continued_from: "[[2026-06-01 Lab Planning Meeting]]"
 association: Priogen
 project:
 summary: MSU soil project nearly complete with 70 of 84 plates finished. Multiple sample types arriving this week including colon samples, ears, swabs, and soil. Mammal tissue project with 70 samples discussed with potential sample pooling.
+dg-publish: true
 ---
 
 ## **Attendees**

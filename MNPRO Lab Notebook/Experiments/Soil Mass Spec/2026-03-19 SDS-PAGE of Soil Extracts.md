@@ -8,6 +8,7 @@ project: "[[Soil Mass Spec]]"
 continued_from:
 association: MNPRO
 protocols: "[[SDS-PAGE]]"
+dg-publish: true
 ---
 
 ## Purpose

@@ -8,6 +8,7 @@ project: "[[USDA Validation]]"
 continued_from: "[[20251216_r14_GR_RAMALT_Nano-QuIC]]"
 association: MNPRO
 protocols: "[[Tissue Nano-QuIC]]"
+dg-publish: true
 ---
 
 ## Purpose

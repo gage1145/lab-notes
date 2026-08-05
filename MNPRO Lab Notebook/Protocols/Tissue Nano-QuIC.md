@@ -5,6 +5,7 @@ date created: 2025-12-12
 tags: [protocol]
 association: MNPRO
 alters: "[[MNPRO Lab Notebook/Protocols/Tissue RT-QuIC|Tissue RT-QuIC]]"
+dg-publish: true
 ---
 
 ## Equipment

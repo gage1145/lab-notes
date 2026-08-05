@@ -6,6 +6,7 @@ continued_from: "[[2026-03-30 Lab Planning Meeting]]"
 association: Priogen
 project:
 summary: Lab work overview including mammal brain plate, multiple pending projects (TPWD, Mississippi, South Dakota), and Micro-QuIC design updates. Updates on investor meetings, data collaboration with Kerr, and New Mexico PrioScout partnership plans.
+dg-publish: true
 ---
 
 ## **Attendees**

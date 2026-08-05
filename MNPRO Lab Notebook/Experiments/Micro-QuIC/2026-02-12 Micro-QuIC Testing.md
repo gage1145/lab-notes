@@ -8,6 +8,7 @@ project: "[[Micro-QuIC]]"
 continued_from: "[[2026-02-07 Micro-QuIC Testing]]"
 association: MNPRO
 protocols: "[[MNPRO Lab Notebook/Protocols/Tissue RT-QuIC]]"
+dg-publish: true
 ---
 
 ## Purpose

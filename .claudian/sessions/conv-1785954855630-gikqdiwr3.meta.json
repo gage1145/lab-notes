@@ -1,0 +1,24 @@
+{
+  "id": "conv-1785954855630-gikqdiwr3",
+  "providerId": "claude",
+  "title": "# Add dg-publish: true to Lab Notebook Frontmat...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785954855631,
+  "updatedAt": 1785959777589,
+  "lastResponseAt": 1785959777589,
+  "sessionId": "53208886-9163-420c-a8b5-f484095ce2a9",
+  "providerState": {
+    "providerSessionId": "53208886-9163-420c-a8b5-f484095ce2a9"
+  },
+  "currentNote": "MNPRO Lab Notebook/Experiments/Beltrami PPE Swabs/20250304_r3_GR_PPE_swabs.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 720,
+    "cacheReadInputTokens": 38944,
+    "contextWindow": 200000,
+    "contextTokens": 39672,
+    "percentage": 20,
+    "contextWindowIsAuthoritative": true
+  }
+}
