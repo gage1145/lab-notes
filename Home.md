@@ -1,7 +1,6 @@
 ---
 cssclass: home
 dg-publish: true
-dg-home: true
 ---
 
 >[!multi-column]
