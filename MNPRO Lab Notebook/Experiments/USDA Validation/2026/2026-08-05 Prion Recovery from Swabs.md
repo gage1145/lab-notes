@@ -2,7 +2,7 @@
 name: 2026-08-05 Prion Recovery from Swabs
 start_date: 2026-08-05
 end_date: 2026-08-08
-status: in-progress
+status: completed
 tags: [experiment]
 project: "[[USDA Validation]]"
 continued_from:
@@ -56,3 +56,5 @@ All swabs tested at a single dilution factor (10$^{-3}$ for the sake of this stu
 | **H** | $\vee$ | $\vee$ | $\vee$ | $\vee$ | $\vee$ | $\vee$ |  $\vee$   |  $\vee$   |  $\vee$   |  $\vee$  |  $\vee$  |  $\vee$  |
 
 ## Results
+
+![[real_time.png|600]]![[swab_recovery.png|600]]

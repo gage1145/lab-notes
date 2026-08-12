@@ -1,0 +1,9 @@
+.graph-bg-preview-box {
+	width: 100%;
+	height: 140px;
+	border-radius: 8px;
+	border: 1px solid var(--background-modifier-border);
+	background-color: var(--background-secondary);
+	background-position: center;
+	margin-bottom: 12px;
+}

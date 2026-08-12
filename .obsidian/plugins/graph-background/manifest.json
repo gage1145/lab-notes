@@ -1,0 +1,9 @@
+{
+  "id": "graph-background",
+  "name": "Graph Background",
+  "version": "1.0.3",
+  "minAppVersion": "1.4.0",
+  "description": "Customize the background of the global and local graph views with a solid color, gradient, or image — set it all from the plugin settings.",
+  "author": "You",
+  "isDesktopOnly": false
+}

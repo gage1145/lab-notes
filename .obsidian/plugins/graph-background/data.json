@@ -1,0 +1,17 @@
+{
+  "backgroundType": "color",
+  "applyToGlobalGraph": true,
+  "applyToLocalGraph": true,
+  "color": "#1e1e2e",
+  "gradientType": "linear",
+  "gradientAngle": 135,
+  "gradientColor1": "#2b2d42",
+  "gradientColor2": "#8d99ae",
+  "imageMode": "vault",
+  "imagePath": "",
+  "imageUrl": "",
+  "imageFit": "cover",
+  "opacity": 100,
+  "dim": 0,
+  "blur": 0
+}

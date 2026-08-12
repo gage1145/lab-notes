@@ -2,7 +2,7 @@
 name: 20260715_r5-r7-r13_GR_pos-dil-series
 start_date: 2026-07-15
 end_date: 2026-07-18
-status: in-progress
+status: completed
 tags: [experiment]
 project: "[[HAL-QuIC]]"
 continued_from:

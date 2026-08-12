@@ -1,13 +1,29 @@
 views:
   - type: table
-    name: Table
-  - type: table
-    name: View
+    name: Experiments
     filters:
       and:
         - file.tags.contains("experiment")
+    groupBy:
+      property: project
+      direction: ASC
     order:
       - file.name
-      - file.backlinks
-      - file.tags
-      - file.links
+      - tags
+      - start_date
+      - protocols
+      - file.embeds
+      - status
+    sort:
+      - property: start_date
+        direction: DESC
+    columnSize:
+      note.tags: 115
+      file.embeds: 273
+  - type: cards
+    name: View 2
+    image: note.project
+    imageFit: contain
+    imageAspectRatio: 0.85
+    markers: bullet
+    indentProperties: false

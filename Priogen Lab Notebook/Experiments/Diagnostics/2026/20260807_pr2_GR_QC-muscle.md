@@ -1,14 +1,13 @@
 ---
-name: 20260715_pr1_GR_soil
-start_date: 2026-07-15
-end_date: 2026-07-17
+name: 20260807_pr2_GR_QC-muscle
+start_date: 2026-08-07
+end_date: 2026-08-10
 status: completed
 tags: [experiment]
 project: "[[Diagnostics]]"
 continued_from:
 association: Priogen
-protocols: "[[Soil RT-QuIC]]"
-dg-publish: true
+protocols: "[[Muscle Nano-QuIC]]"
 ---
 
 ## Purpose
