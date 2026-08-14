@@ -64,5 +64,8 @@
   "minimal-style@@row-hover": true,
   "minimal-style@@table-numbers": false,
   "minimal-style@@ribbon-style": "ribbon-hidden",
-  "minimal-style@@metadata-heading-off": false
+  "minimal-style@@metadata-heading-off": false,
+  "ROS98-Support@@scrollbar-width": 18,
+  "ROS98-Support@@ROS09-lightScheme": "ROS98",
+  "ROS98-Support@@ROS09-darkScheme": "ROS98"
 }
