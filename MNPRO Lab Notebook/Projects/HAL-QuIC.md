@@ -38,12 +38,15 @@ SORT Date DESC
 Spontaneous nucleation $k_{n}$ is highly variable and introduces massive error into mathematical models. To isolate $k_{g}$ and $k_{f}$, biophysicists bypass nucleation entirely by adding a known concentration of pre-formed polymer seeds $P_{0}$ into a solution of native monomer $M_{0}$.
 
 As derived previously, at early time steps where $M(t)\approx M_0$, the system simplifies to:
+
 $$\frac{d^{2}Z}{dt^{2}}=k_{g}k_{f}M_{0}Z$$
 
 The explicit solution for the total mass of polymerized protein $Z(t)$ under these initial conditions is:
+
 $$Z(t)=Z_0\cosh(\kappa t)+\frac{k_gM_0P_0}{\kappa }\sinh (\kappa t)$$
 
 Where $\kappa$ is the effective kinetic propagation constant:
+
 $$\kappa =\sqrt{k_{g}k_{f}M_{0}}$$
 
 **How to calculate $\kappa$ experimentally:**
@@ -70,6 +73,7 @@ To separate them completely, you must physically vary the fragmentation rate. By
 If you start a reaction with zero pre-formed seeds $P_0 = 0$, the protein must undergo a series of unfavorable monomer-monomer collisions to form a critical nucleus of size $n$.
 
 The initial rate of polymer mass formation directly following the lag phase depends heavily on the initial monomer pool $M_{0}$. By applying a power-law approximation to the initial phase of unseeded reactions, the mass accumulation simplifies to:
+
 $$Z(t)\approx \frac{1}{n+1!}k_{n}k_{g}^{2}M_{0}^{n+2}t^{n+1}$$
 
 Finding the nucleus size $n$\:
@@ -77,6 +81,7 @@ Finding the nucleus size $n$\:
 To extract the actual number of monomer subunits required to form a stable infectious seed, we take the natural logarithm of both sides:
 
 If you measure the initial rate of polymerization across varying concentrations of native monomer $M_0$ and plot $\ln(\text{Rate})$ vs $\ln(M_0)$, the resulting line has a slope exactly equal to:
+
 $$\text{Slope}=n+2$$
 
 - If the experimental slope is 4, then $n$ = 2 the critical nucleus is a dimer.
