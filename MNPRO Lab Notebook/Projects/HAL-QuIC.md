@@ -57,7 +57,7 @@ $$\kappa =\sqrt{k_{g}k_{f}M_{0}}$$
 
 **Decoupling $k_{g}$ and $k_{f}$:**
 
-Because $/kappa$ is a compound parameter ($\sqrt{k_{g}k_{f}M_{0}}$), you cannot find the individual rates from a single unperturbed growth curve. They must be decoupled using a **monomer-dilution experiment**:
+Because $\kappa$ is a compound parameter ($\sqrt{k_{g}k_{f}M_{0}}$), you cannot find the individual rates from a single unperturbed growth curve. They must be decoupled using a **monomer-dilution experiment**:
 
 1. Run multiple seeded reactions across a gradient of different initial monomer concentrations $M_0$.
 2. Calculate the experimental $\kappa$ for each concentration.
