@@ -1,8 +1,8 @@
 ---
 name: 20260820_r9_GR_substrate_dil_series
-start_date: 2026-08-20
-end_date: 2026-08-21
-status: failed
+start_date: 2026-08-21
+end_date: 2026-08-24
+status: in-progress
 tags: [experiment]
 project: "[[HAL-QuIC]]"
 continued_from:
@@ -12,7 +12,13 @@ protocols: "[[Tissue RT-QuIC]]"
 
 ## Purpose
 
+This is the re-do of [[20260820_r9_GR_substrate_dil_series]].
+
 ## Design
+
+I watched R2-D2 the entire time. Ended up having to pipette the 2uL of seed by hand.
+
+Also, I wouldn't be surprised if the first 4 columns aren't consistent. I need to adjust the pipetting settings on the liquid handler.
 
 ### Substrate Concentrations (ug/uL)
 
@@ -29,4 +35,3 @@ protocols: "[[Tissue RT-QuIC]]"
 
 ## Results
 
-I think the liquid handler fucked up. I redid the experiment watching R2-D2 the whole time, and it definitely wasn't dispensing the seed material correctly. Also, at the low HaPrP concentrations, it wasn't dispensing at all. Pretty sure the first 4 columns didn't really get any HaPrP.
