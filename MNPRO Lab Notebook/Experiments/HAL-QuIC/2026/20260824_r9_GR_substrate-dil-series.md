@@ -1,8 +1,8 @@
 ---
 name: 20260820_r9_GR_substrate_dil_series
-start_date: 2026-08-21
-end_date: 2026-08-24
-status: failed
+start_date: 2026-08-24
+end_date: 2026-08-27
+status: in-progress
 tags: [experiment]
 project: "[[HAL-QuIC]]"
 continued_from:
@@ -12,13 +12,9 @@ protocols: "[[Tissue RT-QuIC]]"
 
 ## Purpose
 
-This is the re-do of [[20260820_r9_GR_substrate_dil_series]].
+This is the re-do of [[20260821_r9_GR_substrate-dil-series]].
 
 ## Design
-
-I watched R2-D2 the entire time. Ended up having to pipette the 2uL of seed by hand.
-
-Also, I wouldn't be surprised if the first 4 columns aren't consistent. I need to adjust the pipetting settings on the liquid handler.
 
 ### Substrate Concentrations (ug/uL)
 
@@ -34,9 +30,3 @@ Also, I wouldn't be surprised if the first 4 columns aren't consistent. I need t
 | **H** | $\vee$ | $\vee$ | $\vee$ | $\vee$ | $\vee$ | $\vee$ | $\vee$ | $\vee$ | $\vee$ | $\vee$ | $\vee$ | $\vee$ |
 
 ## Results
-
-Once again this failed because I didn't set the gain on the instrument. No curves could be detected. I did a spot check at the end, and the higher substrate concentration wells did have higher fluorescent values.
-
-Interestingly, the absorbance values didn't really change, and there is no gain value that needs to be set for that measurement. I think that because the protein concentration isn't actually changing in the well, I might not be able to detect the actual change in soluble protein without spinning down the fibrils.
-
-I will re-do this experiment with the appropriate gain setting of 1000 next.

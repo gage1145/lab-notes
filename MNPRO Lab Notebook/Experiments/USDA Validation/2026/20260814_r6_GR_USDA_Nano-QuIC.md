@@ -2,7 +2,7 @@
 name: 20260814_r6_GR_USDA_Nano-QuIC
 start_date: 2026-08-14
 end_date: 2026-08-17
-status: in-progress
+status: completed
 tags: [experiment]
 project: "[[USDA Validation]]"
 continued_from:

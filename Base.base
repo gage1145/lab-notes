@@ -1,19 +1,20 @@
 views:
   - type: table
-    name: Experiments
+    name: MNPRO Experiments
     filters:
       and:
         - file.tags.contains("experiment")
+        - association == "MNPRO"
     groupBy:
       property: project
       direction: ASC
     order:
       - file.name
-      - tags
       - start_date
       - protocols
       - file.embeds
       - status
+      - association
     sort:
       - property: start_date
         direction: DESC
