@@ -1,7 +1,7 @@
 ---
 name: 2026-08-24 Lab Planning Meeting
 date: 2026-08-24
-tags: meeting
+tags: [meeting]
 continued_from:
 association: Priogen
 project:
