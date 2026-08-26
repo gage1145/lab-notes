@@ -2,8 +2,9 @@
 name: 20260820_r9_GR_substrate_dil_series
 start_date: 2026-08-24
 end_date: 2026-08-27
-status: in-progress
-tags: [experiment]
+status: completed
+tags:
+  - experiment
 project: "[[HAL-QuIC]]"
 continued_from:
 association: MNPRO
@@ -30,3 +31,4 @@ This is the re-do of [[20260821_r9_GR_substrate-dil-series]].
 | **H** | $\vee$ | $\vee$ | $\vee$ | $\vee$ | $\vee$ | $\vee$ | $\vee$ | $\vee$ | $\vee$ | $\vee$ | $\vee$ | $\vee$ |
 
 ## Results
+

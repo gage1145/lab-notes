@@ -2,7 +2,7 @@
 name: Rodent CWD
 author: Gage Rowden
 date created: 2026-08-25
-tags: project
+tags: [project]
 abbreviation: GR
 status: in-progress
 start: 2026-08-25
@@ -12,6 +12,7 @@ duration: 3 years
 funding agency:
 funding code:
 ---
+
 ## Overview
 
 ## Experiments
