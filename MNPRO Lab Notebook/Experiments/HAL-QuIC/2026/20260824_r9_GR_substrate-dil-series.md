@@ -3,8 +3,7 @@ name: 20260820_r9_GR_substrate_dil_series
 start_date: 2026-08-24
 end_date: 2026-08-27
 status: completed
-tags:
-  - experiment
+tags: [experiment]
 project: "[[HAL-QuIC]]"
 continued_from:
 association: MNPRO
