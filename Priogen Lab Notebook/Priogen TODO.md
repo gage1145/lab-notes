@@ -20,3 +20,7 @@
 - [x] Report for order 1092 ✅ 2026-04-21
 - [x] Report for order 1117
 - [x] Make new buffer A ✅ 2026-08-05
+- [ ] Generate QC report
+- [ ] Buffer A protocol
+- [ ] QC sheet protocol
+- [ ] Figure out why files aren't uploading to PriLIMS
